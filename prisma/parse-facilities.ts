@@ -1,5 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
+import { slugify } from "../lib/slug";
 
 export const SOURCE_PATH = path.join(
   process.cwd(),
@@ -68,14 +69,6 @@ function splitTopLevel(s: string): string[] {
   return parts.filter(Boolean);
 }
 
-function slugify(name: string): string {
-  return name
-    .toLowerCase()
-    .replace(/\(.*?\)/g, "")
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/(^-+|-+$)/g, "");
-}
-
 function parseAddress(raw: string | undefined): { city: string; zip: string | null } {
   if (!raw) return { city: "", zip: null };
   // Zip must immediately follow "IL" (possibly with a hyphenated +4) to avoid
@@ -94,7 +87,12 @@ function parseCapacity(raw: string | undefined): { capacity: number | null; note
 
 function parsePrice(raw: string | undefined): { priceMin: number | null; note: string | null; estimate: boolean } {
   if (!raw) return { priceMin: null, note: null, estimate: true };
-  const m = raw.match(/\$([\d,]+)/);
+  // CCRCs often list a large one-time entrance fee alongside a much smaller
+  // recurring monthly fee (e.g. "entrance fee from ~$243,800 ... monthly from
+  // ~$3,435"). Prefer the figure tagged "monthly" so we never surface an
+  // entrance fee as if it were the monthly rate.
+  const monthlyMatch = raw.match(/monthly[^$]*\$([\d,]+)/i);
+  const m = monthlyMatch ?? raw.match(/\$([\d,]+)/);
   const priceMin = m ? parseInt(m[1].replace(/,/g, ""), 10) : null;
   const estimate = !/facility-stated/i.test(raw);
   return { priceMin, note: raw, estimate };
