@@ -1,0 +1,91 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Get a free hosted Postgres database in seconds: `npx create-db`
+
+generator client {
+  provider = "prisma-client"
+  output   = "../lib/generated/prisma"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+enum Tier {
+  FREE
+  FEATURED
+}
+
+enum ListingStatus {
+  PUBLISHED
+  PENDING
+}
+
+model Facility {
+  id               String        @id @default(cuid())
+  name             String
+  slug             String        @unique
+  address          String?
+  city             String
+  zip              String?
+  county           String
+  lat              Float?
+  lng              Float?
+  phone            String?
+  website          String?
+  email            String?
+  careLevels       Json // string[]
+  license          String? // raw license line as sourced; deliberately not over-parsed
+  licenseVerified  Boolean       @default(false) // true only when a license # is present and not marked (verify)
+  capacity         Int? // best-effort parsed unit/bed count, see capacityNote for full text
+  capacityNote     String?
+  priceMin         Int?
+  priceNote        String?
+  priceEstimate    Boolean       @default(true) // false only when price is facility-stated, not an aggregator figure
+  medicaidAccepted Boolean       @default(false)
+  roomTypes        Json? // string[]
+  amenities        Json? // string[]
+  awards           Json? // string[]
+  yearOpened       Int?
+  operator         String?
+  summary          String?
+  flags            String? // inspection/complaint/financial concerns, verbatim from source
+  qualityTier      String? // vetting classification ("Tier 1", "Tier 2", "Affordable/Medicaid") -- NOT the paid tier below
+  tier             Tier          @default(FREE) // paid product tier (business model)
+  verified         Boolean       @default(false) // paid "Verified" trust badge
+  photos           Json? // string[], gated by tier
+  status           ListingStatus @default(PUBLISHED)
+  reviews          Review[]
+  leads            Lead[]
+  createdAt        DateTime      @default(now())
+  updatedAt        DateTime      @updatedAt
+
+  @@index([county])
+  @@index([tier])
+}
+
+model Review {
+  id         String   @id @default(cuid())
+  facilityId String
+  facility   Facility @relation(fields: [facilityId], references: [id], onDelete: Cascade)
+  platform   String
+  score      Float?
+  count      Int?
+  note       String?
+
+  @@index([facilityId])
+}
+
+model Lead {
+  id         String   @id @default(cuid())
+  facilityId String
+  facility   Facility @relation(fields: [facilityId], references: [id], onDelete: Cascade)
+  name       String
+  email      String
+  phone      String?
+  message    String?
+  createdAt  DateTime @default(now())
+
+  @@index([facilityId])
+}
