@@ -1,9 +1,8 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Container } from "@/components/Container";
-import { InquiryForm } from "@/components/InquiryForm";
 import { getFacilityBySlug } from "@/lib/facilities";
-import { formatPrice, telHref, websiteHref } from "@/lib/format";
+import { formatPrice, googleMapsHref, telHref, websiteHref } from "@/lib/format";
 
 function asStringArray(value: unknown): string[] {
   return Array.isArray(value) ? (value as string[]) : [];
@@ -39,6 +38,7 @@ export default async function FacilityDetailPage({
   const price = formatPrice(facility.priceMin, facility.priceEstimate);
   const phoneHref = telHref(facility.phone);
   const siteHref = websiteHref(facility.website);
+  const mapsHref = googleMapsHref(facility.address, facility.city, facility.county);
 
   return (
     <Container className="py-8">
@@ -196,14 +196,19 @@ export default async function FacilityDetailPage({
                   Visit website
                 </a>
               )}
+              <a
+                href={mapsHref}
+                target="_blank"
+                rel="noopener noreferrer nofollow"
+                className="flex min-h-11 items-center justify-center rounded-lg border border-slate-300 px-4 text-sm font-semibold text-slate-700"
+              >
+                View on Google Maps
+              </a>
             </div>
 
-            <h2 className="mt-5 text-sm font-bold uppercase tracking-wide text-slate-500">
-              Request info
-            </h2>
-            <div className="mt-3">
-              <InquiryForm facilityId={facility.id} facilityName={facility.name} />
-            </div>
+            {facility.address && (
+              <p className="mt-4 text-sm text-slate-600">{facility.address}</p>
+            )}
           </div>
         </div>
       </div>

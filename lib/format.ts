@@ -14,3 +14,8 @@ export function websiteHref(website: string | null): string | null {
   if (!website) return null;
   return website.startsWith("http") ? website : `https://${website}`;
 }
+
+export function googleMapsHref(address: string | null, city: string, county: string): string {
+  const query = address ?? `${city}, ${county} County, IL`;
+  return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
+}
