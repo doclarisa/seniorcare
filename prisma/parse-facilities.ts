@@ -85,6 +85,14 @@ function parseCapacity(raw: string | undefined): { capacity: number | null; note
   return { capacity: m ? parseInt(m[1], 10) : null, note: raw };
 }
 
+function parseWebsite(raw: string | undefined): string | null {
+  if (!raw) return null;
+  // Source lines sometimes append an operator annotation after the domain,
+  // e.g. "mylivingchoice.com (Senior Lifestyle / Autumn Green)". Strip a
+  // trailing parenthetical so the field is a bare, clickable URL.
+  return raw.replace(/\s*\([^)]*\)\s*$/, "").trim() || null;
+}
+
 function parsePrice(raw: string | undefined): { priceMin: number | null; note: string | null; estimate: boolean } {
   if (!raw) return { priceMin: null, note: null, estimate: true };
   // CCRCs often list a large one-time entrance fee alongside a much smaller
@@ -252,7 +260,7 @@ export function parseFacilities(): ParsedFacility[] {
         zip,
         county: block.county,
         phone: fields["phone"] ?? null,
-        website: fields["website"] ?? null,
+        website: parseWebsite(fields["website"]),
         email: fields["email"] ?? null,
         careLevels: splitTopLevel(fields["care levels"] ?? ""),
         roomTypes: splitTopLevel(fields["room types"] ?? ""),

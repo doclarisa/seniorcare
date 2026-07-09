@@ -65,7 +65,7 @@ export function FacilityCard({ facility }: { facility: Facility }) {
           <p className="line-clamp-2 text-sm text-slate-600">{facility.summary}</p>
         )}
 
-        <div className="mt-auto flex flex-col gap-3 pt-2 sm:flex-row sm:items-center sm:justify-between">
+        <div className="mt-auto flex flex-col gap-2 pt-2">
           {price ? (
             <p className="text-sm font-semibold text-slate-800">{price}</p>
           ) : (
@@ -75,14 +75,14 @@ export function FacilityCard({ facility }: { facility: Facility }) {
             {phoneHref && (
               <a
                 href={phoneHref}
-                className="flex min-h-11 flex-1 items-center justify-center rounded-lg border border-teal-800 px-4 text-sm font-semibold text-teal-800 sm:flex-none"
+                className="flex min-h-11 flex-1 items-center justify-center rounded-lg border border-teal-800 px-4 text-sm font-semibold text-teal-800"
               >
                 Call
               </a>
             )}
             <Link
               href={`/facility/${facility.slug}`}
-              className="flex min-h-11 flex-1 items-center justify-center rounded-lg bg-teal-800 px-4 text-sm font-semibold text-white sm:flex-none"
+              className="flex min-h-11 flex-1 items-center justify-center rounded-lg bg-teal-800 px-4 text-sm font-semibold text-white"
             >
               View details
             </Link>

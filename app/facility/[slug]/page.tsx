@@ -74,7 +74,11 @@ export default async function FacilityDetailPage({
             </div>
           )}
 
-          {facility.summary && <p className="mt-4 text-slate-700">{facility.summary}</p>}
+          {facility.summary && (
+            <p className="mt-4 rounded-lg bg-amber-50 p-3 text-slate-700 sm:bg-transparent sm:p-0">
+              {facility.summary}
+            </p>
+          )}
 
           {careLevels.length > 0 && (
             <div className="mt-6">
@@ -89,13 +93,14 @@ export default async function FacilityDetailPage({
             </div>
           )}
 
+          {price && (
+            <div className="mt-6 rounded-lg bg-emerald-50 p-3 sm:bg-transparent sm:p-0">
+              <p className="text-sm font-bold uppercase tracking-wide text-slate-500">Price</p>
+              <p className="mt-1 text-slate-800">{price}</p>
+            </div>
+          )}
+
           <dl className="mt-6 grid grid-cols-1 gap-4 sm:grid-cols-2">
-            {price && (
-              <div>
-                <dt className="text-sm font-bold uppercase tracking-wide text-slate-500">Price</dt>
-                <dd className="mt-1 text-slate-800">{price}</dd>
-              </div>
-            )}
             {facility.capacityNote && (
               <div>
                 <dt className="text-sm font-bold uppercase tracking-wide text-slate-500">Capacity</dt>
@@ -140,7 +145,7 @@ export default async function FacilityDetailPage({
           )}
 
           {facility.reviews.length > 0 && (
-            <div className="mt-6">
+            <div className="mt-6 rounded-lg bg-sky-50 p-3 sm:bg-transparent sm:p-0">
               <h2 className="text-sm font-bold uppercase tracking-wide text-slate-500">Reviews & recognition</h2>
               <ul className="mt-2 space-y-1 text-slate-700">
                 {facility.reviews.map((r) => (
