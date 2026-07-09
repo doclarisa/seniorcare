@@ -48,3 +48,6 @@ next-env.d.ts
 *.db-journal
 
 .env*.local
+
+# crawler run logs (not a deliverable)
+data/**/*.log
