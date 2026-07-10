@@ -1,0 +1,190 @@
+[
+  {
+    "name": "BICKFORD - OSWEGO COTTAGE",
+    "slug": "bickford-oswego-cottage-oswego",
+    "address": "3712 Grove Rd",
+    "addressKey": "3712 GROVE RD|60543",
+    "city": "Oswego",
+    "county": "Kendall",
+    "region": null,
+    "zip": "60543",
+    "lat": 41.668036623518,
+    "lng": -88.34709539511,
+    "phone": "(630) 554-8811",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021086",
+      "licenseStatus": "Active",
+      "units": 42,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 14,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/22/2026 (Annual Licensure Only Survey). IDPH's record shows 6 surveys on file, including 2 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CEDARHURST OF YORKVILLE",
+    "slug": "cedarhurst-of-yorkville-yorkville",
+    "address": "4040 Cannonball Trail",
+    "addressKey": "4040 CANNONBALL TRL|60560",
+    "city": "Yorkville",
+    "county": "Kendall",
+    "region": null,
+    "zip": "60560",
+    "lat": 41.661154153354,
+    "lng": -88.458559511356,
+    "phone": "(630) 381-8680",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021936",
+      "licenseStatus": "Active",
+      "units": 53,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 20,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/11/2026 (Facility Reported Incident). IDPH's record shows 3 surveys on file, including 2 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Heritage Woods of Yorkville",
+    "slug": "heritage-woods-of-yorkville-yorkville",
+    "address": "242 Green Briar Road",
+    "addressKey": "242 GREEN BRIAR RD|60560",
+    "city": "Yorkville",
+    "county": "Kendall",
+    "region": null,
+    "zip": "60560",
+    "lat": 41.624976649947,
+    "lng": -88.452468441786,
+    "phone": "630-882-6502",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "HILLSIDE REHAB & CARE CENTER",
+    "slug": "hillside-rehab-care-center-yorkville",
+    "address": "1308 GAME FARM ROAD",
+    "addressKey": "1308 GAME FARM RD|60560",
+    "city": "Yorkville",
+    "county": "Kendall",
+    "region": null,
+    "zip": "60560",
+    "lat": 41.658,
+    "lng": -88.451,
+    "phone": "6305535811",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145609",
+      "certifiedBeds": 79,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 2,
+        "staffing": 2,
+        "quality": 1
+      },
+      "deficiencyCount": 15,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 2 stars, staffing: 2 stars, quality measures: 1 stars). The most recent standard health inspection identified 15 deficiencies. CMS records 4 penalties against this facility, including 3 fines totaling $158,570.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "PEARL AT THE TILLERS",
+    "slug": "pearl-at-the-tillers-oswego",
+    "address": "4390 ROUTE 71",
+    "addressKey": "4390 ROUTE 71|60543",
+    "city": "Oswego",
+    "county": "Kendall",
+    "region": null,
+    "zip": "60543",
+    "lat": 41.6788,
+    "lng": -88.346,
+    "phone": "6305541001",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146034",
+      "certifiedBeds": 105,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 2,
+        "quality": 5
+      },
+      "deficiencyCount": 7,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 2 stars, quality measures: 5 stars). The most recent standard health inspection identified 7 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  }
+]

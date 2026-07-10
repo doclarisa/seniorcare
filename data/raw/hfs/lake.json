@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Allure Active Living of Zion",
+    "rawAddress": "3521 16th Street",
+    "city": "Zion",
+    "zip": "60099",
+    "phone": "(847) 746-2147",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Allure Active Living of Zion DCS",
+    "rawAddress": "3521 16th Street",
+    "city": "Zion",
+    "zip": "60099",
+    "phone": "(847) 746-2147",
+    "dementiaCare": true,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Barton Senior Residences of Zion",
+    "rawAddress": "3500 Sheridan Road",
+    "city": "Zion",
+    "zip": "60099",
+    "phone": "(847) 872-1500",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Evolve at Lake Zurich",
+    "rawAddress": "795 North Rand Road",
+    "city": "Lake Zurich",
+    "zip": "60047",
+    "phone": "(847) 307-7765",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Heritage Woods of Gurnee",
+    "rawAddress": "3775 Grand Avenue",
+    "city": "Gurnee",
+    "zip": "60031",
+    "phone": "(847) 623-6300",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Oak Hill SLF",
+    "rawAddress": "76 East Rollins Road",
+    "city": "Round Lake Beach",
+    "zip": "60073",
+    "phone": "(847) 201-1100",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Stonebridge of Gurnee",
+    "rawAddress": "5980 Washington Street",
+    "city": "Gurnee",
+    "zip": "60031",
+    "phone": "(847) 596-3211",
+    "dementiaCare": false,
+    "populationServedNote": "*Serves individuals with physical disabilities ages 22-64",
+    "website": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Pointe at  Algonquin, The",
+    "rawAddress": "101 Eastgate Court",
+    "city": "Algonquin",
+    "zip": "60102",
+    "phone": "847-458-2800",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Heritage Woods of McHenry",
+    "rawAddress": "4609 West Crystal Lake Road",
+    "city": "McHenry",
+    "zip": "60050",
+    "phone": "815-344-2690",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  }
+]

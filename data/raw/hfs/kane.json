@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Alden Gardens of Waterford",
+    "rawAddress": "1955 Randi Drive",
+    "city": "Aurora",
+    "zip": "60504",
+    "phone": "(630) 851-1880",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Asbury Gardens",
+    "rawAddress": "210 Airport Road",
+    "city": "North Aurora",
+    "zip": "60542",
+    "phone": "(630) 896-7778",
+    "dementiaCare": true,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Deer Path Supportive Living",
+    "rawAddress": "12500 Regency Parkway",
+    "city": "Huntley",
+    "zip": "60142",
+    "phone": "(847) 515-1800",
+    "dementiaCare": false,
+    "populationServedNote": "*Serves individuals with physical disabilities ages 22-64",
+    "website": "http://www.bma-mgmt.com/deerpathhuntley/"
+  },
+  {
+    "name": "Eden Supportive Living North Aurora",
+    "rawAddress": "311 South Lincolnway",
+    "city": "North Aurora",
+    "zip": "60542",
+    "phone": "(630) 929-3333",
+    "dementiaCare": false,
+    "populationServedNote": "*Serves individuals with physical disabilities ages 22-64",
+    "website": null
+  },
+  {
+    "name": "Heritage Woods of Batavia",
+    "rawAddress": "1079 East Wilson Street",
+    "city": "Batavia",
+    "zip": "60510",
+    "phone": "(630) 406-9440",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": "http://bma-mgmt.com/"
+  },
+  {
+    "name": "Heritage Woods of South Elgin",
+    "rawAddress": "700 Noth McLean Boulevard",
+    "city": "South Elgin",
+    "zip": "60117",
+    "phone": "(847) 531-8360",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Vistas Fox Valley",
+    "rawAddress": "1599 Farnsworth, Aurora, IL 60505",
+    "city": "1599 Farnsworth, Aurora",
+    "zip": "60505",
+    "phone": "(630) 898-9400",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "White Oaks Heritage Woods of South Elgin",
+    "rawAddress": "700 North McLean Boulevard",
+    "city": "South Elgin",
+    "zip": "60177",
+    "phone": "(847) 531-8360",
+    "dementiaCare": true,
+    "populationServedNote": null,
+    "website": null
+  }
+]

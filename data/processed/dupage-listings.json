@@ -1,0 +1,2826 @@
+[
+  {
+    "name": "BIRCHES, LLC (THE)",
+    "slug": "birches-llc-clarendon-hills",
+    "address": "215 55th St",
+    "addressKey": "215 55TH ST|60514",
+    "city": "Clarendon Hills",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60514",
+    "lat": 41.78858404103,
+    "lng": -87.953499012753,
+    "phone": "(630) 789-1135",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021178",
+      "licenseStatus": "Active",
+      "units": 58,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 32,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 01/14/2026 (Annual Licensure Only Survey). IDPH's record shows 6 surveys on file, including 1 complaint or incident investigation. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SHERIDAN AT OAK BROOK",
+    "slug": "sheridan-at-oak-brook-oak-brook",
+    "address": "2055 Clearwater Drive",
+    "addressKey": "2055 CLEARWATER DR|60523",
+    "city": "Oak Brook",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60523",
+    "lat": 41.849838356898,
+    "lng": -87.931107266257,
+    "phone": "(630) 394-5116",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025128",
+      "licenseStatus": "Active",
+      "units": 103,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 14,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 05/11/2026 (Complaint Original Investigation). IDPH's record shows 6 surveys on file, including 2 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SUNRISE OF BLOOMINGDALE",
+    "slug": "sunrise-of-bloomingdale-bloomingdale",
+    "address": "129 E Lake St",
+    "addressKey": "129 E LAKE ST|61701",
+    "city": "Bloomingdale",
+    "county": "DuPage",
+    "region": null,
+    "zip": "61701",
+    "lat": 41.957841871354,
+    "lng": -88.078312787375,
+    "phone": "(630) 295-8600",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025503",
+      "licenseStatus": "Active",
+      "units": 64,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 18,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 10/30/2025 (Complaint Original Investigation). IDPH's record shows 8 surveys on file, including 4 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CEDARHURST OF NAPERVILLE",
+    "slug": "cedarhurst-of-naperville-woodridge",
+    "address": "3333 75th Street",
+    "addressKey": "3333 75TH ST|60517",
+    "city": "Woodridge",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60517",
+    "lat": 41.749737896912,
+    "lng": -88.064356225863,
+    "phone": "(630) 442-1525",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021828",
+      "licenseStatus": "Active",
+      "units": 85,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 25,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/06/2026 (Facility Reported Incident). IDPH's record shows 13 surveys on file, including 6 complaint or incident investigations. 6 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SUNRISE OF NAPERVILLE",
+    "slug": "sunrise-of-naperville-naperville",
+    "address": "960 E Chicago Ave",
+    "addressKey": "960 E CHICAGO AVE|60540",
+    "city": "Naperville",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60540",
+    "lat": 41.773249121584,
+    "lng": -88.135771118138,
+    "phone": "(630) 579-1400",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025603",
+      "licenseStatus": "Active",
+      "units": 60,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 16,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/02/2026 (Facility Reported Incident). IDPH's record shows 12 surveys on file, including 7 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ATRIA PARK OF GLEN ELLYN",
+    "slug": "atria-park-of-glen-ellyn-glen-ellyn",
+    "address": "95 Carleton Avenue",
+    "addressKey": "95 CARLETON AVE|60137",
+    "city": "Glen Ellyn",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60137",
+    "lat": 41.864303667682,
+    "lng": -88.053906154955,
+    "phone": "(630) 469-5555",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6020711",
+      "licenseStatus": "Active",
+      "units": 65,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 20,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/16/2026 (Facility Reported Incident). IDPH's record shows 6 surveys on file, including 3 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "STORYPOINT NAPERVILLE",
+    "slug": "storypoint-naperville-naperville",
+    "address": "504 N River Rd",
+    "addressKey": "504 N RIVER RD|60563",
+    "city": "Naperville",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60563",
+    "lat": 41.780804706026,
+    "lng": -88.179475392877,
+    "phone": "(630) 548-4488",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025428",
+      "licenseStatus": "Active",
+      "units": 94,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 13,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/01/2026 (Complaint Original Investigation). IDPH's record shows 11 surveys on file, including 7 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "LILAC HOUSE SENIOR LIVING, LLC",
+    "slug": "lilac-house-senior-living-llc-lisle",
+    "address": "23w571 Warrenville Rd",
+    "addressKey": "23W571 WARRENVILLE RD|60532",
+    "city": "Lisle",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60532",
+    "lat": 41.808239085222,
+    "lng": -88.087030090443,
+    "phone": "(630) 699-0371",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023836",
+      "licenseStatus": "Active",
+      "units": 7,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 10/16/2025 (Annual Licensure Only Survey). IDPH's record shows 3 surveys on file. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "RADCLIFF AT WOOD DALE (THE)",
+    "slug": "radcliff-at-wood-dale-wood-dale",
+    "address": "276 East Irving Park Rd",
+    "addressKey": "276 E IRVING PARK RD|60191",
+    "city": "Wood Dale",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60191",
+    "lat": 41.962481783399,
+    "lng": -87.972331152797,
+    "phone": "(630) 242-2988",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024678",
+      "licenseStatus": "Active",
+      "units": 104,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 42,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 08/12/2025 (Complaint Original Investigation). IDPH's record shows 6 surveys on file, including 4 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "MAPLE GLEN MEMORY CARE",
+    "slug": "maple-glen-memory-care-glen-ellyn",
+    "address": "750 S Park Blvd",
+    "addressKey": "750 S PARK BLVD|60137",
+    "city": "Glen Ellyn",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60137",
+    "lat": 41.832212296017,
+    "lng": -88.066782542988,
+    "phone": "(630) 474-0991",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024036",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 46,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 01/22/2026 (Annual Licensure Only Survey). IDPH's record shows 5 surveys on file, including 3 complaint or incident investigations. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SUNRISE OF FOUNTAIN SQUARE",
+    "slug": "sunrise-of-fountain-square-lombard",
+    "address": "2210 Fountain Square Drive",
+    "addressKey": "2210 FOUNTAIN SQ DR|60148",
+    "city": "Lombard",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60148",
+    "lat": 41.844891608512,
+    "lng": -87.991963882021,
+    "phone": "(630) 953-8990",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025553",
+      "licenseStatus": "Active",
+      "units": 60,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 20,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/26/2026 (Facility Reported Incident). IDPH's record shows 9 surveys on file, including 5 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SUNRISE OF WILLOWBROOK",
+    "slug": "sunrise-of-willowbrook-willowbrook",
+    "address": "6300 Clarendon Hills Road",
+    "addressKey": "6300 CLARENDON HILLS RD|60527",
+    "city": "Willowbrook",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60527",
+    "lat": 41.774029714188,
+    "lng": -87.955240585512,
+    "phone": "(630) 734-9954",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025661",
+      "licenseStatus": "Active",
+      "units": 64,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 18,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 05/31/2026 (Complaint Original Investigation). IDPH's record shows 15 surveys on file, including 11 complaint or incident investigations. 8 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CHURCHILL PLACE MEMORY CARE",
+    "slug": "churchill-place-memory-care-glen-ellyn",
+    "address": "190 Geneva Road",
+    "addressKey": "190 GENEVA RD|60137",
+    "city": "Glen Ellyn",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60137",
+    "lat": null,
+    "lng": null,
+    "phone": "(630) 526-7472",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022103",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 44,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 11/02/2025 (Complaint Original Investigation). IDPH's record shows 8 surveys on file, including 2 complaint or incident investigations. None of the surveys on file show a formal statement of deficiencies (Form 2567) attached.",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BENEDALE CTR-VILLA ST. BENEDICT",
+    "slug": "benedale-ctr-villa-st-benedict-lisle",
+    "address": "1920 Maple Ave",
+    "addressKey": "1920 MAPLE AVE|60532",
+    "city": "Lisle",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60532",
+    "lat": 41.784473843457,
+    "lng": -88.086627955529,
+    "phone": "(630) 725-7020",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6020978",
+      "licenseStatus": "Active",
+      "units": 51,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 14,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/27/2026 (Facility Reported Incident). IDPH's record shows 6 surveys on file, including 2 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ROOSEVELT AT SALT CREEK",
+    "slug": "roosevelt-at-salt-creek-elmhurst",
+    "address": "400 W Butterfield Road",
+    "addressKey": "400 W BUTTERFIELD RD|60126",
+    "city": "Elmhurst",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60126",
+    "lat": 41.863744693882,
+    "lng": -87.952593940358,
+    "phone": "(630) 832-5959",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024978",
+      "licenseStatus": "Active",
+      "units": 51,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 19,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 10/06/2025 (Complaint Original Investigation). IDPH's record shows 5 surveys on file, including 2 complaint or incident investigations. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BRIGHTON GARDENS OF WHEATON",
+    "slug": "brighton-gardens-of-wheaton-wheaton",
+    "address": "831 Butterfield Rd",
+    "addressKey": "831 BUTTERFIELD RD|60189",
+    "city": "Wheaton",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60189",
+    "lat": null,
+    "lng": null,
+    "phone": "(630) 681-1234",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021336",
+      "licenseStatus": "Active",
+      "units": 95,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 21,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/12/2026 (Complaint Original Investigation). IDPH's record shows 14 surveys on file, including 9 complaint or incident investigations. 6 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CORDIA SENIOR RESIDENCE",
+    "slug": "cordia-senior-residence-westmont",
+    "address": "865 N Cass Ave",
+    "addressKey": "865 N CASS AVE|60559",
+    "city": "Westmont",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60559",
+    "lat": 41.816363832475,
+    "lng": -87.976053146003,
+    "phone": "(630) 887-7000",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022261",
+      "licenseStatus": "Active",
+      "units": 116,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 12/10/2025 (Licensure Desk Audit (L/FC, C/FC, L/PV, C/PV)). IDPH's record shows 7 surveys on file, including 3 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ALTO-WHEATON",
+    "slug": "alto-wheaton-wheaton",
+    "address": "219 Parkway Drive",
+    "addressKey": "219 PKWY DR|60187",
+    "city": "Wheaton",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60187",
+    "lat": 41.880843383735,
+    "lng": -88.104920452564,
+    "phone": "(331) 218-1034",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6020203",
+      "licenseStatus": "Active",
+      "units": 64,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 24,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/04/2026 (Facility Reported Incident). IDPH's record shows 7 surveys on file, including 4 complaint or incident investigations. 5 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SUNRISE OF NAPERVILLE NORTH",
+    "slug": "sunrise-of-naperville-north-naperville",
+    "address": "535 W Ogden Ave",
+    "addressKey": "535 W OGDEN AVE|60563",
+    "city": "Naperville",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60563",
+    "lat": 41.785906048042,
+    "lng": -88.156148402928,
+    "phone": "(630) 305-9400",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025611",
+      "licenseStatus": "Active",
+      "units": 44,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 33,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/24/2026 (Annual Licensure Only Survey). IDPH's record shows 4 surveys on file, including 1 complaint or incident investigation. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SILVERADO ST. CHARLES",
+    "slug": "silverado-st-charles-st-charles",
+    "address": "4058 E Main Street",
+    "addressKey": "4058 E MAIN ST|60174",
+    "city": "St Charles",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60174",
+    "lat": null,
+    "lng": null,
+    "phone": "(630) 793-4464",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025186",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 55,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/05/2026 (Facility Reported Incident). IDPH's record shows 10 surveys on file, including 7 complaint or incident investigations. 6 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "LAKEVIEW MEMORY CARE COMMUNITY",
+    "slug": "lakeview-memory-care-community-bloomingdale",
+    "address": "241 E Lake St",
+    "addressKey": "241 E LAKE ST|60108",
+    "city": "Bloomingdale",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60108",
+    "lat": 41.957161472749,
+    "lng": -88.065341374128,
+    "phone": "(847) 466-5183",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023728",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 46,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/14/2026 (Complaint Original Investigation). IDPH's record shows 10 surveys on file, including 5 complaint or incident investigations. 5 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SUNRISE OF WESTMONT",
+    "slug": "sunrise-of-westmont-westmont",
+    "address": "407 West 63rd Street",
+    "addressKey": "407 W 63RD ST|60559",
+    "city": "Westmont",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60559",
+    "lat": null,
+    "lng": null,
+    "phone": "(630) 960-4400",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6020653",
+      "licenseStatus": "Active",
+      "units": 73,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 34,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/20/2026 (Complaint Original Investigation). IDPH's record shows 8 surveys on file, including 5 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BROOKDALE GLEN ELLYN",
+    "slug": "brookdale-glen-ellyn-glen-ellyn",
+    "address": "60 N Nicoll Way",
+    "addressKey": "60 N NICOLL WAY|60137",
+    "city": "Glen Ellyn",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60137",
+    "lat": 41.861080625127,
+    "lng": -88.05624366297,
+    "phone": "(630) 446-1600",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021361",
+      "licenseStatus": "Active",
+      "units": 63,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": 0,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 10/10/2025 (Facility Reported Incident). IDPH's record shows 7 surveys on file, including 4 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "HARBOR CHASE OF NAPERVILLE",
+    "slug": "harbor-chase-of-naperville-naperville",
+    "address": "1619 N Mill Street",
+    "addressKey": "1619 N MILL ST|60503",
+    "city": "Naperville",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60503",
+    "lat": null,
+    "lng": null,
+    "phone": "(630) 778-3475",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023203",
+      "licenseStatus": "Active",
+      "units": 69,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 32,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 05/24/2026 (Complaint Original Investigation). IDPH's record shows 17 surveys on file, including 11 complaint or incident investigations. 7 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "TERRA VISTA OF OAKBROOK TERRACE LLC",
+    "slug": "terra-vista-of-oakbrook-terrace-llc-oakbrook-terrace",
+    "address": "1635 S Ardmore Avenue",
+    "addressKey": "1635 S ARDMORE AVE|60181",
+    "city": "Oakbrook Terrace",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60181",
+    "lat": 41.860403749366,
+    "lng": -87.977846719079,
+    "phone": "(630) 534-0886",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025728",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 106,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/04/2026 (Facility Reported Incident). IDPH's record shows 12 surveys on file, including 5 complaint or incident investigations. 6 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BURR RIDGE SENIOR LIVING",
+    "slug": "burr-ridge-senior-living-burr-ridge",
+    "address": "16W301 91st Street",
+    "addressKey": "16W301 91ST ST|60527",
+    "city": "Burr Ridge",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60527",
+    "lat": 41.723243739493,
+    "lng": -87.94256451295,
+    "phone": "(630) 560-6110",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021511",
+      "licenseStatus": "Active",
+      "units": 60,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 24,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 05/23/2026 (Facility Reported Incident). IDPH's record shows 13 surveys on file, including 8 complaint or incident investigations. 7 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "GOLDEN HAVEN SENIOR LIVING",
+    "slug": "golden-haven-senior-living-addison",
+    "address": "809 N Central Ave",
+    "addressKey": "809 N CENTRAL AVE|60101",
+    "city": "Addison",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60101",
+    "lat": 41.942417564463,
+    "lng": -87.969078991002,
+    "phone": "(331) 305-4408",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023011",
+      "licenseStatus": "Active",
+      "units": 6,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 12/18/2025 (Annual Licensure Only Survey). IDPH's record shows 2 surveys on file. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "PARK PLACE CHRISTIAN COMMUNITY",
+    "slug": "park-place-christian-community-elmhurst",
+    "address": "1150 Euclid Avenue",
+    "addressKey": "1150 EUCLID AVE|60013",
+    "city": "Elmhurst",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60013",
+    "lat": 41.863661094873,
+    "lng": -87.942630831306,
+    "phone": "(630) 936-4106",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024453",
+      "licenseStatus": "Active",
+      "units": 46,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 20,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/26/2026 (Complaint Original Investigation). IDPH's record shows 7 surveys on file, including 2 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SPRINGS AT MONARCH LANDING, THE",
+    "slug": "springs-at-monarch-landing-the-naperville",
+    "address": "2308 N Route 59",
+    "addressKey": "2308 N ROUTE 59|60563",
+    "city": "Naperville",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60563",
+    "lat": 41.8128,
+    "lng": -88.204,
+    "phone": "(630) 300-1200",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care",
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025278",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 28,
+      "ccn": "146173",
+      "certifiedBeds": 96,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 5,
+        "staffing": 5,
+        "quality": 5
+      },
+      "deficiencyCount": 4,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": true,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/27/2026 (Complaint Original Investigation). IDPH's record shows 4 surveys on file, including 2 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567). On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 5 stars, staffing: 5 stars, quality measures: 5 stars). The most recent standard health inspection identified 4 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "IDPH",
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH",
+      "CMS"
+    ],
+    "_sourceRowCount": 2
+  },
+  {
+    "name": "LOMBARD PLACE ASSISTED LIVING & MEMORY CARE",
+    "slug": "lombard-place-assisted-living-memory-care-lombard",
+    "address": "300 West 22nd Street",
+    "addressKey": "300 W 22ND ST|60148",
+    "city": "Lombard",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60148",
+    "lat": 41.845441469481,
+    "lng": -88.020408550978,
+    "phone": "(630) 953-7472",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023928",
+      "licenseStatus": "Active",
+      "units": 61,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 32,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 05/31/2026 (Facility Reported Incident). IDPH's record shows 18 surveys on file, including 9 complaint or incident investigations. 6 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "COVENANT LIVING AT WINDSOR PARK",
+    "slug": "covenant-living-at-windsor-park-carol-stream",
+    "address": "124 Windsor Park Dr",
+    "addressKey": "124 WINDSOR PARK DR|60188",
+    "city": "Carol Stream",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60188",
+    "lat": 41.902414819514,
+    "lng": -88.130764999864,
+    "phone": "(630) 659-4388",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022561",
+      "licenseStatus": "Active",
+      "units": 54,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 18,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/10/2026 (Complaint Original Investigation). IDPH's record shows 7 surveys on file, including 6 complaint or incident investigations. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "OAK TRACE",
+    "slug": "oak-trace-downers-grove",
+    "address": "250 Village Drive",
+    "addressKey": "250 VILLAGE DR|60516",
+    "city": "Downers Grove",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60516",
+    "lat": 41.7666,
+    "lng": -87.992,
+    "phone": "(630) 769-6200",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care",
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024353",
+      "licenseStatus": "Active",
+      "units": 66,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 28,
+      "ccn": "145804",
+      "certifiedBeds": 104,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 5,
+        "quality": 5
+      },
+      "deficiencyCount": 1,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": true,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/16/2026 (Facility Reported Incident). IDPH's record shows 10 surveys on file, including 2 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567). On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 5 stars, quality measures: 5 stars). The most recent standard health inspection identified 1 deficiency. CMS records 1 penalty against this facility, including 1 fine totaling $13,780.",
+      "dataSources": [
+        "IDPH",
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH",
+      "CMS"
+    ],
+    "_sourceRowCount": 2
+  },
+  {
+    "name": "Alden Gardens of Bloomingdale",
+    "slug": "alden-gardens-of-bloomingdale-bloomingdale",
+    "address": "285 East Army Trail Road",
+    "addressKey": "285 E ARMY TRL RD|60108",
+    "city": "Bloomingdale",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60108",
+    "lat": 41.938854154924,
+    "lng": -88.098774075823,
+    "phone": "630-307-7273",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Bridgeway of Bensenville SL DCS",
+    "slug": "bridgeway-of-bensenville-sl-dcs-bensenville",
+    "address": "303 East Washington Street",
+    "addressKey": "303 E WASHINGTON ST|60106",
+    "city": "Bensenville",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60106",
+    "lat": 41.947827341884,
+    "lng": -87.934623677706,
+    "phone": "630-766-0605",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": "65+",
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Franciscan Court",
+    "slug": "franciscan-court-west-chicago",
+    "address": "1996 Franciscan Court",
+    "addressKey": "1996 FRANCISCAN CT|60185",
+    "city": "West Chicago",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60185",
+    "lat": 41.918941179645,
+    "lng": -88.210217645787,
+    "phone": "630-562-4242",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Lacey Creek Supportive Living",
+    "slug": "lacey-creek-supportive-living-downers-grove",
+    "address": "4200 Lacey Road",
+    "addressKey": "4200 LACEY RD|60515",
+    "city": "Downers Grove",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60515",
+    "lat": 41.810927775232,
+    "lng": -88.029423696068,
+    "phone": "630-964-7720",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Tabor Hills Supportive Living Community",
+    "slug": "tabor-hills-supportive-living-community-naperville",
+    "address": "1439 McDowell Road",
+    "addressKey": "1439 MCDOWELL RD|60563",
+    "city": "Naperville",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60563",
+    "lat": 41.796459864802,
+    "lng": -88.196564019771,
+    "phone": "630-778-6677",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "PEARL OF NAPERVILLE, THE",
+    "slug": "pearl-of-naperville-the-naperville",
+    "address": "200 MARTIN AVENUE",
+    "addressKey": "200 MARTIN AVE|60540",
+    "city": "Naperville",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60540",
+    "lat": 41.763,
+    "lng": -88.152,
+    "phone": "6303554111",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145045",
+      "certifiedBeds": 115,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 3,
+        "staffing": 2,
+        "quality": 3
+      },
+      "deficiencyCount": 9,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 3 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 9 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "DUPAGE CARE CENTER",
+    "slug": "dupage-care-center-wheaton",
+    "address": "400 N COUNTY FARM RD",
+    "addressKey": "400 N COUNTY FARM RD|60187",
+    "city": "Wheaton",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60187",
+    "lat": 41.8613,
+    "lng": -88.143,
+    "phone": "6306656400",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145050",
+      "certifiedBeds": 366,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 4,
+        "quality": 5
+      },
+      "deficiencyCount": 7,
+      "ownershipType": "Government - County",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 4 stars, quality measures: 5 stars). The most recent standard health inspection identified 7 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ELMHURST EXTENDED CARE CENTER",
+    "slug": "elmhurst-extended-care-center-elmhurst",
+    "address": "200 EAST LAKE STREET",
+    "addressKey": "200 E LAKE ST|60126",
+    "city": "Elmhurst",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60126",
+    "lat": 41.9112,
+    "lng": -87.936,
+    "phone": "6305165000",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145111",
+      "certifiedBeds": 108,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 1,
+        "staffing": 3,
+        "quality": 2
+      },
+      "deficiencyCount": 14,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 3 stars, quality measures: 2 stars). The most recent standard health inspection identified 14 deficiencies. CMS records 6 penalties against this facility, including 3 fines totaling $192,174.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "WYNSCAPE HEALTH & REHAB",
+    "slug": "wynscape-health-rehab-wheaton",
+    "address": "2180 MANCHESTER ROAD",
+    "addressKey": "2180 MANCHESTER RD|60187",
+    "city": "Wheaton",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60187",
+    "lat": 41.8642,
+    "lng": -88.142,
+    "phone": "6306654330",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145213",
+      "certifiedBeds": 209,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 5,
+        "staffing": 5,
+        "quality": 4
+      },
+      "deficiencyCount": 3,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": true,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 5 stars, staffing: 5 stars, quality measures: 4 stars). The most recent standard health inspection identified 3 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BURGESS SQUARE HEALTHCARE CTR",
+    "slug": "burgess-square-healthcare-ctr-westmont",
+    "address": "5801 SOUTH CASS AVENUE",
+    "addressKey": "5801 S CASS AVE|60559",
+    "city": "Westmont",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60559",
+    "lat": 41.7823,
+    "lng": -87.975,
+    "phone": "6309712645",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145219",
+      "certifiedBeds": 203,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 5,
+        "quality": 4
+      },
+      "deficiencyCount": 10,
+      "ownershipType": "For profit - Partnership",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 5 stars, quality measures: 4 stars). The most recent standard health inspection identified 10 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "PEARL OF HINSDALE, THE",
+    "slug": "pearl-of-hinsdale-the-hinsdale",
+    "address": "600 WEST OGDEN AVENUE",
+    "addressKey": "600 W OGDEN AVE|60521",
+    "city": "Hinsdale",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60521",
+    "lat": 41.8122,
+    "lng": -87.94,
+    "phone": "6303259630",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145246",
+      "certifiedBeds": 202,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 3,
+        "quality": 3
+      },
+      "deficiencyCount": 3,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 3 stars, quality measures: 3 stars). The most recent standard health inspection identified 3 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "WEST SUBURBAN NURSING & REHAB CENTER",
+    "slug": "west-suburban-nursing-rehab-center-bloomingdale",
+    "address": "311 EDGEWATER DRIVE",
+    "addressKey": "311 EDGEWATER DR|60108",
+    "city": "Bloomingdale",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60108",
+    "lat": 41.9424,
+    "lng": -88.066,
+    "phone": "6308947400",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145333",
+      "certifiedBeds": 259,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 2,
+        "staffing": 1,
+        "quality": 3
+      },
+      "deficiencyCount": 19,
+      "ownershipType": "For profit - Partnership",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 2 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 19 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Oakwood Rehab and Nursing Center",
+    "slug": "oakwood-rehab-and-nursing-center-westmont",
+    "address": "512 EAST OGDEN AVENUE",
+    "addressKey": "512 E OGDEN AVE|60559",
+    "city": "Westmont",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60559",
+    "lat": 41.8104,
+    "lng": -87.96,
+    "phone": "6303234400",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145338",
+      "certifiedBeds": 149,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 2,
+        "staffing": 1,
+        "quality": 3
+      },
+      "deficiencyCount": 26,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 2 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 26 deficiencies. CMS records 3 penalties against this facility, including 3 fines totaling $91,964.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "GROVE OF ELMHURST, THE",
+    "slug": "grove-of-elmhurst-the-elmhurst",
+    "address": "127 WEST DIVERSEY",
+    "addressKey": "127 W DIVERSEY|60126",
+    "city": "Elmhurst",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60126",
+    "lat": 41.9282,
+    "lng": -87.94,
+    "phone": "6305305225",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145339",
+      "certifiedBeds": 180,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 3,
+        "staffing": 1,
+        "quality": 4
+      },
+      "deficiencyCount": 15,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 3 stars, staffing: 1 stars, quality measures: 4 stars). The most recent standard health inspection identified 15 deficiencies. CMS records 2 penalties against this facility, including 1 fine totaling $61,031.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ARISTA HEALTHCARE",
+    "slug": "arista-healthcare-naperville",
+    "address": "1136 NORTH MILL STREET",
+    "addressKey": "1136 N MILL ST|60563",
+    "city": "Naperville",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60563",
+    "lat": 41.7887,
+    "lng": -88.155,
+    "phone": "6303553300",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145358",
+      "certifiedBeds": 153,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 2,
+        "quality": 3
+      },
+      "deficiencyCount": 8,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 8 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ALDEN VALLEY RIDGE REHAB & HCC",
+    "slug": "alden-valley-ridge-rehab-hcc-bloomingdale",
+    "address": "275 EAST ARMY TRAIL ROAD",
+    "addressKey": "275 E ARMY TRL RD|60108",
+    "city": "Bloomingdale",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60108",
+    "lat": 41.9351,
+    "lng": -88.063,
+    "phone": "6308939616",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145379",
+      "certifiedBeds": 207,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 1,
+        "quality": 5
+      },
+      "deficiencyCount": 6,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 1 stars, quality measures: 5 stars). The most recent standard health inspection identified 6 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BRIA OF WESTMONT",
+    "slug": "bria-of-westmont-westmont",
+    "address": "6501 SOUTH CASS",
+    "addressKey": "6501 S CASS|60559",
+    "city": "Westmont",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60559",
+    "lat": 41.77,
+    "lng": -87.974,
+    "phone": "6309602026",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145405",
+      "certifiedBeds": 215,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 1,
+        "staffing": 1,
+        "quality": 3
+      },
+      "deficiencyCount": 22,
+      "ownershipType": "For profit - Individual",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 22 deficiencies. CMS records 7 penalties against this facility, including 6 fines totaling $151,077.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BRIDGEWAY SENIOR LIVING",
+    "slug": "bridgeway-senior-living-bensenville",
+    "address": "111 EAST WASHINGTON",
+    "addressKey": "111 E WASHINGTON|60106",
+    "city": "Bensenville",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60106",
+    "lat": 41.9479,
+    "lng": -87.938,
+    "phone": "6307665800",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145420",
+      "certifiedBeds": 226,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 2,
+        "staffing": 1,
+        "quality": 4
+      },
+      "deficiencyCount": 25,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": true,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 2 stars, staffing: 1 stars, quality measures: 4 stars). The most recent standard health inspection identified 25 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $24,448.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ALTA REHAB AT OAK BROOK",
+    "slug": "alta-rehab-at-oak-brook-oak-brook",
+    "address": "2013 MIDWEST ROAD",
+    "addressKey": "2013 MIDWEST RD|60521",
+    "city": "Oak brook",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60521",
+    "lat": 41.8483,
+    "lng": -87.972,
+    "phone": "6304950220",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145458",
+      "certifiedBeds": 156,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 2,
+        "staffing": 4,
+        "quality": 4
+      },
+      "deficiencyCount": 17,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 2 stars, staffing: 4 stars, quality measures: 4 stars). The most recent standard health inspection identified 17 deficiencies. CMS records 3 penalties against this facility, including 2 fines totaling $52,813.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BELLA TERRA LOMBARD",
+    "slug": "bella-terra-lombard-lombard",
+    "address": "2100 SOUTH FINLEY ROAD",
+    "addressKey": "2100 S FINLEY RD|60148",
+    "city": "Lombard",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60148",
+    "lat": 41.8465,
+    "lng": -88.026,
+    "phone": "6304954000",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145511",
+      "certifiedBeds": 224,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 3,
+        "staffing": 2,
+        "quality": 5
+      },
+      "deficiencyCount": 11,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 3 stars, staffing: 2 stars, quality measures: 5 stars). The most recent standard health inspection identified 11 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BEACON HILL",
+    "slug": "beacon-hill-lombard",
+    "address": "2400 SOUTH FINLEY ROAD",
+    "addressKey": "2400 S FINLEY RD|60148",
+    "city": "Lombard",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60148",
+    "lat": 41.8409,
+    "lng": -88.026,
+    "phone": "6306205850",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145522",
+      "certifiedBeds": 45,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 5,
+        "quality": 3
+      },
+      "deficiencyCount": 6,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": true,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 5 stars, quality measures: 3 stars). The most recent standard health inspection identified 6 deficiencies. CMS records 2 penalties against this facility, including 2 fines totaling $30,186.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ALDEN ESTATES OF NAPERVILLE",
+    "slug": "alden-estates-of-naperville-naperville",
+    "address": "1525 SOUTH OXFORD LANE",
+    "addressKey": "1525 S OXFORD LN|60565",
+    "city": "Naperville",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60565",
+    "lat": 41.7439,
+    "lng": -88.124,
+    "phone": "6309830300",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145582",
+      "certifiedBeds": 203,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 3,
+        "staffing": 1,
+        "quality": 3
+      },
+      "deficiencyCount": 11,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 3 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 11 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $9,256.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "COVENANT LIVING - WINDSOR PARK",
+    "slug": "covenant-living-windsor-park-carol-stream",
+    "address": "110 WINDSOR PARK DRIVE",
+    "addressKey": "110 WINDSOR PARK DR|60188",
+    "city": "Carol stream",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60188",
+    "lat": 41.9041,
+    "lng": -88.133,
+    "phone": "6305105200",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145606",
+      "certifiedBeds": 80,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 3,
+        "staffing": 5,
+        "quality": 5
+      },
+      "deficiencyCount": 6,
+      "ownershipType": "Non profit - Church related",
+      "isCcrc": true,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 3 stars, staffing: 5 stars, quality measures: 5 stars). The most recent standard health inspection identified 6 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $50,525.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CHATEAU NRSG & REHAB CENTER",
+    "slug": "chateau-nrsg-rehab-center-willowbrook",
+    "address": "7050 MADISON STREET",
+    "addressKey": "7050 MADISON ST|60521",
+    "city": "Willowbrook",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60521",
+    "lat": 41.7615,
+    "lng": -87.935,
+    "phone": "6303236380",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145614",
+      "certifiedBeds": 150,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 4,
+        "staffing": 1,
+        "quality": 3
+      },
+      "deficiencyCount": 9,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 4 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 9 deficiencies. CMS records 2 penalties against this facility, including 1 fine totaling $10,519.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BELLA TERRA BLOOMINGDALE",
+    "slug": "bella-terra-bloomingdale-bloomingdale",
+    "address": "165 SOUTH BLOOMINGDALE ROAD",
+    "addressKey": "165 S BLOOMINGDALE RD|60108",
+    "city": "Bloomingdale",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60108",
+    "lat": 41.955,
+    "lng": -88.081,
+    "phone": "6309808700",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145638",
+      "certifiedBeds": 166,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 3,
+        "staffing": 2,
+        "quality": 3
+      },
+      "deficiencyCount": 10,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 3 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 10 deficiencies. CMS records 2 penalties against this facility, including 2 fines totaling $20,742.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "THE PEARL OF DOWNERS GROVE",
+    "slug": "the-pearl-of-downers-grove-downers-grove",
+    "address": "3450 SARATOGA AVENUE",
+    "addressKey": "3450 SARATOGA AVE|60515",
+    "city": "Downers grove",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60515",
+    "lat": 41.8244,
+    "lng": -88.015,
+    "phone": "6309692900",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145657",
+      "certifiedBeds": 145,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 2,
+        "staffing": 1,
+        "quality": 1
+      },
+      "deficiencyCount": 21,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 2 stars, staffing: 1 stars, quality measures: 1 stars). The most recent standard health inspection identified 21 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $30,794.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BELLA TERRA ELMHURST",
+    "slug": "bella-terra-elmhurst-elmhurst",
+    "address": "420 WEST BUTTERFIELD ROAD",
+    "addressKey": "420 W BUTTERFIELD RD|60126",
+    "city": "Elmhurst",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60126",
+    "lat": 41.8637,
+    "lng": -87.953,
+    "phone": "6308322300",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145711",
+      "certifiedBeds": 142,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 3,
+        "quality": 4
+      },
+      "deficiencyCount": 8,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 3 stars, quality measures: 4 stars). The most recent standard health inspection identified 8 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "WHEATON VILLAGE NRSG & RHB CTR",
+    "slug": "wheaton-village-nrsg-rhb-ctr-wheaton",
+    "address": "1325 MANCHESTER ROAD",
+    "addressKey": "1325 MANCHESTER RD|60187",
+    "city": "Wheaton",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60187",
+    "lat": 41.8675,
+    "lng": -88.125,
+    "phone": "6306682500",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145715",
+      "certifiedBeds": 123,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 3,
+        "staffing": 2,
+        "quality": 2
+      },
+      "deficiencyCount": 11,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 3 stars, staffing: 2 stars, quality measures: 2 stars). The most recent standard health inspection identified 11 deficiencies. CMS records 1 penalty against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Landmark of Itasca Rehabilitation and Nursing Cent",
+    "slug": "landmark-of-itasca-rehabilitation-and-nursing-cent-itasca",
+    "address": "535 SOUTH ELM",
+    "addressKey": "535 S ELM|60143",
+    "city": "Itasca",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60143",
+    "lat": 41.9618,
+    "lng": -88.012,
+    "phone": "6307739416",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145752",
+      "certifiedBeds": 144,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 1,
+        "staffing": 2,
+        "quality": 2
+      },
+      "deficiencyCount": 48,
+      "ownershipType": "For profit - Partnership",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 2 stars, quality measures: 2 stars). The most recent standard health inspection identified 48 deficiencies. CMS records 7 penalties against this facility, including 5 fines totaling $300,136.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "APERION CARE WEST CHICAGO",
+    "slug": "aperion-care-west-chicago-west-chicago",
+    "address": "201 WEST NORTH AVENUE",
+    "addressKey": "201 W N AVE|60185",
+    "city": "West chicago",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60185",
+    "lat": 41.9123,
+    "lng": -88.19,
+    "phone": "6308768100",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145830",
+      "certifiedBeds": 213,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 1,
+        "staffing": 2,
+        "quality": 3
+      },
+      "deficiencyCount": 18,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 18 deficiencies. CMS records 5 penalties against this facility, including 4 fines totaling $289,723.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "TABOR HILLS HEALTH CARE FAC",
+    "slug": "tabor-hills-health-care-fac-naperville",
+    "address": "1347 CRYSTAL COURT",
+    "addressKey": "1347 CRYSTAL CT|60563",
+    "city": "Naperville",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60563",
+    "lat": 41.7975,
+    "lng": -88.193,
+    "phone": "6307786677",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145840",
+      "certifiedBeds": 96,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 5,
+        "quality": 5
+      },
+      "deficiencyCount": 5,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 5 stars, quality measures: 5 stars). The most recent standard health inspection identified 5 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "MEADOWBROOK MANOR - NAPERVILLE",
+    "slug": "meadowbrook-manor-naperville-naperville",
+    "address": "720 RAYMOND DRIVE",
+    "addressKey": "720 RAYMOND DR|60563",
+    "city": "Naperville",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60563",
+    "lat": 41.7842,
+    "lng": -88.183,
+    "phone": "6303550220",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145874",
+      "certifiedBeds": 249,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 2,
+        "staffing": 2,
+        "quality": 2
+      },
+      "deficiencyCount": 15,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 2 stars, staffing: 2 stars, quality measures: 2 stars). The most recent standard health inspection identified 15 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $133,390.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ST PATRICK'S RESIDENCE",
+    "slug": "st-patrick-s-residence-naperville",
+    "address": "1400 BROOKDALE ROAD",
+    "addressKey": "1400 BROOKDALE RD|60563",
+    "city": "Naperville",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60563",
+    "lat": 41.7842,
+    "lng": -88.185,
+    "phone": "6304166565",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145878",
+      "certifiedBeds": 209,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 2,
+        "staffing": 4,
+        "quality": 3
+      },
+      "deficiencyCount": 9,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 2 stars, staffing: 4 stars, quality measures: 3 stars). The most recent standard health inspection identified 9 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BROOKDALE PLAZA LISLE SNF",
+    "slug": "brookdale-plaza-lisle-snf-lisle",
+    "address": "1800 ROBIN LANE",
+    "addressKey": "1800 ROBIN LN|60532",
+    "city": "Lisle",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60532",
+    "lat": 41.7885,
+    "lng": -88.086,
+    "phone": "6303535519",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146061",
+      "certifiedBeds": 55,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 5,
+        "quality": 4
+      },
+      "deficiencyCount": 8,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": true,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 5 stars, quality measures: 4 stars). The most recent standard health inspection identified 8 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $10,059.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Abbington Vlge Nrsg & Rhb Ctr",
+    "slug": "abbington-vlge-nrsg-rhb-ctr-roselle",
+    "address": "31 WEST CENTRAL",
+    "addressKey": "31 W CENTRAL|60172",
+    "city": "Roselle",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60172",
+    "lat": 41.9835,
+    "lng": -88.082,
+    "phone": "6308945058",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146065",
+      "certifiedBeds": 82,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 3,
+        "staffing": 2,
+        "quality": 2
+      },
+      "deficiencyCount": 17,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 3 stars, staffing: 2 stars, quality measures: 2 stars). The most recent standard health inspection identified 17 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "EDEN VISTA BURR RIDGE",
+    "slug": "eden-vista-burr-ridge-burr-ridge",
+    "address": "6801 HIGHGROVE BOULEVARD",
+    "addressKey": "6801 HIGHGROVE BLVD|60527",
+    "city": "Burr ridge",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60527",
+    "lat": 41.766,
+    "lng": -87.93,
+    "phone": "6309202900",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146094",
+      "certifiedBeds": 29,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 4,
+        "quality": 3
+      },
+      "deficiencyCount": 5,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 4 stars, quality measures: 3 stars). The most recent standard health inspection identified 5 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "PARK PLACE CHRISTIAN COMMUNITY",
+    "slug": "park-place-christian-community-elmhurst-2",
+    "address": "1150 EUCLID AVENUE",
+    "addressKey": "1150 EUCLID AVE|60126",
+    "city": "Elmhurst",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60126",
+    "lat": 41.8674,
+    "lng": -87.939,
+    "phone": "6309364100",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146155",
+      "certifiedBeds": 37,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 5,
+        "quality": 4
+      },
+      "deficiencyCount": 4,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": true,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 5 stars, quality measures: 4 stars). The most recent standard health inspection identified 4 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "AHVA CARE OF WINFIELD",
+    "slug": "ahva-care-of-winfield-winfield",
+    "address": "28 WEST 141 LIBERTY STREET",
+    "addressKey": "28 W 141 LIBERTY ST|60190",
+    "city": "Winfield",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60190",
+    "lat": 41.8697,
+    "lng": -88.15,
+    "phone": "6306689696",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146168",
+      "certifiedBeds": 138,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 4,
+        "staffing": 1,
+        "quality": 3
+      },
+      "deficiencyCount": 9,
+      "ownershipType": "For profit - Individual",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 4 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 9 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "THRIVE OF LISLE",
+    "slug": "thrive-of-lisle-lisle",
+    "address": "2850 OGDEN AVENUE",
+    "addressKey": "2850 OGDEN AVE|60532",
+    "city": "Lisle",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60532",
+    "lat": 41.7964,
+    "lng": -88.11,
+    "phone": "3312496200",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146192",
+      "certifiedBeds": 28,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 4,
+        "quality": 4
+      },
+      "deficiencyCount": 9,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 4 stars, quality measures: 4 stars). The most recent standard health inspection identified 9 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "THRIVE OF FOX VALLEY",
+    "slug": "thrive-of-fox-valley-aurora",
+    "address": "4020 E NEW YORK STREET",
+    "addressKey": "4020 E NEW YORK ST|60504",
+    "city": "Aurora",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60504",
+    "lat": 41.7611,
+    "lng": -88.22,
+    "phone": "3313015590",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146194",
+      "certifiedBeds": 68,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 3,
+        "quality": 4
+      },
+      "deficiencyCount": 10,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 3 stars, quality measures: 4 stars). The most recent standard health inspection identified 10 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "West Chicago Living and Rehab Center",
+    "slug": "west-chicago-living-and-rehab-center-west-chicago",
+    "address": "928 JOLIET ROAD",
+    "addressKey": "928 JOLIET RD|60185",
+    "city": "West chicago",
+    "county": "DuPage",
+    "region": null,
+    "zip": "60185",
+    "lat": 41.8706,
+    "lng": -88.205,
+    "phone": "6302319292",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "14E392",
+      "certifiedBeds": 120,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 2,
+        "staffing": 3,
+        "quality": 4
+      },
+      "deficiencyCount": 13,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 2 stars, staffing: 3 stars, quality measures: 4 stars). The most recent standard health inspection identified 13 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $143,375.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  }
+]

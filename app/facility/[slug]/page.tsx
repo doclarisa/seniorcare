@@ -2,7 +2,9 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { Container } from "@/components/Container";
 import { getFacilityBySlug } from "@/lib/facilities";
+import { getListingBySlug } from "@/lib/listings";
 import { formatPrice, googleMapsHref, telHref, websiteHref } from "@/lib/format";
+import { ListingDetail } from "@/components/ListingDetail";
 
 function asStringArray(value: unknown): string[] {
   return Array.isArray(value) ? (value as string[]) : [];
@@ -15,11 +17,20 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { slug } = await params;
   const facility = await getFacilityBySlug(slug);
-  if (!facility) return {};
-  return {
-    title: `${facility.name} — ${facility.city}, IL`,
-    description: facility.summary ?? `${facility.name} in ${facility.city}, ${facility.county} County, Illinois.`,
-  };
+  if (facility) {
+    return {
+      title: `${facility.name} — ${facility.city}, IL`,
+      description: facility.summary ?? `${facility.name} in ${facility.city}, ${facility.county} County, Illinois.`,
+    };
+  }
+  const listing = await getListingBySlug(slug);
+  if (listing) {
+    return {
+      title: `${listing.name} — ${listing.city}, IL`,
+      description: `${listing.name} in ${listing.city}, ${listing.county} County, Illinois. Government-sourced facility record (IDPH/HFS/CMS).`,
+    };
+  }
+  return {};
 }
 
 export default async function FacilityDetailPage({
@@ -29,7 +40,11 @@ export default async function FacilityDetailPage({
 }) {
   const { slug } = await params;
   const facility = await getFacilityBySlug(slug);
-  if (!facility) notFound();
+  if (!facility) {
+    const listing = await getListingBySlug(slug);
+    if (listing) return <ListingDetail listing={listing} />;
+    notFound();
+  }
 
   const careLevels = asStringArray(facility.careLevels);
   const roomTypes = asStringArray(facility.roomTypes);

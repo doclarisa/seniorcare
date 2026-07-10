@@ -1,0 +1,2136 @@
+[
+  {
+    "name": "PRAIRIEVIEW AT THE GARLANDS",
+    "slug": "prairieview-at-the-garlands-barrington",
+    "address": "6000 Garlands Lane",
+    "addressKey": "6000 GARLANDS LN|60010",
+    "city": "Barrington",
+    "county": "Lake",
+    "region": null,
+    "zip": "60010",
+    "lat": 42.1581,
+    "lng": -88.124,
+    "phone": "(847) 852-3400",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care",
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024611",
+      "licenseStatus": "Active",
+      "units": 30,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 20,
+      "ccn": "146118",
+      "certifiedBeds": 20,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 5,
+        "staffing": 5,
+        "quality": 3
+      },
+      "deficiencyCount": 2,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": true,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 12/31/2025 (Annual Licensure Only Survey). IDPH's record shows 5 surveys on file, including 1 complaint or incident investigation. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567). On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 5 stars, staffing: 5 stars, quality measures: 3 stars). The most recent standard health inspection identified 2 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "IDPH",
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH",
+      "CMS"
+    ],
+    "_sourceRowCount": 2
+  },
+  {
+    "name": "BELMONT VILLAGE BUFFALO GROVE",
+    "slug": "belmont-village-buffalo-grove-buffalo-grove",
+    "address": "500 McHenry Rd",
+    "addressKey": "500 MCHENRY RD|60089",
+    "city": "Buffalo Grove",
+    "county": "Lake",
+    "region": null,
+    "zip": "60089",
+    "lat": 42.161927923028,
+    "lng": -87.963019477904,
+    "phone": "(847) 537-5000",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6020961",
+      "licenseStatus": "Active",
+      "units": 70,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 46,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/26/2026 (Annual Licensure Only Survey). IDPH's record shows 14 surveys on file, including 4 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SUNRISE OF HIGHLAND PARK",
+    "slug": "sunrise-of-highland-park-highland-park",
+    "address": "1601 Green Bay Road",
+    "addressKey": "1601 GREEN BAY RD|60035",
+    "city": "Highland Park",
+    "county": "Lake",
+    "region": null,
+    "zip": "60035",
+    "lat": 42.181601311619,
+    "lng": -87.80009601425,
+    "phone": "(847) 681-1620",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025578",
+      "licenseStatus": "Active",
+      "units": 56,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 19,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 05/03/2026 (Facility Reported Incident). IDPH's record shows 8 surveys on file, including 4 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "STORYPOINT LIBERTYVILLE",
+    "slug": "storypoint-libertyville-libertyville",
+    "address": "901 Florsheim Drive",
+    "addressKey": "901 FLORSHEIM DR|60048",
+    "city": "Libertyville",
+    "county": "Lake",
+    "region": null,
+    "zip": "60048",
+    "lat": 42.258944236826,
+    "lng": -87.941053077547,
+    "phone": "(847) 750-4452",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025411",
+      "licenseStatus": "Active",
+      "units": 92,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 14,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/06/2026 (Annual Licensure Only Survey). IDPH's record shows 9 surveys on file, including 5 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "RADFORD GREEN (Assited Living)",
+    "slug": "radford-green-lincolnshire",
+    "address": "960 Audubon Way",
+    "addressKey": "960 AUDUBON WAY|60069",
+    "city": "Lincolnshire",
+    "county": "Lake",
+    "region": null,
+    "zip": "60069",
+    "lat": 42.1827,
+    "lng": -87.924,
+    "phone": "(847) 876-2401",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care",
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024686",
+      "licenseStatus": "Active",
+      "units": 18,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 19,
+      "ccn": "146136",
+      "certifiedBeds": 84,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 3,
+        "staffing": 5,
+        "quality": 5
+      },
+      "deficiencyCount": 5,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": true,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 06/10/2026 (Complaint Original Investigation). IDPH's record shows 4 surveys on file, including 2 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567). On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 3 stars, staffing: 5 stars, quality measures: 5 stars). The most recent standard health inspection identified 5 deficiencies. CMS records 4 penalties against this facility, including 3 fines totaling $68,794.",
+      "dataSources": [
+        "IDPH",
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH",
+      "CMS"
+    ],
+    "_sourceRowCount": 2
+  },
+  {
+    "name": "LOTUS SENIOR LIVING LLC",
+    "slug": "lotus-senior-living-llc-wadsworth",
+    "address": "4601 West Yorkhouse Road",
+    "addressKey": "4601 W YORKHOUSE RD|60083",
+    "city": "Wadsworth",
+    "county": "Lake",
+    "region": null,
+    "zip": "60083",
+    "lat": 42.414150668639,
+    "lng": -87.914794675499,
+    "phone": "(847) 644-6817",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023936",
+      "licenseStatus": "Active",
+      "units": 57,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 18,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 05/28/2026 (Facility Reported Incident). IDPH's record shows 6 surveys on file, including 5 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "COTTAGES AT FOX LAKE (THE) 16",
+    "slug": "cottages-at-fox-lake-16-fox-lake",
+    "address": "16 Lilac Ave",
+    "addressKey": "16 LILAC AVE|60020",
+    "city": "Fox Lake",
+    "county": "Lake",
+    "region": null,
+    "zip": "60020",
+    "lat": 42.393748580279,
+    "lng": -88.177074673132,
+    "phone": "(847) 973-8800",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022278",
+      "licenseStatus": "Active",
+      "units": 16,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 0,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/05/2026 (Complaint Original Investigation). IDPH's record shows 9 surveys on file, including 7 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ARBOR TERRACE HIGHLAND PARK",
+    "slug": "arbor-terrace-highland-park-highland-park",
+    "address": "1000 Central Avenue",
+    "addressKey": "1000 CENTRAL AVE|60035",
+    "city": "Highland Park",
+    "county": "Lake",
+    "region": null,
+    "zip": "60035",
+    "lat": 42.182365791561,
+    "lng": -87.808486399038,
+    "phone": "(847) 681-3636",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6020403",
+      "licenseStatus": "Active",
+      "units": 64,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 22,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/18/2026 (Complaint Original Investigation). IDPH's record shows 12 surveys on file, including 6 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "NEW PERSPECTIVE- LONG GROVE",
+    "slug": "new-perspective-long-grove-long-grove",
+    "address": "2300 IL Route 53",
+    "addressKey": "2300 IL ROUTE 53|60047",
+    "city": "Long Grove",
+    "county": "Lake",
+    "region": null,
+    "zip": "60047",
+    "lat": null,
+    "lng": null,
+    "phone": "(847) 850-2380",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024261",
+      "licenseStatus": "Active",
+      "units": 60,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 44,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 10/22/2025 (Complaint Original Investigation). IDPH's record shows 7 surveys on file, including 2 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CIEL SENIOR LIVING OF LONG GROVE",
+    "slug": "ciel-senior-living-of-long-grove-long-grove",
+    "address": "1190 Old McHenry Rd",
+    "addressKey": "1190 OLD MCHENRY RD|60047",
+    "city": "Long Grove",
+    "county": "Lake",
+    "region": null,
+    "zip": "60047",
+    "lat": null,
+    "lng": null,
+    "phone": "(847) 613-4838",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022111",
+      "licenseStatus": "Active",
+      "units": 80,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 58,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 09/26/2025 (Facility Reported Incident). IDPH's record shows 8 surveys on file, including 3 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "THERESA'S HOME CARE III, LLC",
+    "slug": "theresa-s-home-care-iii-llc-libertyville",
+    "address": "16426 West Des Plaines Dr",
+    "addressKey": "16426 W DES PLAINES DR|60048",
+    "city": "Libertyville",
+    "county": "Lake",
+    "region": null,
+    "zip": "60048",
+    "lat": 42.304664944018,
+    "lng": -87.952406971772,
+    "phone": "(847) 525-2816",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6026686",
+      "licenseStatus": "Active",
+      "units": 5,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 05/08/2026 (Annual Licensure Only Survey). IDPH's record shows 2 surveys on file. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "GREEN OAKS SENIOR LIVING",
+    "slug": "green-oaks-senior-living-libertyville",
+    "address": "14595 West Rockland Road",
+    "addressKey": "14595 W ROCKLAND RD|60048",
+    "city": "Libertyville",
+    "county": "Lake",
+    "region": null,
+    "zip": "60048",
+    "lat": 42.279347193076,
+    "lng": -87.917617952858,
+    "phone": "(847) 680-1205",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023111",
+      "licenseStatus": "Active",
+      "units": 52,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 24,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 06/01/2026 (Facility Reported Incident). IDPH's record shows 15 surveys on file, including 10 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BROOKDALE HAWTHORN LAKES AL",
+    "slug": "brookdale-hawthorn-lakes-al-vernon-hills",
+    "address": "10 E Hawthorne Pkwy",
+    "addressKey": "10 E HAWTHORNE PKWY|60061",
+    "city": "Vernon Hills",
+    "county": "Lake",
+    "region": null,
+    "zip": "60061",
+    "lat": 42.240537885816,
+    "lng": -87.947633269421,
+    "phone": "(847) 367-2516",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021378",
+      "licenseStatus": "Active",
+      "units": 62,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/06/2026 (Facility Reported Incident). IDPH's record shows 4 surveys on file, including 3 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SUNRISE OF BUFFALO GROVE",
+    "slug": "sunrise-of-buffalo-grove-buffalo-grove",
+    "address": "180 West Half Day Rd",
+    "addressKey": "180 W HALF DAY RD|60089",
+    "city": "Buffalo Grove",
+    "county": "Lake",
+    "region": null,
+    "zip": "60089",
+    "lat": 42.195930892148,
+    "lng": -87.961061542086,
+    "phone": "(847) 478-8484",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025511",
+      "licenseStatus": "Active",
+      "units": 55,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 24,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 06/25/2026 (Facility Reported Incident). IDPH's record shows 12 surveys on file, including 6 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "AUTUMN LEAVES OF VERNON HILLS",
+    "slug": "autumn-leaves-of-vernon-hills-vernon-hills",
+    "address": "500 Atrium Dr",
+    "addressKey": "500 ATRIUM DR|60061",
+    "city": "Vernon Hills",
+    "county": "Lake",
+    "region": null,
+    "zip": "60061",
+    "lat": 42.237690808267,
+    "lng": -87.96468100396,
+    "phone": "(847) 996-1000",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6020611",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 38,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 11/18/2025 (Annual Licensure Only Survey). IDPH's record shows 1 survey on file. None of the surveys on file show a formal statement of deficiencies (Form 2567) attached.",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "THERESA'S HOME CARE II, LLC",
+    "slug": "theresa-s-home-care-ii-llc-gurnee",
+    "address": "5044 Darlene Dr",
+    "addressKey": "5044 DARLENE DR|60031",
+    "city": "Gurnee",
+    "county": "Lake",
+    "region": null,
+    "zip": "60031",
+    "lat": 42.370069375197,
+    "lng": -87.927434680201,
+    "phone": "(847) 525-2816",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025753",
+      "licenseStatus": "Active",
+      "units": 4,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 07/10/2025 (Annual Licensure Only Survey). IDPH's record shows 2 surveys on file, including 1 complaint or incident investigation. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "THERESA'S HOME CARE I LLC",
+    "slug": "theresa-s-home-care-i-llc-gurnee",
+    "address": "6455 Cunningham Ct",
+    "addressKey": "6455 CUNNINGHAM CT|60031",
+    "city": "Gurnee",
+    "county": "Lake",
+    "region": null,
+    "zip": "60031",
+    "lat": 42.348768789391,
+    "lng": -87.962565169819,
+    "phone": "(847) 525-2816",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025761",
+      "licenseStatus": "Active",
+      "units": 7,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 06/24/2026 (Complaint Original Investigation). IDPH's record shows 4 surveys on file, including 2 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "DEER PARK VILLAGE SENIOR LIVING",
+    "slug": "deer-park-village-senior-living-deer-park",
+    "address": "21840 W Lake Cook Road",
+    "addressKey": "21840 W LAKE COOK RD|60010",
+    "city": "Deer Park",
+    "county": "Lake",
+    "region": null,
+    "zip": "60010",
+    "lat": 42.153903438679,
+    "lng": -88.059065033256,
+    "phone": "(847) 438-8200",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022578",
+      "licenseStatus": "Active",
+      "units": 60,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 24,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/30/2026 (Facility Reported Incident). IDPH's record shows 12 surveys on file, including 6 complaint or incident investigations. 7 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ALTO-GRAYSLAKE",
+    "slug": "alto-grayslake-grayslake",
+    "address": "1865 E Belvidere Road",
+    "addressKey": "1865 E BELVIDERE RD|60030",
+    "city": "Grayslake",
+    "county": "Lake",
+    "region": null,
+    "zip": "60030",
+    "lat": 42.338827173261,
+    "lng": -88.001609285952,
+    "phone": "(224) 206-3450",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6020186",
+      "licenseStatus": "Active",
+      "units": 68,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 36,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 05/01/2026 (Annual Licensure Only Survey). IDPH's record shows 5 surveys on file, including 1 complaint or incident investigation. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CIEL OF VERNON HILLS",
+    "slug": "ciel-of-vernon-hills-vernon-hills",
+    "address": "145 N Milwaukee Ave",
+    "addressKey": "145 N MILWAUKEE AVE|60061",
+    "city": "Vernon Hills",
+    "county": "Lake",
+    "region": null,
+    "zip": "60061",
+    "lat": 42.227668243426,
+    "lng": -87.941455979348,
+    "phone": "(847) 793-2470",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021486",
+      "licenseStatus": "Active",
+      "units": 54,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 45,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/27/2026 (Complaint Original Investigation). IDPH's record shows 10 surveys on file, including 4 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SUNRISE OF GURNEE",
+    "slug": "sunrise-of-gurnee-gurnee",
+    "address": "500 N Hunt Club Rd",
+    "addressKey": "500 N HUNT CLUB RD|60031",
+    "city": "Gurnee",
+    "county": "Lake",
+    "region": null,
+    "zip": "60031",
+    "lat": 42.365978657168,
+    "lng": -87.963551165485,
+    "phone": "(847) 856-8100",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025561",
+      "licenseStatus": "Active",
+      "units": 46,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 13,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/30/2026 (Facility Reported Incident). IDPH's record shows 8 surveys on file, including 5 complaint or incident investigations. 6 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "LAUREL AT  VERNON HILLS (THE)",
+    "slug": "laurel-at-vernon-hills-vernon-hills",
+    "address": "350 South Milwaukee Ave",
+    "addressKey": "350 S MILWAUKEE AVE|60061",
+    "city": "Vernon Hills",
+    "county": "Lake",
+    "region": null,
+    "zip": "60061",
+    "lat": 42.232359615736,
+    "lng": -87.942996720743,
+    "phone": "(847) 634-9300",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025286",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 70,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/17/2026 (Complaint Original Investigation). IDPH's record shows 12 surveys on file, including 9 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "HIGHLANDS OF LAKE FOREST PLACE",
+    "slug": "highlands-of-lake-forest-place-lake-forest",
+    "address": "1101 Pembridge Dr",
+    "addressKey": "1101 PEMBRIDGE DR|60045",
+    "city": "Lake Forest",
+    "county": "Lake",
+    "region": null,
+    "zip": "60045",
+    "lat": 42.261328849854,
+    "lng": -87.86653667077,
+    "phone": "(847) 604-6700",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023553",
+      "licenseStatus": "Active",
+      "units": 31,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 20,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 09/10/2025 (Annual Licensure Only Survey). IDPH's record shows 4 surveys on file, including 2 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CEDAR LAKE ASSISTED LIVING & MEMORY CARE",
+    "slug": "cedar-lake-assisted-living-memory-care-lake-zurich",
+    "address": "777 Church Street",
+    "addressKey": "777 CHURCH ST|60047",
+    "city": "Lake Zurich",
+    "county": "Lake",
+    "region": null,
+    "zip": "60047",
+    "lat": 42.209603005023,
+    "lng": -88.080054515128,
+    "phone": "(847) 550-0555",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021653",
+      "licenseStatus": "Active",
+      "units": 62,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 24,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 01/09/2026 (Facility Reported Incident). IDPH's record shows 6 surveys on file, including 5 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BICKFORD OF GURNEE",
+    "slug": "bickford-of-gurnee-gurnee",
+    "address": "301 S Hunt Club Road",
+    "addressKey": "301 S HUNT CLUB RD|60031",
+    "city": "Gurnee",
+    "county": "Lake",
+    "region": null,
+    "zip": "60031",
+    "lat": 42.356150810468,
+    "lng": -87.963576569036,
+    "phone": "(847) 281-0780",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021136",
+      "licenseStatus": "Active",
+      "units": 44,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 16,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 05/11/2026 (Annual Licensure Only Survey). IDPH's record shows 13 surveys on file, including 7 complaint or incident investigations. 5 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ASSISTED LIVING AT VICTORY LAKES",
+    "slug": "assisted-living-at-victory-lakes-lindenhurst",
+    "address": "1065 Victory Dr",
+    "addressKey": "1065 VICTORY DR|60046",
+    "city": "Lindenhurst",
+    "county": "Lake",
+    "region": null,
+    "zip": "60046",
+    "lat": 42.413364557583,
+    "lng": -88.055891721182,
+    "phone": "(847) 356-4800",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6020686",
+      "licenseStatus": "Active",
+      "units": 45,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 15,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 12/18/2025 (Facility Reported Incident). IDPH's record shows 3 surveys on file, including 2 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Cottages at Fox Lake (The) 18",
+    "slug": "cottages-at-fox-lake-18-fox-lake",
+    "address": "18 Lilac Lane",
+    "addressKey": "18 LILAC LN|60020",
+    "city": "Fox Lake",
+    "county": "Lake",
+    "region": null,
+    "zip": "60020",
+    "lat": 42.393749149354,
+    "lng": -88.177074060282,
+    "phone": "(847) 973-8800",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "5223039",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": 16,
+      "inspectionSummary": null,
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Cottages at Fox Lake (The) 20",
+    "slug": "cottages-at-fox-lake-20-fox-lake",
+    "address": "20 Lilac Lane",
+    "addressKey": "20 LILAC LN|60020",
+    "city": "Fox Lake",
+    "county": "Lake",
+    "region": null,
+    "zip": "60020",
+    "lat": 42.393749718429,
+    "lng": -88.177073447432,
+    "phone": "(847) 973-8800",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "5223047",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 16,
+      "inspectionSummary": null,
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Cottages at Fox Lake (The) 22",
+    "slug": "cottages-at-fox-lake-22-fox-lake",
+    "address": "22 Lilac Ave",
+    "addressKey": "22 LILAC AVE|60020",
+    "city": "Fox Lake",
+    "county": "Lake",
+    "region": null,
+    "zip": "60020",
+    "lat": 42.393750287504,
+    "lng": -88.177072834582,
+    "phone": "(847) 973-8800",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "5223050",
+      "licenseStatus": "Active",
+      "units": 16,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": 0,
+      "inspectionSummary": null,
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Allure Active Living of Zion",
+    "slug": "allure-active-living-of-zion-zion",
+    "address": "3521 16th Street",
+    "addressKey": "3521 16TH ST|60099",
+    "city": "Zion",
+    "county": "Lake",
+    "region": null,
+    "zip": "60099",
+    "lat": 42.465644472253,
+    "lng": -87.862568022157,
+    "phone": "(847) 746-2147",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 2
+  },
+  {
+    "name": "Barton Senior Residences of Zion",
+    "slug": "barton-senior-residences-of-zion-zion",
+    "address": "3500 Sheridan Road",
+    "addressKey": "3500 SHERIDAN RD|60099",
+    "city": "Zion",
+    "county": "Lake",
+    "region": null,
+    "zip": "60099",
+    "lat": 42.431481477865,
+    "lng": -87.825732529508,
+    "phone": "(847) 872-1500",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Evolve at Lake Zurich",
+    "slug": "evolve-at-lake-zurich-lake-zurich",
+    "address": "795 North Rand Road",
+    "addressKey": "795 N RAND RD|60047",
+    "city": "Lake Zurich",
+    "county": "Lake",
+    "region": null,
+    "zip": "60047",
+    "lat": 42.210631166404,
+    "lng": -88.111741140952,
+    "phone": "(847) 307-7765",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Heritage Woods of Gurnee",
+    "slug": "heritage-woods-of-gurnee-gurnee",
+    "address": "3775 Grand Avenue",
+    "addressKey": "3775 GRAND AVE|60031",
+    "city": "Gurnee",
+    "county": "Lake",
+    "region": null,
+    "zip": "60031",
+    "lat": 42.370635138736,
+    "lng": -87.894573683487,
+    "phone": "(847) 623-6300",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Oak Hill SLF",
+    "slug": "oak-hill-slf-round-lake-beach",
+    "address": "76 East Rollins Road",
+    "addressKey": "76 E ROLLINS RD|60073",
+    "city": "Round Lake Beach",
+    "county": "Lake",
+    "region": null,
+    "zip": "60073",
+    "lat": 42.37890217346,
+    "lng": -88.084423856552,
+    "phone": "(847) 201-1100",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Stonebridge of Gurnee",
+    "slug": "stonebridge-of-gurnee-gurnee",
+    "address": "5980 Washington Street",
+    "addressKey": "5980 WASHINGTON ST|60031",
+    "city": "Gurnee",
+    "county": "Lake",
+    "region": null,
+    "zip": "60031",
+    "lat": 42.363949377541,
+    "lng": -87.950477871915,
+    "phone": "(847) 596-3211",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": "*Serves individuals with physical disabilities ages 22-64",
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ELEVATE CARE RIVERWOODS",
+    "slug": "elevate-care-riverwoods-riverwoods",
+    "address": "3705 DEERFIELD ROAD",
+    "addressKey": "3705 DEERFIELD RD|60015",
+    "city": "Riverwoods",
+    "county": "Lake",
+    "region": null,
+    "zip": "60015",
+    "lat": 42.1677,
+    "lng": -87.916,
+    "phone": "8479479000",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145304",
+      "certifiedBeds": 240,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 3,
+        "staffing": 3,
+        "quality": 4
+      },
+      "deficiencyCount": 7,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 3 stars, staffing: 3 stars, quality measures: 4 stars). The most recent standard health inspection identified 7 deficiencies. CMS records 6 penalties against this facility, including 5 fines totaling $152,185.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CLARIDGE HEALTHCARE CENTER",
+    "slug": "claridge-healthcare-center-lake-bluff",
+    "address": "700 JENKISSON",
+    "addressKey": "700 JENKISSON|60044",
+    "city": "Lake bluff",
+    "county": "Lake",
+    "region": null,
+    "zip": "60044",
+    "lat": 42.2861,
+    "lng": -87.876,
+    "phone": "8472953900",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145434",
+      "certifiedBeds": 231,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 1,
+        "staffing": 3,
+        "quality": 4
+      },
+      "deficiencyCount": 34,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 3 stars, quality measures: 4 stars). The most recent standard health inspection identified 34 deficiencies. CMS records 6 penalties against this facility, including 3 fines totaling $241,617.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Allure Of Zion",
+    "slug": "allure-of-zion-zion",
+    "address": "3615 16TH STREET",
+    "addressKey": "3615 16TH ST|60099",
+    "city": "Zion",
+    "county": "Lake",
+    "region": null,
+    "zip": "60099",
+    "lat": 42.4657,
+    "lng": -87.864,
+    "phone": "8477468382",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145443",
+      "certifiedBeds": 115,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 1,
+        "staffing": 2,
+        "quality": 2
+      },
+      "deficiencyCount": 21,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 2 stars, quality measures: 2 stars). The most recent standard health inspection identified 21 deficiencies. CMS records 6 penalties against this facility, including 4 fines totaling $255,454.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "THRIVE OF LAKE COUNTY",
+    "slug": "thrive-of-lake-county-mundelein",
+    "address": "850 E US HIGHWAY 45",
+    "addressKey": "850 E US HWY 45|60060",
+    "city": "Mundelein",
+    "county": "Lake",
+    "region": null,
+    "zip": "60060",
+    "lat": 42.2356,
+    "lng": -87.993,
+    "phone": "8473777200",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145460",
+      "certifiedBeds": 185,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 2,
+        "staffing": 3,
+        "quality": 4
+      },
+      "deficiencyCount": 11,
+      "ownershipType": "For profit - Individual",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 2 stars, staffing: 3 stars, quality measures: 4 stars). The most recent standard health inspection identified 11 deficiencies. CMS records 2 penalties against this facility, including 2 fines totaling $29,734.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "AVANTARA LIBERTYVILLE",
+    "slug": "avantara-libertyville-libertyville",
+    "address": "1500 SOUTH MILWAUKEE AVENUE",
+    "addressKey": "1500 S MILWAUKEE AVE|60048",
+    "city": "Libertyville",
+    "county": "Lake",
+    "region": null,
+    "zip": "60048",
+    "lat": 42.2588,
+    "lng": -87.948,
+    "phone": "8478163200",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145593",
+      "certifiedBeds": 150,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 3,
+        "quality": 4
+      },
+      "deficiencyCount": 8,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 3 stars, quality measures: 4 stars). The most recent standard health inspection identified 8 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "VILLAGE AT VICTORY LAKES, THE",
+    "slug": "village-at-victory-lakes-the-lindenhurst",
+    "address": "1055 EAST GRAND AVENUE",
+    "addressKey": "1055 E GRAND AVE|60046",
+    "city": "Lindenhurst",
+    "county": "Lake",
+    "region": null,
+    "zip": "60046",
+    "lat": 42.4096,
+    "lng": -88.033,
+    "phone": "8473565900",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145602",
+      "certifiedBeds": 120,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 2,
+        "staffing": 5,
+        "quality": 5
+      },
+      "deficiencyCount": 10,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": true,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 2 stars, staffing: 5 stars, quality measures: 5 stars). The most recent standard health inspection identified 10 deficiencies. CMS records 4 penalties against this facility, including 4 fines totaling $378,211.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "WAUKEGAN HEALTH AND REHAB",
+    "slug": "waukegan-health-and-rehab-waukegan",
+    "address": "2217 WASHINGTON STREET",
+    "addressKey": "2217 WASHINGTON ST|60085",
+    "city": "Waukegan",
+    "county": "Lake",
+    "region": null,
+    "zip": "60085",
+    "lat": 42.3595,
+    "lng": -87.86,
+    "phone": "8472444100",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145621",
+      "certifiedBeds": 112,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 3,
+        "quality": 2
+      },
+      "deficiencyCount": 12,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 3 stars, quality measures: 2 stars). The most recent standard health inspection identified 12 deficiencies. CMS records 2 penalties against this facility, including 1 fine totaling $8,328.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Alpine Care of Zion",
+    "slug": "alpine-care-of-zion-zion",
+    "address": "2534 ELIM AVENUE",
+    "addressKey": "2534 ELIM AVE|60099",
+    "city": "Zion",
+    "county": "Lake",
+    "region": null,
+    "zip": "60099",
+    "lat": 42.4491,
+    "lng": -87.824,
+    "phone": "8477468435",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145665",
+      "certifiedBeds": 244,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 3,
+        "staffing": 1,
+        "quality": 3
+      },
+      "deficiencyCount": 12,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 3 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 12 deficiencies. CMS records 5 penalties against this facility, including 3 fines totaling $72,394.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ELEVATE CARE WAUKEGAN",
+    "slug": "elevate-care-waukegan-waukegan",
+    "address": "2222 AUDREY NIXON BOULEVARD",
+    "addressKey": "2222 AUDREY NIXON BLVD|60085",
+    "city": "Waukegan",
+    "county": "Lake",
+    "region": null,
+    "zip": "60085",
+    "lat": 42.3609,
+    "lng": -87.862,
+    "phone": "8472492400",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145669",
+      "certifiedBeds": 265,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 2,
+        "staffing": 2,
+        "quality": 3
+      },
+      "deficiencyCount": 15,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 2 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 15 deficiencies. CMS records 5 penalties against this facility, including 5 fines totaling $65,554.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "WHITEHALL OF DEERFIELD",
+    "slug": "whitehall-of-deerfield-deerfield",
+    "address": "300 WAUKEGAN ROAD",
+    "addressKey": "300 WAUKEGAN RD|60015",
+    "city": "Deerfield",
+    "county": "Lake",
+    "region": null,
+    "zip": "60015",
+    "lat": 42.1577,
+    "lng": -87.839,
+    "phone": "8479454600",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145706",
+      "certifiedBeds": 190,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 3,
+        "staffing": 4,
+        "quality": 4
+      },
+      "deficiencyCount": 11,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 3 stars, staffing: 4 stars, quality measures: 4 stars). The most recent standard health inspection identified 11 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "AVANTARA LAKE ZURICH",
+    "slug": "avantara-lake-zurich-lake-zurich",
+    "address": "900 SOUTH RAND ROAD",
+    "addressKey": "900 S RAND RD|60047",
+    "city": "Lake zurich",
+    "county": "Lake",
+    "region": null,
+    "zip": "60047",
+    "lat": 42.2046,
+    "lng": -88.051,
+    "phone": "8477261200",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145816",
+      "certifiedBeds": 203,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 3,
+        "quality": 5
+      },
+      "deficiencyCount": 6,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 3 stars, quality measures: 5 stars). The most recent standard health inspection identified 6 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $14,901.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "WARREN BARR BUFFALO GROVE",
+    "slug": "warren-barr-buffalo-grove-buffalo-grove",
+    "address": "150 NORTH WEILAND ROAD",
+    "addressKey": "150 N WEILAND RD|60089",
+    "city": "Buffalo grove",
+    "county": "Lake",
+    "region": null,
+    "zip": "60089",
+    "lat": 42.1572,
+    "lng": -87.954,
+    "phone": "8474650200",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145819",
+      "certifiedBeds": 200,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 3,
+        "staffing": 2,
+        "quality": 4
+      },
+      "deficiencyCount": 18,
+      "ownershipType": "For profit - Partnership",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 3 stars, staffing: 2 stars, quality measures: 4 stars). The most recent standard health inspection identified 18 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $9,311.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "AVANTARA LONG GROVE",
+    "slug": "avantara-long-grove-long-grove",
+    "address": "1666 CHECKER ROAD",
+    "addressKey": "1666 CHECKER RD|60047",
+    "city": "Long grove",
+    "county": "Lake",
+    "region": null,
+    "zip": "60047",
+    "lat": 42.1609,
+    "lng": -87.99,
+    "phone": "8474191111",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145868",
+      "certifiedBeds": 195,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 2,
+        "quality": 5
+      },
+      "deficiencyCount": 8,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 2 stars, quality measures: 5 stars). The most recent standard health inspection identified 8 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ALDEN LONG GROVE REHAB &HC CTR",
+    "slug": "alden-long-grove-rehab-hc-ctr-long-grove",
+    "address": "2308  OLD HICKS ROAD",
+    "addressKey": "2308 OLD HICKS RD|60047",
+    "city": "Long grove",
+    "county": "Lake",
+    "region": null,
+    "zip": "60047",
+    "lat": 42.17,
+    "lng": -88.019,
+    "phone": "8474388275",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145872",
+      "certifiedBeds": 248,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 1,
+        "staffing": 1,
+        "quality": 4
+      },
+      "deficiencyCount": 8,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 1 stars, quality measures: 4 stars). The most recent standard health inspection identified 8 deficiencies. CMS records 3 penalties against this facility, including 3 fines totaling $183,548.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ALTA REHAB AT WAUCONDA",
+    "slug": "alta-rehab-at-wauconda-wauconda",
+    "address": "176 THOMAS COURT",
+    "addressKey": "176 THOMAS CT|60084",
+    "city": "Wauconda",
+    "county": "Lake",
+    "region": null,
+    "zip": "60084",
+    "lat": 42.2549,
+    "lng": -88.148,
+    "phone": "8475265551",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145887",
+      "certifiedBeds": 149,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 3,
+        "quality": 5
+      },
+      "deficiencyCount": 8,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 3 stars, quality measures: 5 stars). The most recent standard health inspection identified 8 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $7,443.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "WARREN BARR NORTH SHORE",
+    "slug": "warren-barr-north-shore-highland-park",
+    "address": "2773 SKOKIE VALLEY ROAD",
+    "addressKey": "2773 SKOKIE VALLEY RD|60035",
+    "city": "Highland park",
+    "county": "Lake",
+    "region": null,
+    "zip": "60035",
+    "lat": 42.2067,
+    "lng": -87.837,
+    "phone": "8472669266",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145923",
+      "certifiedBeds": 215,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 2,
+        "quality": 3
+      },
+      "deficiencyCount": 8,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 8 deficiencies. CMS records 2 penalties against this facility, including 2 fines totaling $24,397.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ALIYA OF HIGHWOOD",
+    "slug": "aliya-of-highwood-highwood",
+    "address": "50 PLEASANT AVENUE",
+    "addressKey": "50 PLEASANT AVE|60040",
+    "city": "Highwood",
+    "county": "Lake",
+    "region": null,
+    "zip": "60040",
+    "lat": 42.1973,
+    "lng": -87.814,
+    "phone": "8474329142",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145936",
+      "certifiedBeds": 104,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 2,
+        "quality": 4
+      },
+      "deficiencyCount": 12,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 2 stars, quality measures: 4 stars). The most recent standard health inspection identified 12 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "LAKE FOREST PLACE",
+    "slug": "lake-forest-place-lake-forest",
+    "address": "1100 PEMBRIDGE DRIVE",
+    "addressKey": "1100 PEMBRIDGE DR|60045",
+    "city": "Lake forest",
+    "county": "Lake",
+    "region": null,
+    "zip": "60045",
+    "lat": 42.2614,
+    "lng": -87.866,
+    "phone": "8476046701",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145986",
+      "certifiedBeds": 50,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 5,
+        "quality": 3
+      },
+      "deficiencyCount": 6,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": true,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 5 stars, quality measures: 3 stars). The most recent standard health inspection identified 6 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SERENITY ESTATES OF LINCOLNSHIRE",
+    "slug": "serenity-estates-of-lincolnshire-lincolnshire",
+    "address": "150 JAMESTOWN LANE",
+    "addressKey": "150 JAMESTOWN LN|60069",
+    "city": "Lincolnshire",
+    "county": "Lake",
+    "region": null,
+    "zip": "60069",
+    "lat": 42.2054,
+    "lng": -87.931,
+    "phone": "2245437100",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146028",
+      "certifiedBeds": 144,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 2,
+        "staffing": 1,
+        "quality": 2
+      },
+      "deficiencyCount": 21,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 2 stars, staffing: 1 stars, quality measures: 2 stars). The most recent standard health inspection identified 21 deficiencies. CMS records 9 penalties against this facility, including 7 fines totaling $242,964.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "HILLCREST RETIREMENT VILLAGE",
+    "slug": "hillcrest-retirement-village-round-lake-beach",
+    "address": "1740 NORTH CIRCUIT DRIVE",
+    "addressKey": "1740 N CIRCUIT DR|60073",
+    "city": "Round lake beach",
+    "county": "Lake",
+    "region": null,
+    "zip": "60073",
+    "lat": 42.3795,
+    "lng": -88.086,
+    "phone": "8475465300",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146130",
+      "certifiedBeds": 140,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 2,
+        "quality": 3
+      },
+      "deficiencyCount": 12,
+      "ownershipType": "For profit - Partnership",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 12 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $18,974.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "THE TERRACE",
+    "slug": "the-terrace-waukegan",
+    "address": "1615 SUNSET AVENUE",
+    "addressKey": "1615 SUNSET AVE|60087",
+    "city": "Waukegan",
+    "county": "Lake",
+    "region": null,
+    "zip": "60087",
+    "lat": 42.392,
+    "lng": -87.852,
+    "phone": "8472446700",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146159",
+      "certifiedBeds": 115,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 2,
+        "staffing": 2,
+        "quality": 2
+      },
+      "deficiencyCount": 11,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 2 stars, staffing: 2 stars, quality measures: 2 stars). The most recent standard health inspection identified 11 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $108,886.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  }
+]

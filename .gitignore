@@ -51,3 +51,10 @@ next-env.d.ts
 
 # crawler run logs (not a deliverable)
 data/**/*.log
+
+# raw nationwide CMS bulk CSV -- re-fetchable from data.cms.gov, only the
+# per-county filtered JSONs derived from it are committed
+data/raw/cms/*.csv
+
+# local agent session state, not a project artifact
+.claude/

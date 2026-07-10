@@ -1,0 +1,1581 @@
+[
+  {
+    "name": "ARBOR TERRACE NAPERVILLE",
+    "slug": "arbor-terrace-naperville-naperville",
+    "address": "2920 Leverenz Road",
+    "addressKey": "2920 LEVERENZ RD|60564",
+    "city": "Naperville",
+    "county": "Will",
+    "region": null,
+    "zip": "60564",
+    "lat": 41.717089736562,
+    "lng": -88.203940587471,
+    "phone": "(630) 219-3670",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6020411",
+      "licenseStatus": "Active",
+      "units": 48,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 47,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 05/01/2026 (Complaint Original Investigation). IDPH's record shows 9 surveys on file, including 5 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "MARLEY OAKS AL RESIDENCE",
+    "slug": "marley-oaks-al-residence-mokena",
+    "address": "12631 W 187th St",
+    "addressKey": "12631 W 187TH ST|60448",
+    "city": "Mokena",
+    "county": "Will",
+    "region": null,
+    "zip": "60448",
+    "lat": 41.548902965299,
+    "lng": -87.923862275655,
+    "phone": "(815) 485-5860",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024061",
+      "licenseStatus": "Active",
+      "units": 10,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/01/2026 (Complaint Original Investigation). IDPH's record shows 7 surveys on file, including 2 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "STORYPOINT ROMEOVILLE MC",
+    "slug": "storypoint-romeoville-mc-romeoville",
+    "address": "600 S Edward Dr",
+    "addressKey": "600 S EDWARD DR|60446",
+    "city": "Romeoville",
+    "county": "Will",
+    "region": null,
+    "zip": "60446",
+    "lat": 41.602211081309,
+    "lng": -88.126753577557,
+    "phone": "(815) 439-9955",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025453",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 77,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/29/2026 (Facility Reported Incident). IDPH's record shows 5 surveys on file, including 5 complaint or incident investigations. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "EDEN VISTA JOLIET LLC (3315)",
+    "slug": "eden-vista-joliet-llc-joliet",
+    "address": "3315 Executive Drive",
+    "addressKey": "3315 EXECUTIVE DR|60431",
+    "city": "Joliet",
+    "county": "Will",
+    "region": null,
+    "zip": "60431",
+    "lat": 41.540037429564,
+    "lng": -88.162405520186,
+    "phone": "(815) 729-4773",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025911",
+      "licenseStatus": "Active",
+      "units": 38,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/17/2026 (Facility Reported Incident). IDPH's record shows 5 surveys on file, including 3 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ENCORE AT BOLINGBROOK",
+    "slug": "encore-at-bolingbrook-bolingbrook",
+    "address": "351 Lily Cache Lane",
+    "addressKey": "351 LILY CACHE LN|60440",
+    "city": "Bolingbrook",
+    "county": "Will",
+    "region": null,
+    "zip": "60440",
+    "lat": 41.69085471746,
+    "lng": -88.081503974469,
+    "phone": "(630) 759-0797",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022636",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 42,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 01/24/2026 (Complaint Original Investigation). IDPH's record shows 5 surveys on file, including 4 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "TIMBERS OF SHOREWOOD",
+    "slug": "timbers-of-shorewood-shorewood",
+    "address": "1100 N River Rd",
+    "addressKey": "1100 N RIVER RD|60404",
+    "city": "Shorewood",
+    "county": "Will",
+    "region": null,
+    "zip": "60404",
+    "lat": 41.540028157909,
+    "lng": -88.218549796694,
+    "phone": "(815) 609-0669",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025836",
+      "licenseStatus": "Active",
+      "units": 90,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/18/2026 (Annual Licensure Only Survey). IDPH's record shows 6 surveys on file, including 2 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "COTTAGES OF NEW LENOX, COTTAGE #1",
+    "slug": "cottages-of-new-lenox-cottage-1-new-lenox",
+    "address": "1023 S Cedar Rd",
+    "addressKey": "1023 S CEDAR RD|60451",
+    "city": "New Lenox",
+    "county": "Will",
+    "region": null,
+    "zip": "60451",
+    "lat": 41.496144934992,
+    "lng": -87.965301185622,
+    "phone": "(815) 463-8880",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022286",
+      "licenseStatus": "Active",
+      "units": 16,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": 0,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 08/18/2025 (Annual Licensure Only Survey). IDPH's record shows 4 surveys on file, including 1 complaint or incident investigation. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "COTTAGES OF NEW LENOX, COTTAGE #2",
+    "slug": "cottages-of-new-lenox-cottage-2-new-lenox",
+    "address": "1025 S Cedar Rd",
+    "addressKey": "1025 S CEDAR RD|60451",
+    "city": "New Lenox",
+    "county": "Will",
+    "region": null,
+    "zip": "60451",
+    "lat": 41.496131602292,
+    "lng": -87.965301185624,
+    "phone": "(815) 463-8880",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022303",
+      "licenseStatus": "Active",
+      "units": 16,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": 0,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 06/26/2026 (Annual Licensure Only Survey). IDPH's record shows 5 surveys on file, including 1 complaint or incident investigation. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "COTTAGES OF NEW LENOX, COTTAGE #3",
+    "slug": "cottages-of-new-lenox-cottage-3-new-lenox",
+    "address": "1027 S Cedar Rd",
+    "addressKey": "1027 S CEDAR RD|60451",
+    "city": "New Lenox",
+    "county": "Will",
+    "region": null,
+    "zip": "60451",
+    "lat": 41.496115593609,
+    "lng": -87.965300917026,
+    "phone": "(815) 463-8880",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022311",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 16,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/26/2026 (Facility Reported Incident). IDPH's record shows 7 surveys on file, including 2 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "COTTAGES OF NEW LENOX, COTTAGE #4",
+    "slug": "cottages-of-new-lenox-cottage-4-new-lenox",
+    "address": "1029 S Cedar Rd",
+    "addressKey": "1029 S CEDAR RD|60451",
+    "city": "New Lenox",
+    "county": "Will",
+    "region": null,
+    "zip": "60451",
+    "lat": 41.496102275493,
+    "lng": -87.965300084645,
+    "phone": "(815) 463-8880",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022328",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 16,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 08/18/2025 (Annual Licensure Only Survey). IDPH's record shows 5 surveys on file. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "COTTAGES OF NEW LENOX, COTTAGE #5",
+    "slug": "cottages-of-new-lenox-cottage-5-new-lenox",
+    "address": "1031 S Cedar Rd",
+    "addressKey": "1031 S CEDAR RD|60451",
+    "city": "New Lenox",
+    "county": "Will",
+    "region": null,
+    "zip": "60451",
+    "lat": 41.496088957378,
+    "lng": -87.965299252264,
+    "phone": "(815) 463-8880",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022336",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 16,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 08/18/2025 (Annual Licensure Only Survey). IDPH's record shows 3 surveys on file. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "WILLOW FALLS",
+    "slug": "willow-falls-crest-hill",
+    "address": "1681 Willow Circle Drive",
+    "addressKey": "1681 WILLOW CIR DR|60403",
+    "city": "Crest Hill",
+    "county": "Will",
+    "region": null,
+    "zip": "60403",
+    "lat": 41.553694882294,
+    "lng": -88.119832454892,
+    "phone": "(815) 725-5868",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6026561",
+      "licenseStatus": "Active",
+      "units": 82,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 31,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/21/2026 (Annual Licensure Only Survey). IDPH's record shows 12 surveys on file, including 6 complaint or incident investigations. 6 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "STORYPOINT BOLINGBROOK",
+    "slug": "storypoint-bolingbrook-bolingbrook",
+    "address": "370 N Weber Road",
+    "addressKey": "370 N WEBER RD|60440",
+    "city": "Bolingbrook",
+    "county": "Will",
+    "region": null,
+    "zip": "60440",
+    "lat": 41.706191831296,
+    "lng": -88.126539756509,
+    "phone": "(331) 253-6511",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6026544",
+      "licenseStatus": "Active",
+      "units": 86,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 42,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/18/2026 (Facility Reported Incident). IDPH's record shows 14 surveys on file, including 9 complaint or incident investigations. 6 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CEDARHURST OF FRANKFORT",
+    "slug": "cedarhurst-of-frankfort-frankfort",
+    "address": "21507 S Wolf Road",
+    "addressKey": "21507 S WOLF RD|60423",
+    "city": "Frankfort",
+    "county": "Will",
+    "region": null,
+    "zip": "60423",
+    "lat": 41.498146566847,
+    "lng": -87.888161233646,
+    "phone": "(779) 324-5045",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021736",
+      "licenseStatus": "Active",
+      "units": 56,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 27,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/05/2026 (Complaint Original Investigation). IDPH's record shows 11 surveys on file, including 7 complaint or incident investigations. 7 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "EDEN VISTA JOLIET LLC (3320)",
+    "slug": "eden-vista-joliet-llc-joliet-2",
+    "address": "3320 Executive Drive",
+    "addressKey": "3320 EXECUTIVE DR|60431",
+    "city": "Joliet",
+    "county": "Will",
+    "region": null,
+    "zip": "60431",
+    "lat": 41.539922498634,
+    "lng": -88.162452328612,
+    "phone": "(815) 729-4773",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024953",
+      "licenseStatus": "Active",
+      "units": 101,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/18/2026 (Facility Reported Incident). IDPH's record shows 9 surveys on file, including 4 complaint or incident investigations. 6 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CIEL AT PLAINFIELD",
+    "slug": "ciel-at-plainfield-plainfield",
+    "address": "12446 S Van Dyke Road",
+    "addressKey": "12446 S VAN DYKE RD|60585",
+    "city": "Plainfield",
+    "county": "Will",
+    "region": null,
+    "zip": "60585",
+    "lat": 41.657038943926,
+    "lng": -88.213495667089,
+    "phone": "(815) 267-3510",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023211",
+      "licenseStatus": "Active",
+      "units": 80,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 30,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/02/2026 (Complaint Original Investigation). IDPH's record shows 11 surveys on file, including 6 complaint or incident investigations. 5 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "STORYPOINT ROMEOVILLE AL",
+    "slug": "storypoint-romeoville-al-romeoville",
+    "address": "605 S Edward Dr",
+    "addressKey": "605 S EDWARD DR|60446",
+    "city": "Romeoville",
+    "county": "Will",
+    "region": null,
+    "zip": "60446",
+    "lat": 41.599917371013,
+    "lng": -88.127266501557,
+    "phone": "(815) 439-2033",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025436",
+      "licenseStatus": "Active",
+      "units": 201,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/11/2026 (Facility Reported Incident). IDPH's record shows 8 surveys on file, including 6 complaint or incident investigations. 5 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "VICTORIAN INN",
+    "slug": "victorian-inn-homer-glen",
+    "address": "12600 Renaissance Circle",
+    "addressKey": "12600 RENAISSANCE CIR|60491",
+    "city": "Homer Glen",
+    "county": "Will",
+    "region": null,
+    "zip": "60491",
+    "lat": 41.628513835214,
+    "lng": -87.925513304071,
+    "phone": "(708) 301-0800",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025953",
+      "licenseStatus": "Active",
+      "units": 40,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 20,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 05/12/2026 (Facility Reported Incident). IDPH's record shows 6 surveys on file, including 2 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "MARIAN VILLAGE",
+    "slug": "marian-village-homer-glen",
+    "address": "15624 Marian Dr",
+    "addressKey": "15624 MARIAN DR|60491",
+    "city": "Homer Glen",
+    "county": "Will",
+    "region": null,
+    "zip": "60491",
+    "lat": 41.604735780628,
+    "lng": -87.956969283522,
+    "phone": "(708) 226-3780",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024053",
+      "licenseStatus": "Active",
+      "units": 31,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": 38,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 11/18/2025 (Annual Licensure Only Survey). IDPH's record shows 2 surveys on file. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Zyonne PLLC",
+    "slug": "zyonne-pllc-frankfort",
+    "address": "20029 Graceland Lane",
+    "addressKey": "20029 GRACELAND LN|60423",
+    "city": "Frankfort",
+    "county": "Will",
+    "region": null,
+    "zip": "60423",
+    "lat": 41.525079519576,
+    "lng": -87.800529357648,
+    "phone": "(708) 465-5438",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "5222642",
+      "licenseStatus": "Active",
+      "units": 3,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": 0,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/04/2025 (Licensure Initial Survey). IDPH's record shows 1 survey on file. None of the surveys on file show a formal statement of deficiencies (Form 2567) attached.",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Reif Residences",
+    "slug": "reif-residences-frankfort",
+    "address": "7551 W Hickory Creek Dr",
+    "addressKey": "7551 W HICKORY CREEK DR|60423",
+    "city": "Frankfort",
+    "county": "Will",
+    "region": null,
+    "zip": "60423",
+    "lat": 41.511420947828,
+    "lng": -87.798967372058,
+    "phone": "(708) 238-9913",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "5222815",
+      "licenseStatus": "Active",
+      "units": 3,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": 0,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 12/10/2025 (Licensure Initial Survey). IDPH's record shows 1 survey on file. None of the surveys on file show a formal statement of deficiencies (Form 2567) attached.",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "The Oasis of Plainfield",
+    "slug": "the-oasis-of-plainfield-plainfield",
+    "address": "24700 Presidential Ave",
+    "addressKey": "24700 PRESIDENTIAL AVE|60544",
+    "city": "Plainfield",
+    "county": "Will",
+    "region": null,
+    "zip": "60544",
+    "lat": null,
+    "lng": null,
+    "phone": "(815) 545-8353",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "5222831",
+      "licenseStatus": "Active",
+      "units": 63,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 28,
+      "inspectionSummary": null,
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Victory Centre of Joliet",
+    "slug": "victory-centre-of-joliet-joliet",
+    "address": "31 North Broadway",
+    "addressKey": "31 N BROADWAY|60435",
+    "city": "Joliet",
+    "county": "Will",
+    "region": null,
+    "zip": "60435",
+    "lat": 41.523587728011,
+    "lng": -88.089249972623,
+    "phone": "815-724-0308",
+    "website": "https://www.caring.com/senior-living/illinois/joliet/victory-centre-of-joliet",
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Joshua Arms Of Lutheran Social Services of Illinois",
+    "slug": "joshua-arms-of-lutheran-social-services-of-illinois-joliet",
+    "address": "1315 Rowell Avenue",
+    "addressKey": "1315 ROWELL AVE|60433",
+    "city": "Joliet",
+    "county": "Will",
+    "region": null,
+    "zip": "60433",
+    "lat": 41.500670101821,
+    "lng": -88.061647737387,
+    "phone": "815-727-6401",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Heritage Woods of Bolingbrook",
+    "slug": "heritage-woods-of-bolingbrook-bolingbrook",
+    "address": "550 Kildeere",
+    "addressKey": "550 KILDEERE|60440",
+    "city": "Bolingbrook",
+    "county": "Will",
+    "region": null,
+    "zip": "60440",
+    "lat": 41.716032107843,
+    "lng": -88.049403629666,
+    "phone": "630-783-9640",
+    "website": "https://www.gardant.com/heritagewoodsbolingbrook/",
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Heritage Woods of Plainfield",
+    "slug": "heritage-woods-of-plainfield-plainfield",
+    "address": "14731 South Van Dyke Road",
+    "addressKey": "14731 S VAN DYKE RD|60544",
+    "city": "Plainfield",
+    "county": "Will",
+    "region": null,
+    "zip": "60544",
+    "lat": 41.615643686954,
+    "lng": -88.215555488963,
+    "phone": "(815) 267-3800",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Avantara Joliet",
+    "slug": "avantara-joliet-joliet",
+    "address": "210 NORTH SPRINGFIELD AVENUE",
+    "addressKey": "210 N SPRINGFIELD AVE|60435",
+    "city": "Joliet",
+    "county": "Will",
+    "region": null,
+    "zip": "60435",
+    "lat": 41.525,
+    "lng": -88.138,
+    "phone": "8157253400",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145029",
+      "certifiedBeds": 154,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 2,
+        "staffing": 2,
+        "quality": 2
+      },
+      "deficiencyCount": 14,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 2 stars, staffing: 2 stars, quality measures: 2 stars). The most recent standard health inspection identified 14 deficiencies. CMS records 3 penalties against this facility, including 3 fines totaling $33,535.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "PARC JOLIET",
+    "slug": "parc-joliet-joliet",
+    "address": "222 NORTH HAMMES",
+    "addressKey": "222 N HAMMES|60435",
+    "city": "Joliet",
+    "county": "Will",
+    "region": null,
+    "zip": "60435",
+    "lat": 41.5255,
+    "lng": -88.132,
+    "phone": "8157250443",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145221",
+      "certifiedBeds": 203,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 2,
+        "staffing": 2,
+        "quality": 3
+      },
+      "deficiencyCount": 22,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 2 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 22 deficiencies. CMS records 2 penalties against this facility, including 2 fines totaling $25,830.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "APERION CARE WILMINGTON",
+    "slug": "aperion-care-wilmington-wilmington",
+    "address": "555 WEST KAHLER",
+    "addressKey": "555 W KAHLER|60481",
+    "city": "Wilmington",
+    "county": "Will",
+    "region": null,
+    "zip": "60481",
+    "lat": 41.2983,
+    "lng": -88.137,
+    "phone": "8154762200",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145316",
+      "certifiedBeds": 171,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 2,
+        "staffing": 1,
+        "quality": 4
+      },
+      "deficiencyCount": 21,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 2 stars, staffing: 1 stars, quality measures: 4 stars). The most recent standard health inspection identified 21 deficiencies. CMS records 4 penalties against this facility, including 4 fines totaling $293,067.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "PEARL OF JOLIET, THE",
+    "slug": "pearl-of-joliet-the-joliet",
+    "address": "306 NORTH LARKIN AVENUE",
+    "addressKey": "306 N LARKIN AVE|60435",
+    "city": "Joliet",
+    "county": "Will",
+    "region": null,
+    "zip": "60435",
+    "lat": 41.5269,
+    "lng": -88.125,
+    "phone": "8157445560",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145372",
+      "certifiedBeds": 214,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 2,
+        "staffing": 1,
+        "quality": 3
+      },
+      "deficiencyCount": 19,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 2 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 19 deficiencies. CMS records 4 penalties against this facility, including 3 fines totaling $83,448.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BEECHER MANOR NRSG & REHAB CTR",
+    "slug": "beecher-manor-nrsg-rehab-ctr-beecher",
+    "address": "1201 DIXIE HIGHWAY",
+    "addressKey": "1201 DIXIE HWY|60401",
+    "city": "Beecher",
+    "county": "Will",
+    "region": null,
+    "zip": "60401",
+    "lat": 41.3553,
+    "lng": -87.621,
+    "phone": "7089462600",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145538",
+      "certifiedBeds": 128,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 3,
+        "staffing": 1,
+        "quality": 5
+      },
+      "deficiencyCount": 15,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 3 stars, staffing: 1 stars, quality measures: 5 stars). The most recent standard health inspection identified 15 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $15,935.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ST JAMES WELLNESS REHAB VILLAS",
+    "slug": "st-james-wellness-rehab-villas-crete",
+    "address": "1251 EAST RICHTON ROAD",
+    "addressKey": "1251 E RICHTON RD|60417",
+    "city": "Crete",
+    "county": "Will",
+    "region": null,
+    "zip": "60417",
+    "lat": 41.4575,
+    "lng": -87.582,
+    "phone": "7086726700",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145611",
+      "certifiedBeds": 110,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 3,
+        "staffing": 1,
+        "quality": 3
+      },
+      "deficiencyCount": 11,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 3 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 11 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "RENWICK NURSING AND REHAB",
+    "slug": "renwick-nursing-and-rehab-joliet",
+    "address": "3401 HENNEPIN DRIVE",
+    "addressKey": "3401 HENNEPIN DR|60435",
+    "city": "Joliet",
+    "county": "Will",
+    "region": null,
+    "zip": "60435",
+    "lat": 41.5772,
+    "lng": -88.152,
+    "phone": "8154365900",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145694",
+      "certifiedBeds": 120,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 1,
+        "staffing": 1,
+        "quality": 1
+      },
+      "deficiencyCount": 15,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 1 stars, quality measures: 1 stars). The most recent standard health inspection identified 15 deficiencies. CMS records 10 penalties against this facility, including 6 fines totaling $202,040.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "MEADOWBROOK MANOR",
+    "slug": "meadowbrook-manor-bolingbrook",
+    "address": "431 WEST REMINGTON BOULEVARD",
+    "addressKey": "431 W REMINGTON BLVD|60440",
+    "city": "Bolingbrook",
+    "county": "Will",
+    "region": null,
+    "zip": "60440",
+    "lat": 41.6804,
+    "lng": -88.083,
+    "phone": "6307591112",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145710",
+      "certifiedBeds": 298,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 2,
+        "staffing": 2,
+        "quality": 3
+      },
+      "deficiencyCount": 17,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 2 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 17 deficiencies. CMS records 3 penalties against this facility, including 3 fines totaling $169,675.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "LAKEWOOD NRSG & REHAB CENTER",
+    "slug": "lakewood-nrsg-rehab-center-plainfield",
+    "address": "14716 S EASTERN AVENUE",
+    "addressKey": "14716 S EASTERN AVE|60544",
+    "city": "Plainfield",
+    "county": "Will",
+    "region": null,
+    "zip": "60544",
+    "lat": 41.6153,
+    "lng": -88.197,
+    "phone": "8154363400",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145761",
+      "certifiedBeds": 131,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 2,
+        "staffing": 3,
+        "quality": 5
+      },
+      "deficiencyCount": 15,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 2 stars, staffing: 3 stars, quality measures: 5 stars). The most recent standard health inspection identified 15 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $84,925.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SUNNY HILL NURSING HOME OF WILL COUNTY",
+    "slug": "sunny-hill-nursing-home-of-will-county-joliet",
+    "address": "421 DORIS AVENUE",
+    "addressKey": "421 DORIS AVE|60433",
+    "city": "Joliet",
+    "county": "Will",
+    "region": null,
+    "zip": "60433",
+    "lat": 41.5063,
+    "lng": -88.071,
+    "phone": "8157278710",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145892",
+      "certifiedBeds": 157,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 5,
+        "quality": 2
+      },
+      "deficiencyCount": 10,
+      "ownershipType": "Government - County",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 5 stars, quality measures: 2 stars). The most recent standard health inspection identified 10 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ALDEN ESTATES OF SHOREWOOD",
+    "slug": "alden-estates-of-shorewood-shorewood",
+    "address": "710 W BLACK ROAD",
+    "addressKey": "710 W BLACK RD|60404",
+    "city": "Shorewood",
+    "county": "Will",
+    "region": null,
+    "zip": "60404",
+    "lat": 41.536,
+    "lng": -88.207,
+    "phone": "8152308700",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146153",
+      "certifiedBeds": 100,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 5,
+        "staffing": 3,
+        "quality": 3
+      },
+      "deficiencyCount": 6,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 5 stars, staffing: 3 stars, quality measures: 3 stars). The most recent standard health inspection identified 6 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SPRING CREEK",
+    "slug": "spring-creek-joliet",
+    "address": "777 DRAPER AVENUE",
+    "addressKey": "777 DRAPER AVE|60432",
+    "city": "Joliet",
+    "county": "Will",
+    "region": null,
+    "zip": "60432",
+    "lat": 41.539,
+    "lng": -88.055,
+    "phone": "8157274794",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146172",
+      "certifiedBeds": 168,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 3,
+        "staffing": 2,
+        "quality": 3
+      },
+      "deficiencyCount": 13,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 3 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 13 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $19,135.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "VICTORIAN VILLAGE HLTH & WELL",
+    "slug": "victorian-village-hlth-well-homer-glen",
+    "address": "12525 W RENAISSANCE CIRCLE",
+    "addressKey": "12525 W RENAISSANCE CIR|60491",
+    "city": "Homer glen",
+    "county": "Will",
+    "region": null,
+    "zip": "60491",
+    "lat": 41.6287,
+    "lng": -87.924,
+    "phone": "7085905050",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146178",
+      "certifiedBeds": 50,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 5,
+        "quality": 3
+      },
+      "deficiencyCount": 6,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 5 stars, quality measures: 3 stars). The most recent standard health inspection identified 6 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ALDEN COURTS OF SHOREWOOD",
+    "slug": "alden-courts-of-shorewood-shorewood",
+    "address": "700 WEST BLACK ROAD",
+    "addressKey": "700 W BLACK RD|60404",
+    "city": "Shorewood",
+    "county": "Will",
+    "region": null,
+    "zip": "60404",
+    "lat": 41.536,
+    "lng": -88.207,
+    "phone": "8152308700",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146183",
+      "certifiedBeds": 50,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 5,
+        "staffing": 3,
+        "quality": 1
+      },
+      "deficiencyCount": 4,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 5 stars, staffing: 3 stars, quality measures: 1 stars). The most recent standard health inspection identified 4 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "FRANKFORT TERRACE",
+    "slug": "frankfort-terrace-frankfort",
+    "address": "40 NORTH SMITH",
+    "addressKey": "40 N SMITH|60423",
+    "city": "Frankfort",
+    "county": "Will",
+    "region": null,
+    "zip": "60423",
+    "lat": 41.5136,
+    "lng": -87.799,
+    "phone": "8154693156",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "14E212",
+      "certifiedBeds": 120,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 2,
+        "staffing": 2,
+        "quality": 5
+      },
+      "deficiencyCount": 13,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 2 stars, staffing: 2 stars, quality measures: 5 stars). The most recent standard health inspection identified 13 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Joliet Living & Rehab Center",
+    "slug": "joliet-living-rehab-center-joliet",
+    "address": "2230 MCDONOUGH",
+    "addressKey": "2230 MCDONOUGH|60436",
+    "city": "Joliet",
+    "county": "Will",
+    "region": null,
+    "zip": "60436",
+    "lat": 41.5151,
+    "lng": -88.135,
+    "phone": "8157293801",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "14E247",
+      "certifiedBeds": 120,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 2,
+        "staffing": 2,
+        "quality": 4
+      },
+      "deficiencyCount": 11,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 2 stars, staffing: 2 stars, quality measures: 4 stars). The most recent standard health inspection identified 11 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  }
+]

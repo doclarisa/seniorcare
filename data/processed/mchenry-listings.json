@@ -1,0 +1,1197 @@
+[
+  {
+    "name": "ENCORE AT CRYSTAL LAKE",
+    "slug": "encore-at-crystal-lake-crystal-lake",
+    "address": "495 Alexandra Blvd",
+    "addressKey": "495 ALEXANDRA BLVD|60014",
+    "city": "Crystal Lake",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60014",
+    "lat": 42.199692836042,
+    "lng": -88.339790063763,
+    "phone": "(815) 459-7800",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022653",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 38,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 05/19/2026 (Facility Reported Incident). IDPH's record shows 5 surveys on file, including 2 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "OAKS AT ALGONQUIN SENIOR LIVING",
+    "slug": "oaks-at-algonquin-senior-living-algonquin",
+    "address": "2595 Harnish Drive",
+    "addressKey": "2595 HARNISH DR|60102",
+    "city": "Algonquin",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60102",
+    "lat": null,
+    "lng": null,
+    "phone": "(847) 786-8181",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024378",
+      "licenseStatus": "Active",
+      "units": 52,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 24,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/10/2026 (Annual Licensure Only Survey). IDPH's record shows 12 surveys on file, including 9 complaint or incident investigations. 6 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "THREE OAKS ASSISTED LIVING",
+    "slug": "three-oaks-assisted-living-cary",
+    "address": "1055 Silver Lake Rd",
+    "addressKey": "1055 SILVER LAKE RD|60013",
+    "city": "Cary",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60013",
+    "lat": 42.219894428214,
+    "lng": -88.24863352799,
+    "phone": "(847) 516-6016",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025786",
+      "licenseStatus": "Active",
+      "units": 62,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 25,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/07/2026 (Facility Reported Incident). IDPH's record shows 12 surveys on file, including 9 complaint or incident investigations. 6 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "COURTYARD AT MCHENRY (THE) MC",
+    "slug": "courtyard-at-mchenry-mc-mchenry",
+    "address": "3350 Charles J Miller Road",
+    "addressKey": "3350 CHARLES J MILLER RD|60050",
+    "city": "McHenry",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60050",
+    "lat": 42.322261710338,
+    "lng": -88.263865310404,
+    "phone": "(815) 385-9840",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022411",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 40,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 09/19/2025 (Complaint Original Investigation). IDPH's record shows 5 surveys on file, including 2 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ARDEN ROSE SENIOR LIVING",
+    "slug": "arden-rose-senior-living-lake-in-the-hills",
+    "address": "700 E Oak Street",
+    "addressKey": "700 E OAK ST|60156",
+    "city": "Lake in the Hills",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60156",
+    "lat": 42.188894591259,
+    "lng": -88.310315123234,
+    "phone": "(224) 241-8158",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6020453",
+      "licenseStatus": "Active",
+      "units": 16,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/18/2026 (Annual Licensure Only Survey). IDPH's record shows 5 surveys on file, including 2 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "HEATHERS SENIOR HOMES AT RINGWOOD",
+    "slug": "heathers-senior-homes-at-ringwood-ringwood",
+    "address": "6809 Barnard Mill Road",
+    "addressKey": "6809 BARNARD MILL RD|60072",
+    "city": "Ringwood",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60072",
+    "lat": 42.403008657909,
+    "lng": -88.331170885138,
+    "phone": "(224) 858-7212",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023453",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 7,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/20/2026 (Complaint Original Investigation). IDPH's record shows 3 surveys on file, including 1 complaint or incident investigation. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "MAYA'S VILLA",
+    "slug": "maya-s-villa-mchenry",
+    "address": "1309 Meadow Lane",
+    "addressKey": "1309 MEADOW LN|60050",
+    "city": "McHenry",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60050",
+    "lat": 42.346741399962,
+    "lng": -88.292101024167,
+    "phone": "(224) 456-5805",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024253",
+      "licenseStatus": "Active",
+      "units": 5,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/14/2024 (Annual Licensure Only Survey). IDPH's record shows 1 survey on file. None of the surveys on file show a formal statement of deficiencies (Form 2567) attached.",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BICKFORD - CRYSTAL LAKE COTTAGE",
+    "slug": "bickford-crystal-lake-cottage-crystal-lake",
+    "address": "717 McHenry Ave",
+    "addressKey": "717 MCHENRY AVE|60014",
+    "city": "Crystal Lake",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60014",
+    "lat": 42.221059943496,
+    "lng": -88.338463260535,
+    "phone": "(815) 477-4200",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021053",
+      "licenseStatus": "Active",
+      "units": 42,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 14,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/05/2026 (Facility Reported Incident). IDPH's record shows 12 surveys on file, including 5 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "MELODY LIVING OF LAKE IN THE HILLS",
+    "slug": "melody-living-of-lake-in-the-hills-lake-in-the-hills",
+    "address": "525 Harvest Gate Road",
+    "addressKey": "525 HARVEST GATE RD|60156",
+    "city": "Lake in the Hills",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60156",
+    "lat": 42.177819624982,
+    "lng": -88.345225594528,
+    "phone": "(847) 957-7070",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024103",
+      "licenseStatus": "Active",
+      "units": 74,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 14,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/20/2026 (Facility Reported Incident). IDPH's record shows 12 surveys on file, including 9 complaint or incident investigations. 5 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CEDARHURST OF MCHENRY",
+    "slug": "cedarhurst-of-mchenry-mchenry",
+    "address": "3801 Blake Blvd",
+    "addressKey": "3801 BLAKE BLVD|60050",
+    "city": "McHenry",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60050",
+    "lat": 42.358416805286,
+    "lng": -88.269133050382,
+    "phone": "(314) 884-2000",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021811",
+      "licenseStatus": "Active",
+      "units": 62,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 20,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/04/2026 (Complaint Original Investigation). IDPH's record shows 7 surveys on file, including 5 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "COURTYARD AT MCHENRY (THE) AL",
+    "slug": "courtyard-at-mchenry-al-mchenry",
+    "address": "3300 Charles J Miller Road",
+    "addressKey": "3300 CHARLES J MILLER RD|60050",
+    "city": "McHenry",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60050",
+    "lat": 42.322323050956,
+    "lng": -88.26039579757,
+    "phone": "(815) 385-9840",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022403",
+      "licenseStatus": "Active",
+      "units": 97,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 0,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 06/09/2026 (Complaint Original Investigation). IDPH's record shows 8 surveys on file, including 5 complaint or incident investigations. 5 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CEDARHURST OF WOODSTOCK",
+    "slug": "cedarhurst-of-woodstock-woodstock",
+    "address": "10511 Route 14",
+    "addressKey": "10511 ROUTE 14|60098",
+    "city": "Woodstock",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60098",
+    "lat": 42.278347020612,
+    "lng": -88.403544571712,
+    "phone": "(815) 527-7563",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021928",
+      "licenseStatus": "Active",
+      "units": 56,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 27,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/04/2026 (Facility Reported Incident). IDPH's record shows 12 surveys on file, including 6 complaint or incident investigations. 6 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SHEPHERD PREMIER OF HARVARD",
+    "slug": "shepherd-premier-of-harvard-harvard",
+    "address": "210 East Front Street",
+    "addressKey": "210 E FRONT ST|60033",
+    "city": "Harvard",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60033",
+    "lat": 42.419141136345,
+    "lng": -88.614788862543,
+    "phone": "(815) 333-6379",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025078",
+      "licenseStatus": "Active",
+      "units": 14,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/05/2026 (Complaint Original Investigation). IDPH's record shows 3 surveys on file, including 2 complaint or incident investigations. None of the surveys on file show a formal statement of deficiencies (Form 2567) attached.",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CLARENDALE OF ALGONQUIN",
+    "slug": "clarendale-of-algonquin-algonquin",
+    "address": "2001 West Algonquin Road",
+    "addressKey": "2001 W ALGONQUIN RD|60102",
+    "city": "Algonquin",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60102",
+    "lat": 42.17563109399,
+    "lng": -88.324326493578,
+    "phone": "(847) 984-1895",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6022136",
+      "licenseStatus": "Active",
+      "units": 72,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 54,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/03/2026 (Facility Reported Incident). IDPH's record shows 8 surveys on file, including 5 complaint or incident investigations. 5 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "WHITE OAKS AT HERITAGE WOODS OF MCHENRY",
+    "slug": "white-oaks-at-heritage-woods-of-mchenry-mchenry",
+    "address": "4605 W Crystal Lake Rd",
+    "addressKey": "4605 W CRYSTAL LAKE RD|60050",
+    "city": "McHenry",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60050",
+    "lat": 42.338100728098,
+    "lng": -88.286399443414,
+    "phone": "(815) 344-2970",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6026528",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 48,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 01/26/2026 (Annual Licensure Only Survey). IDPH's record shows 8 surveys on file, including 4 complaint or incident investigations. 5 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "HEATHERS SENIOR HOMES (THE) 4560",
+    "slug": "heathers-senior-homes-4560-lake-in-the-hills",
+    "address": "4560 Princeton Lane",
+    "addressKey": "4560 PRINCETON LN|60156",
+    "city": "Lake in the Hills",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60156",
+    "lat": 42.201689389047,
+    "lng": -88.382536334502,
+    "phone": "(224) 858-7212",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023428",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 14,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 12/02/2025 (Annual Licensure Only Survey). IDPH's record shows 2 surveys on file, including 1 complaint or incident investigation. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "HEATHERS SENIOR HOMES (THE) 4570",
+    "slug": "heathers-senior-homes-4570-lake-in-the-hills",
+    "address": "4570 Princeton Lane",
+    "addressKey": "4570 PRINCETON LN|60156",
+    "city": "Lake in the Hills",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60156",
+    "lat": 42.201582324405,
+    "lng": -88.382787420307,
+    "phone": "(224) 858-7212",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023436",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 14,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/13/2026 (Facility Reported Incident). IDPH's record shows 4 surveys on file, including 2 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "StoryPoint Crystal Lake",
+    "slug": "storypoint-crystal-lake-crystal-lake",
+    "address": "751 E Terra Cotta Ave",
+    "addressKey": "751 E TERRA COTTA AVE|60014",
+    "city": "Crystal Lake",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60014",
+    "lat": null,
+    "lng": null,
+    "phone": "(815) 444-6600",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025528",
+      "licenseStatus": "Active",
+      "units": 45,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 13,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/13/2026 (Facility Reported Incident). IDPH's record shows 7 surveys on file, including 6 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SHEPHERD PREMIER SENIOR LIVING - CRYSTAL LAKE",
+    "slug": "shepherd-premier-senior-living-crystal-lake-crystal-lake",
+    "address": "5430 Hillside Road",
+    "addressKey": "5430 HILLSIDE RD|60012",
+    "city": "Crystal Lake",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60012",
+    "lat": 42.264824339745,
+    "lng": -88.304471854837,
+    "phone": "(815) 333-6379",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025103",
+      "licenseStatus": "Active",
+      "units": 6,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": 0,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 06/03/2026 (Complaint Original Investigation). IDPH's record shows 5 surveys on file, including 1 complaint or incident investigation. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Arden Rose Senior Living Two",
+    "slug": "arden-rose-senior-living-two-lake-in-the-hills",
+    "address": "698 E Oak Street",
+    "addressKey": "698 E OAK ST|60156",
+    "city": "Lake in the Hills",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60156",
+    "lat": 42.187434836662,
+    "lng": -88.314470344744,
+    "phone": "(224) 241-8158",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "5222810",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 16,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 10/15/2025 (Complaint Original Investigation). IDPH's record shows 2 surveys on file, including 1 complaint or incident investigation. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Pointe at  Algonquin, The",
+    "slug": "pointe-at-algonquin-the-algonquin",
+    "address": "101 Eastgate Court",
+    "addressKey": "101 EASTGATE CT|60102",
+    "city": "Algonquin",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60102",
+    "lat": 42.165024117348,
+    "lng": -88.285953130122,
+    "phone": "847-458-2800",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Heritage Woods of McHenry",
+    "slug": "heritage-woods-of-mchenry-mchenry",
+    "address": "4609 West Crystal Lake Road",
+    "addressKey": "4609 W CRYSTAL LAKE RD|60050",
+    "city": "McHenry",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60050",
+    "lat": 42.337783504178,
+    "lng": -88.286756270174,
+    "phone": "815-344-2690",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "La Bella of Woodstock",
+    "slug": "la-bella-of-woodstock-woodstock",
+    "address": "309 MCHENRY AVENUE",
+    "addressKey": "309 MCHENRY AVE|60098",
+    "city": "Woodstock",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60098",
+    "lat": 42.3194,
+    "lng": -88.443,
+    "phone": "8153381700",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145222",
+      "certifiedBeds": 115,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 1,
+        "staffing": 1,
+        "quality": 4
+      },
+      "deficiencyCount": 30,
+      "ownershipType": "For profit - Individual",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 1 stars, quality measures: 4 stars). The most recent standard health inspection identified 30 deficiencies. CMS records 9 penalties against this facility, including 6 fines totaling $455,016.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CRYSTAL PINES REHAB & HCC",
+    "slug": "crystal-pines-rehab-hcc-crystal-lake",
+    "address": "335 NORTH ILLINOIS AVENUE",
+    "addressKey": "335 N ILLINOIS AVE|60014",
+    "city": "Crystal lake",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60014",
+    "lat": 42.2335,
+    "lng": -88.369,
+    "phone": "8154597791",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145257",
+      "certifiedBeds": 110,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 2,
+        "staffing": 1,
+        "quality": 2
+      },
+      "deficiencyCount": 16,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 2 stars, staffing: 1 stars, quality measures: 2 stars). The most recent standard health inspection identified 16 deficiencies. CMS records 4 penalties against this facility, including 3 fines totaling $52,795.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ALDEN TERRACE OF MCHENRY REHAB",
+    "slug": "alden-terrace-of-mchenry-rehab-mchenry",
+    "address": "803 ROYAL DRIVE",
+    "addressKey": "803 ROYAL DR|60050",
+    "city": "Mchenry",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60050",
+    "lat": 42.3381,
+    "lng": -88.287,
+    "phone": "8153442600",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145453",
+      "certifiedBeds": 316,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 3,
+        "staffing": 1,
+        "quality": 4
+      },
+      "deficiencyCount": 25,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 3 stars, staffing: 1 stars, quality measures: 4 stars). The most recent standard health inspection identified 25 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $11,170.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "PEARL OF CRYSTAL LAKE, THE",
+    "slug": "pearl-of-crystal-lake-the-crystal-lake",
+    "address": "1000 EAST BRIGHTON LANE",
+    "addressKey": "1000 E BRIGHTON LN|60012",
+    "city": "Crystal lake",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60012",
+    "lat": 42.2678,
+    "lng": -88.284,
+    "phone": "8154776569",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145612",
+      "certifiedBeds": 97,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 4,
+        "quality": 5
+      },
+      "deficiencyCount": 7,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 4 stars, quality measures: 5 stars). The most recent standard health inspection identified 7 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "VALLEY HI NURSING HOME",
+    "slug": "valley-hi-nursing-home-woodstock",
+    "address": "2406 HARTLAND ROAD",
+    "addressKey": "2406 HARTLAND RD|60098",
+    "city": "Woodstock",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60098",
+    "lat": 42.3614,
+    "lng": -88.511,
+    "phone": "8153380312",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145652",
+      "certifiedBeds": 128,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 2,
+        "staffing": 5,
+        "quality": 3
+      },
+      "deficiencyCount": 15,
+      "ownershipType": "Government - County",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 2 stars, staffing: 5 stars, quality measures: 3 stars). The most recent standard health inspection identified 15 deficiencies. CMS records 5 penalties against this facility, including 3 fines totaling $155,366.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "FAIR OAKS HEALTH CARE CENTER",
+    "slug": "fair-oaks-health-care-center-crystal-lake",
+    "address": "471 TERRA COTTA AVENUE",
+    "addressKey": "471 TERRA COTTA AVE|60014",
+    "city": "Crystal lake",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60014",
+    "lat": 42.248,
+    "lng": -88.339,
+    "phone": "8154550550",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145917",
+      "certifiedBeds": 51,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 3,
+        "staffing": 4,
+        "quality": 3
+      },
+      "deficiencyCount": 10,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 3 stars, staffing: 4 stars, quality measures: 3 stars). The most recent standard health inspection identified 10 deficiencies. CMS records 3 penalties against this facility, including 2 fines totaling $31,230.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "MERCY HARVARD HOSPITAL CARE CENTER",
+    "slug": "mercy-harvard-hospital-care-center-harvard",
+    "address": "901 SOUTH GRANT",
+    "addressKey": "901 S GRANT|60033",
+    "city": "Harvard",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60033",
+    "lat": 42.4146,
+    "lng": -88.667,
+    "phone": "8159432967",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146014",
+      "certifiedBeds": 34,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 5,
+        "staffing": 5,
+        "quality": 3
+      },
+      "deficiencyCount": 3,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 5 stars, staffing: 5 stars, quality measures: 3 stars). The most recent standard health inspection identified 3 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "FLORENCE NURSING HOME",
+    "slug": "florence-nursing-home-marengo",
+    "address": "546 EAST GRANT HIGHWAY",
+    "addressKey": "546 E GRANT HWY|60152",
+    "city": "Marengo",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60152",
+    "lat": 42.2464,
+    "lng": -88.602,
+    "phone": "8155688322",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146127",
+      "certifiedBeds": 56,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 5,
+        "staffing": 2,
+        "quality": 3
+      },
+      "deficiencyCount": 2,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 5 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 2 deficiencies. CMS records 1 penalty against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ALDEN ESTATES CTS OF HUNTLEY",
+    "slug": "alden-estates-cts-of-huntley-huntley",
+    "address": "12140 REGENCY PARKWAY",
+    "addressKey": "12140 REGENCY PKWY|60142",
+    "city": "Huntley",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60142",
+    "lat": 42.1485,
+    "lng": -88.437,
+    "phone": "8479617500",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146186",
+      "certifiedBeds": 170,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 2,
+        "staffing": 2,
+        "quality": 4
+      },
+      "deficiencyCount": 10,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 2 stars, staffing: 2 stars, quality measures: 4 stars). The most recent standard health inspection identified 10 deficiencies. CMS records 3 penalties against this facility, including 3 fines totaling $183,372.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "IGNITE MEDICAL MCHENRY",
+    "slug": "ignite-medical-mchenry-mchenry",
+    "address": "550 RIDGEVIEW DRIVE",
+    "addressKey": "550 RIDGEVIEW DR|60050",
+    "city": "Mchenry",
+    "county": "McHenry",
+    "region": null,
+    "zip": "60050",
+    "lat": 42.3203,
+    "lng": -88.286,
+    "phone": "8159002500",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146195",
+      "certifiedBeds": 84,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 3,
+        "staffing": 3,
+        "quality": 5
+      },
+      "deficiencyCount": 12,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 3 stars, staffing: 3 stars, quality measures: 5 stars). The most recent standard health inspection identified 12 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $62,153.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  }
+]

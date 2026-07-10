@@ -1,0 +1,1445 @@
+{
+  "8415 Waukegan Road, Morton Grove, IL 60053": {
+    "lat": 42.034308777674,
+    "lng": -87.800408069561,
+    "matchedAddress": "8415 WAUKEGAN RD, MORTON GROVE, IL, 60053"
+  },
+  "10 N Summit, Park Ridge, IL 60068": {
+    "lat": 42.012328847629,
+    "lng": -87.831586851678,
+    "matchedAddress": "10 N SUMMIT AVE, PARK RIDGE, IL, 60068"
+  },
+  "2710 North Clark Street, Chicago, IL 60614": {
+    "lat": 41.931723850185,
+    "lng": -87.644584778477,
+    "matchedAddress": "2710 N CLARK ST, CHICAGO, IL, 60614"
+  },
+  "3501 Northeast Parkway, Lincolnwood, IL 60712": {
+    "lat": 42.006417923847,
+    "lng": -87.714901279324,
+    "matchedAddress": "3501 NORTHEAST PKWY, LINCOLNWOOD, IL, 60712"
+  },
+  "16051 S LaGrange Rd, Orland Park, IL 60467": {
+    "lat": 41.597692565435,
+    "lng": -87.852689008965,
+    "matchedAddress": "16051 S LA GRANGE RD, ORLAND PARK, IL, 60467"
+  },
+  "515 W Rand Road, Arlington Heights, IL 60004": {
+    "lat": 42.117715157008,
+    "lng": -87.988078721238,
+    "matchedAddress": "515 W RAND RD, ARLINGTON HEIGHTS, IL, 60004"
+  },
+  "971 Bode Rd, Elgin, IL 60120": {
+    "lat": 42.037647065795,
+    "lng": -88.253565742034,
+    "matchedAddress": "971 BODE RD, ELGIN, IL, 60120"
+  },
+  "3131 Simpson Street, Evanston, IL 60201": null,
+  "35 Shawmut Avenue, La Grange, IL 60525": {
+    "lat": 41.819218894556,
+    "lng": -87.869767916346,
+    "matchedAddress": "35 SHAWMUT AVE, LA GRANGE, IL, 60525"
+  },
+  "4700 W Lake Avenue, Glenview, IL 60025": {
+    "lat": 42.086664810185,
+    "lng": -87.872556937261,
+    "matchedAddress": "4700 W LAKE AVE, GLENVIEW, IL, 60025"
+  },
+  "11400 Theresa Drive, Lemont, IL 60439": {
+    "lat": 41.676987050895,
+    "lng": -87.973966128135,
+    "matchedAddress": "11400 THERESA DR, LEMONT, IL, 60439"
+  },
+  "1625 S Arlington Heights Rd, Arlington Heights, IL 60005": {
+    "lat": 42.054620103324,
+    "lng": -87.981544195957,
+    "matchedAddress": "1625 S ARLINGTON HEIGHTS RD, ARLINGTON HEIGHTS, IL, 60005"
+  },
+  "335 Ridge Road, Wilmette, IL 60091": null,
+  "708 N Elmhurst Rd, Prospect Heights, IL 60070": {
+    "lat": 42.108210694464,
+    "lng": -87.936856865411,
+    "matchedAddress": "708 N ELMHURST RD, PROSPECT HEIGHTS, IL, 60070"
+  },
+  "110 W Schaumburg Rd, Streamwood, IL 60107": {
+    "lat": 42.031707337271,
+    "lng": -88.183840774713,
+    "matchedAddress": "110 W SCHAUMBURG RD, STREAMWOOD, IL, 60107"
+  },
+  "1061 S Moorings Drive, Arlington Heights, IL 60005": {
+    "lat": 42.065311126573,
+    "lng": -87.974333268687,
+    "matchedAddress": "1061 S MOORINGS DR, ARLINGTON HEIGHTS, IL, 60005"
+  },
+  "1725 Ballard Rd, Park Ridge, IL 60068": null,
+  "12828 S LaGrange Rd, Palos Park, IL 60464": {
+    "lat": 41.657515062758,
+    "lng": -87.854438184235,
+    "matchedAddress": "12828 LA GRANGE RD, PALOS PARK, IL, 60464"
+  },
+  "3535 North Ashland Avenue, Chicago, IL 60657": {
+    "lat": 41.945820183855,
+    "lng": -87.668758044151,
+    "matchedAddress": "3535 N ASHLAND AVE, CHICAGO, IL, 60657"
+  },
+  "215 Bartlett Road, South Barrington, IL 60010": {
+    "lat": 42.072404427008,
+    "lng": -88.179893137059,
+    "matchedAddress": "215 BARTLETT RD, SOUTH BARRINGTON, IL, 60010"
+  },
+  "7100 West College Drive, Palos Heights, IL 60463": {
+    "lat": 41.67538648616,
+    "lng": -87.796618947339,
+    "matchedAddress": "7100 W COLLEGE DR, PALOS HEIGHTS, IL, 60463"
+  },
+  "7000 N McCormick Blvd, Lincolnwood, IL 60712": {
+    "lat": 42.007140872069,
+    "lng": -87.711664567896,
+    "matchedAddress": "7000 N MCCORMICK BLVD, LINCOLNWOOD, IL, 60712"
+  },
+  "2323 McDaniel, Evanston, IL 60201": {
+    "lat": 42.059513007188,
+    "lng": -87.708030075118,
+    "matchedAddress": "2323 MCDANIEL AVE, EVANSTON, IL, 60201"
+  },
+  "1111 S Linneman Rd, Mount Prospect, IL 60056": {
+    "lat": 42.044791835528,
+    "lng": -87.947410440824,
+    "matchedAddress": "1111 S LINNEMAN RD, MOUNT PROSPECT, IL, 60056"
+  },
+  "800 Harlem Avenue, River Forest, IL 60305": {
+    "lat": 41.894283553778,
+    "lng": -87.805318852332,
+    "matchedAddress": "800 N HARLEM AVE, RIVER FOREST, IL, 60305"
+  },
+  "790 N Plum Grove Rd, Schaumburg, IL 60173": {
+    "lat": 42.042756438211,
+    "lng": -88.060172826452,
+    "matchedAddress": "790 N PLUM GROVE RD, SCHAUMBURG, IL, 60173"
+  },
+  "2195 Foxglove Dr, Northbrook, IL 60062": {
+    "lat": 42.11407197908,
+    "lng": -87.847318007461,
+    "matchedAddress": "2195 FOXGLOVE DR, NORTHBROOK, IL, 60062"
+  },
+  "1515 W Ogden Avenue, La Grange Park, IL 60526": {
+    "lat": 41.819422979791,
+    "lng": -87.886028164875,
+    "matchedAddress": "1515 W OGDEN AVE, LA GRANGE PARK, IL, 60526"
+  },
+  "3633 Breakers Drive, Olympia Fields, IL 60461": {
+    "lat": 41.526437168789,
+    "lng": -87.705678484902,
+    "matchedAddress": "3633 BREAKER DR, OLYMPIA FIELDS, IL, 60461"
+  },
+  "10300 Village Circle Dr, Palos Park, IL 60464": {
+    "lat": 41.656715757605,
+    "lng": -87.873381609338,
+    "matchedAddress": "10300 VILLAGE CIRCLE DR, PALOS PARK, IL, 60464"
+  },
+  "8200 S Colfax Ave, Chicago, IL 60617": {
+    "lat": 41.746281337699,
+    "lng": -87.561367357506,
+    "matchedAddress": "8200 S COLFAX AVE, CHICAGO, IL, 60617"
+  },
+  "99 Pointe Drive, Northbrook, IL 60062": {
+    "lat": 42.151471885953,
+    "lng": -87.877996844929,
+    "matchedAddress": "99 POINTE DR, NORTHBROOK, IL, 60062"
+  },
+  "55 East Pearson Street, Chicago, IL 60611": {
+    "lat": 41.897484830976,
+    "lng": -87.626561787285,
+    "matchedAddress": "55 E PEARSON ST, CHICAGO, IL, 60611"
+  },
+  "8021 151st Street, Orland Park, IL 60462": {
+    "lat": 41.616582010306,
+    "lng": -87.814608547175,
+    "matchedAddress": "8021 W 151ST ST, ORLAND PARK, IL, 60462"
+  },
+  "19715 Governors Hwy, Flossmoor, IL 60422": {
+    "lat": 41.532214228625,
+    "lng": -87.696251711212,
+    "matchedAddress": "19715 GOVERNORS HWY, FLOSSMOOR, IL, 60422"
+  },
+  "1250 W Central Road, Arlington Heights, IL 60005": {
+    "lat": 42.066656936816,
+    "lng": -87.997616632728,
+    "matchedAddress": "1250 W CENTRAL RD, ARLINGTON HEIGHTS, IL, 60005"
+  },
+  "4715 West Irving Park Road, Chicago, IL 60641": {
+    "lat": 41.953382057564,
+    "lng": -87.745878151966,
+    "matchedAddress": "4715 W IRVING PARK RD, CHICAGO, IL, 60641"
+  },
+  "1815 Norwood Court, Evanston, IL 60201": null,
+  "1111 Ontario St, Oak Park, IL 60302": {
+    "lat": 41.890502539137,
+    "lng": -87.803496780827,
+    "matchedAddress": "1111 ONTARIO ST, OAK PARK, IL, 60302"
+  },
+  "510 N Greenwood Ave, Park Ridge, IL 60068": {
+    "lat": 42.017607714939,
+    "lng": -87.840786701757,
+    "matchedAddress": "510 N GREENWOOD AVE, PARK RIDGE, IL, 60068"
+  },
+  "703 Madison Street, Oak Park, IL 60302": {
+    "lat": 41.87973825936,
+    "lng": -87.792009558197,
+    "matchedAddress": "703 MADISON ST, OAK PARK, IL, 60302"
+  },
+  "1071 S Mooring Dr, Arlington Heights, IL 60005": {
+    "lat": 42.065045802999,
+    "lng": -87.974324893026,
+    "matchedAddress": "1071 S MOORINGS DR, ARLINGTON HEIGHTS, IL, 60005"
+  },
+  "156 W Dundee Road, Wheeling, IL 60090": {
+    "lat": 42.139554355147,
+    "lng": -87.91880720014,
+    "matchedAddress": "156 W DUNDEE RD, WHEELING, IL, 60090"
+  },
+  "17301 80th Ave, Tinley Park, IL 60477": {
+    "lat": 41.576483583997,
+    "lng": -87.812744406648,
+    "matchedAddress": "17301 80TH AVE, TINLEY PARK, IL, 60477"
+  },
+  "5520 N Paulina St, Chicago, IL 60640": {
+    "lat": 41.982467830258,
+    "lng": -87.672318928776,
+    "matchedAddress": "5520 N PAULINA ST, CHICAGO, IL, 60640"
+  },
+  "1551 Lake Cook Rd, Deerfield, IL 60015": {
+    "lat": 42.152883817066,
+    "lng": -87.866273392456,
+    "matchedAddress": "1551 LAKE COOK RD, DEERFIELD, IL, 60015"
+  },
+  "7000 N Newark Avenue, Niles, IL 60714": {
+    "lat": 42.007183975658,
+    "lng": -87.801049984458,
+    "matchedAddress": "7000 N NEWARK AVE, NILES, IL, 60714"
+  },
+  "10820 183rd Street, Orland Park, IL 60467": {
+    "lat": 41.557220024519,
+    "lng": -87.881729491802,
+    "matchedAddress": "10820 183RD ST, ORLAND PARK, IL, 60467"
+  },
+  "315 N LaGrange Rd, LaGrange Park, IL 60526": {
+    "lat": 41.82098114661,
+    "lng": -87.87019493585,
+    "matchedAddress": "315 N LA GRANGE RD, LA GRANGE PARK, IL, 60526"
+  },
+  "908 W Argyle, Chicago, IL 60640": {
+    "lat": 41.973400079079,
+    "lng": -87.652638645501,
+    "matchedAddress": "908 W ARGYLE ST, CHICAGO, IL, 60640"
+  },
+  "1529 W Ogden Ave, La Grange Park, IL 60526": {
+    "lat": 41.819441387088,
+    "lng": -87.886178636103,
+    "matchedAddress": "1529 W OGDEN AVE, LA GRANGE PARK, IL, 60526"
+  },
+  "7262 W Peterson Ave, Chicago, IL 60631": {
+    "lat": 41.989939503122,
+    "lng": -87.810336074332,
+    "matchedAddress": "7262 W PETERSON AVE, CHICAGO, IL, 60631"
+  },
+  "553 McHenry Rd, Wheeling, IL 60090": {
+    "lat": 42.145769027391,
+    "lng": -87.940714857272,
+    "matchedAddress": "553 MCHENRY RD, WHEELING, IL, 60090"
+  },
+  "1260 Franciscan Dr, Lemont, IL 60439": {
+    "lat": 41.679253280052,
+    "lng": -87.973646516758,
+    "matchedAddress": "1260 FRANCISCAN DR, LEMONT, IL, 60439"
+  },
+  "6016-20 N Nina Ave, Chicago, IL 60631": {
+    "lat": 41.99057948671,
+    "lng": -87.800290828883,
+    "matchedAddress": "6016-20 N NINA AVE, CHICAGO, IL, 60631"
+  },
+  "4747 N Canfield Ave, Norridge, IL 60706": {
+    "lat": 41.965847517112,
+    "lng": -87.826683054511,
+    "matchedAddress": "4747 N CANFIELD AVE, NORRIDGE, IL, 60706"
+  },
+  "3000 McCormick Ave, Brookfield, IL 60513": {
+    "lat": 41.83792052062,
+    "lng": -87.83728081926,
+    "matchedAddress": "3000 MC CORMICK AVE, BROOKFIELD, IL, 60513"
+  },
+  "2800 S Des Plaines Avenue, North Riverside, IL 60546": {
+    "lat": 41.839817068711,
+    "lng": -87.82280210951,
+    "matchedAddress": "2800 DESPLAINES AVE, NORTH RIVERSIDE, IL, 60546"
+  },
+  "5520 Lincoln Ave, Morton Grove, IL 60053": {
+    "lat": 42.034581287121,
+    "lng": -87.764921514455,
+    "matchedAddress": "5520 LINCOLN AVE, MORTON GROVE, IL, 60053"
+  },
+  "6301 Lincoln Hwy, Matteson, IL 60443": {
+    "lat": 41.506258513789,
+    "lng": -87.768709984102,
+    "matchedAddress": "6301 LINCOLN HWY, MATTESON, IL, 60443"
+  },
+  "920 E. Northwest Highway, Palatine, IL 60074": {
+    "lat": 42.101578939764,
+    "lng": -88.021936573284,
+    "matchedAddress": "920 E NORTHWEST HWY, PALATINE, IL, 60074"
+  },
+  "4950 North Ashland, , IL 60640": {
+    "lat": 41.972185041451,
+    "lng": -87.669607280375,
+    "matchedAddress": "4950 N ASHLAND AVE, CHICAGO, IL, 60640"
+  },
+  "1750 South Elmhurst Road, , IL 60018": {
+    "lat": 42.021946198423,
+    "lng": -87.940551903228,
+    "matchedAddress": "1750 ELMHURST RD, DES PLAINES, IL, 60018"
+  },
+  "1245 South Wood, , IL 60608": {
+    "lat": 41.865504043678,
+    "lng": -87.671235611766,
+    "matchedAddress": "1245 S WOOD ST, CHICAGO, IL, 60608"
+  },
+  "1143 N. Lavergne, , IL 60651": {
+    "lat": 41.90109437721,
+    "lng": -87.750769750522,
+    "matchedAddress": "1143 N LAVERGNE AVE, CHICAGO, IL, 60651"
+  },
+  "2626 West 63rd Street, , IL 60629": {
+    "lat": 41.779236032228,
+    "lng": -87.688883716497,
+    "matchedAddress": "2626 W 63RD ST, CHICAGO, IL, 60629"
+  },
+  "401 West Lake Northlake, , IL 60164": {
+    "lat": 41.9058730888,
+    "lng": -87.916542155236,
+    "matchedAddress": "401 W LAKE ST, NORTHLAKE, IL, 60164"
+  },
+  "2720 West Foster Avenue, , IL 60625": {
+    "lat": 41.975888663502,
+    "lng": -87.696905021838,
+    "matchedAddress": "2720 W FOSTER AVE, CHICAGO, IL, 60625"
+  },
+  "7156 South Dorchester, , IL 60619": {
+    "lat": 41.764394793278,
+    "lng": -87.591028266452,
+    "matchedAddress": "7156 S DORCHESTER AVE, CHICAGO, IL, 60619"
+  },
+  "940 West Gordon Terrace, , IL 60613": {
+    "lat": 41.957444103352,
+    "lng": -87.653667470496,
+    "matchedAddress": "940 W GORDON TER, CHICAGO, IL, 60613"
+  },
+  "Maplewood Housing for the Visually Impaired, , IL 60625": null,
+  "1448 East 75th Street, , IL 60619": {
+    "lat": 41.758798460322,
+    "lng": -87.589228536102,
+    "matchedAddress": "1448 E 75TH ST, CHICAGO, IL, 60619"
+  },
+  "13820 Utica Avenue, , IL 60472": {
+    "lat": 41.642011444778,
+    "lng": -87.695358352683,
+    "matchedAddress": "13820 UTICA AVE, ROBBINS, IL, 60472"
+  },
+  "7419 South Exchange Street, , IL 60649": {
+    "lat": 41.760590149898,
+    "lng": -87.561300636748,
+    "matchedAddress": "7419 S EXCHANGE AVE, CHICAGO, IL, 60649"
+  },
+  "1370 Ring Road, , IL 60409": null,
+  "101 Main Street, , IL 60466": {
+    "lat": 41.484123195625,
+    "lng": -87.676026152764,
+    "matchedAddress": "101 MAIN ST, PARK FOREST, IL, 60466"
+  },
+  "1501 West Melrose, , IL 60657": {
+    "lat": 41.940582842021,
+    "lng": -87.666344260351,
+    "matchedAddress": "1501 W MELROSE ST, CHICAGO, IL, 60657"
+  },
+  "2800 West Fulton, , IL 60612": {
+    "lat": 41.886596583567,
+    "lng": -87.696514612394,
+    "matchedAddress": "2800 W FULTON ST, CHICAGO, IL, 60612"
+  },
+  "16301 Brementowne Road, , IL 60477": {
+    "lat": 41.593163423878,
+    "lng": -87.79171487473,
+    "matchedAddress": "16301 BREMENTOWNE RD, TINLEY PARK, IL, 60477"
+  },
+  "316 Randolph Street, , IL 60153": {
+    "lat": 41.884377782491,
+    "lng": -87.836890422765,
+    "matchedAddress": "316 RANDOLPH ST, MAYWOOD, IL, 60153"
+  },
+  "4339 W 18th Street, , IL 60623": {
+    "lat": 41.856864860078,
+    "lng": -87.733169483401,
+    "matchedAddress": "4339 W 18TH ST, CHICAGO, IL, 60623"
+  },
+  "8080 South Harlem Avenue, , IL 60455": {
+    "lat": 41.744399874421,
+    "lng": -87.799646128775,
+    "matchedAddress": "8080 S HARLEM AVE, BRIDGEVIEW, IL, 60455"
+  },
+  "4707 South Marshfield, , IL 60609": {
+    "lat": 41.808422649867,
+    "lng": -87.666105352138,
+    "matchedAddress": "4707 S MARSHFIELD AVE, CHICAGO, IL, 60609"
+  },
+  "14230 South Kilpatrick, , IL 60445": null,
+  "2801 W. Algonquin Rd., , IL 60008": {
+    "lat": 42.059006449863,
+    "lng": -88.011436636297,
+    "matchedAddress": "2801 W ALGONQUIN RD, ROLLING MEADOWS, IL, 60008"
+  },
+  "3800 South Martin Luther King Drive, , IL 60653": {
+    "lat": 41.825588827285,
+    "lng": -87.617373737807,
+    "matchedAddress": "3800 S DR MARTIN LUTHER KING JR DR, CHICAGO, IL, 60653"
+  },
+  "1040 Dixie Highway, , IL 60411": {
+    "lat": 41.511484324,
+    "lng": -87.64345397121,
+    "matchedAddress": "1040 DIXIE HWY, CHICAGO HEIGHTS, IL, 60411"
+  },
+  "1546 West Water Street, , IL 60406": null,
+  "1922 West Sunnyside Avenue, , IL 60640": {
+    "lat": 41.963339868946,
+    "lng": -87.678361325834,
+    "matchedAddress": "1922 W SUNNYSIDE AVE, CHICAGO, IL, 60640"
+  },
+  "1515 East 154th Street, , IL 60419": {
+    "lat": 41.615396607568,
+    "lng": -87.581272445545,
+    "matchedAddress": "1515 E 154TH ST, DOLTON, IL, 60419"
+  },
+  "3025 Spring Lake Drive, , IL 60438": {
+    "lat": 41.574736866871,
+    "lng": -87.543645083608,
+    "matchedAddress": "3025 SPRING LAKE DR, LANSING, IL, 60438"
+  },
+  "1101 West Bartlett Road, , IL 60103": {
+    "lat": 41.994513323024,
+    "lng": -88.208171568915,
+    "matchedAddress": "1101 W BARTLETT RD, BARTLETT, IL, 60103"
+  },
+  "975 Martha Street, , IL 60007": {
+    "lat": 42.001911507888,
+    "lng": -88.02183169467,
+    "matchedAddress": "975 MARTHA ST, ELK GROVE VILLAGE, IL, 60007"
+  },
+  "2370 North Newcastle Avenue, , IL 60707": {
+    "lat": 41.923011213045,
+    "lng": -87.797133821502,
+    "matchedAddress": "2370 N NEWCASTLE AVE, ELMWOOD PARK, IL, 60707"
+  },
+  "1800 Riverwood Drive, , IL 60160": {
+    "lat": 41.907861151187,
+    "lng": -87.830028753775,
+    "matchedAddress": "1800 RIVERWOODS DR, MELROSE PARK, IL, 60160"
+  },
+  "10450 South Michigan Avenue, , IL 60628": {
+    "lat": 41.704209449066,
+    "lng": -87.620676806613,
+    "matchedAddress": "10450 S MICHIGAN AVE, CHICAGO, IL, 60628"
+  },
+  "167th and Crawford, , IL 60478": {
+    "lat": 41.586193201256,
+    "lng": -87.71385475428,
+    "matchedAddress": "167TH ST & CRAWFORD AVE, COUNTRY CLUB HILLS, IL, 60478"
+  },
+  "3251 East 92nd Street, , IL 60617": {
+    "lat": 41.728255870531,
+    "lng": -87.545292215032,
+    "matchedAddress": "3251 E 92ND ST, CHICAGO, IL, 60617"
+  },
+  "2437 North Southport, , IL 60614": {
+    "lat": 41.926188710364,
+    "lng": -87.663283645202,
+    "matchedAddress": "2437 N SOUTHPORT AVE, CHICAGO, IL, 60614"
+  },
+  "17400 South Kedzie Avenue, , IL 60429": {
+    "lat": 41.573517221076,
+    "lng": -87.694458816961,
+    "matchedAddress": "17400 KEDZIE AVE, HAZEL CREST, IL, 60429"
+  },
+  "4950 North Ashland, Chicago, IL 60640": {
+    "lat": 41.972185041451,
+    "lng": -87.669607280375,
+    "matchedAddress": "4950 N ASHLAND AVE, CHICAGO, IL, 60640"
+  },
+  "1750 South Elmhurst Road, Des Plaines, IL 60018": {
+    "lat": 42.021946198423,
+    "lng": -87.940551903228,
+    "matchedAddress": "1750 ELMHURST RD, DES PLAINES, IL, 60018"
+  },
+  "1245 South Wood, Chicago, IL 60608": {
+    "lat": 41.865504043678,
+    "lng": -87.671235611766,
+    "matchedAddress": "1245 S WOOD ST, CHICAGO, IL, 60608"
+  },
+  "1143 N. Lavergne, Chicago, IL 60651": {
+    "lat": 41.90109437721,
+    "lng": -87.750769750522,
+    "matchedAddress": "1143 N LAVERGNE AVE, CHICAGO, IL, 60651"
+  },
+  "2626 West 63rd Street, Chicago, IL 60629": {
+    "lat": 41.779236032228,
+    "lng": -87.688883716497,
+    "matchedAddress": "2626 W 63RD ST, CHICAGO, IL, 60629"
+  },
+  "2720 West Foster Avenue, Chicago, IL 60625": {
+    "lat": 41.975888663502,
+    "lng": -87.696905021838,
+    "matchedAddress": "2720 W FOSTER AVE, CHICAGO, IL, 60625"
+  },
+  "7156 South Dorchester, Chicago, IL 60619": {
+    "lat": 41.764394793278,
+    "lng": -87.591028266452,
+    "matchedAddress": "7156 S DORCHESTER AVE, CHICAGO, IL, 60619"
+  },
+  "940 West Gordon Terrace, Chicago, IL 60613": {
+    "lat": 41.957444103352,
+    "lng": -87.653667470496,
+    "matchedAddress": "940 W GORDON TER, CHICAGO, IL, 60613"
+  },
+  "5527 North Maplewood, Chicago, IL 60625": {
+    "lat": 41.98247135095,
+    "lng": -87.692987650708,
+    "matchedAddress": "5527 N MAPLEWOOD AVE, CHICAGO, IL, 60625"
+  },
+  "1448 East 75th Street, Chicago, IL 60619": {
+    "lat": 41.758798460322,
+    "lng": -87.589228536102,
+    "matchedAddress": "1448 E 75TH ST, CHICAGO, IL, 60619"
+  },
+  "13820 Utica Avenue, Robbins, IL 60472": {
+    "lat": 41.642011444778,
+    "lng": -87.695358352683,
+    "matchedAddress": "13820 UTICA AVE, ROBBINS, IL, 60472"
+  },
+  "7419 South Exchange Street, Chicago, IL 60649": {
+    "lat": 41.760590149898,
+    "lng": -87.561300636748,
+    "matchedAddress": "7419 S EXCHANGE AVE, CHICAGO, IL, 60649"
+  },
+  "1370 Ring Road, Calumet City, IL 60409": null,
+  "101 Main Street, Park Forest, IL 60466": {
+    "lat": 41.484123195625,
+    "lng": -87.676026152764,
+    "matchedAddress": "101 MAIN ST, PARK FOREST, IL, 60466"
+  },
+  "1501 West Melrose, Chicago, IL 60657": {
+    "lat": 41.940582842021,
+    "lng": -87.666344260351,
+    "matchedAddress": "1501 W MELROSE ST, CHICAGO, IL, 60657"
+  },
+  "2800 West Fulton, Chicago, IL 60612": {
+    "lat": 41.886596583567,
+    "lng": -87.696514612394,
+    "matchedAddress": "2800 W FULTON ST, CHICAGO, IL, 60612"
+  },
+  "16301 Brementowne Road, Tinley Park, IL 60477": {
+    "lat": 41.593163423878,
+    "lng": -87.79171487473,
+    "matchedAddress": "16301 BREMENTOWNE RD, TINLEY PARK, IL, 60477"
+  },
+  "316 Randolph Street, Maywood, IL 60153": {
+    "lat": 41.884377782491,
+    "lng": -87.836890422765,
+    "matchedAddress": "316 RANDOLPH ST, MAYWOOD, IL, 60153"
+  },
+  "4339 W 18th Street, Chicago, IL 60623": {
+    "lat": 41.856864860078,
+    "lng": -87.733169483401,
+    "matchedAddress": "4339 W 18TH ST, CHICAGO, IL, 60623"
+  },
+  "8080 South Harlem Avenue, Bridgeview, IL 60455": {
+    "lat": 41.744399874421,
+    "lng": -87.799646128775,
+    "matchedAddress": "8080 S HARLEM AVE, BRIDGEVIEW, IL, 60455"
+  },
+  "4707 South Marshfield, Chicago, IL 60609": {
+    "lat": 41.808422649867,
+    "lng": -87.666105352138,
+    "matchedAddress": "4707 S MARSHFIELD AVE, CHICAGO, IL, 60609"
+  },
+  "14230 South Kilpatrick, Crestwood, IL 60445": {
+    "lat": 41.633859212248,
+    "lng": -87.735232008843,
+    "matchedAddress": "14230 KILPATRICK AVE, CRESTWOOD, IL, 60418"
+  },
+  "2801 W. Algonquin Rd., Rolling Meadows, IL 60008": {
+    "lat": 42.059006449863,
+    "lng": -88.011436636297,
+    "matchedAddress": "2801 W ALGONQUIN RD, ROLLING MEADOWS, IL, 60008"
+  },
+  "3800 South Martin Luther King Drive, Chicago, IL 60653": {
+    "lat": 41.825588827285,
+    "lng": -87.617373737807,
+    "matchedAddress": "3800 S DR MARTIN LUTHER KING JR DR, CHICAGO, IL, 60653"
+  },
+  "1040 Dixie Highway, Chicago Heights, IL 60411": {
+    "lat": 41.511484324,
+    "lng": -87.64345397121,
+    "matchedAddress": "1040 DIXIE HWY, CHICAGO HEIGHTS, IL, 60411"
+  },
+  "1546 West Water Street, Blue Island, IL 60406": null,
+  "1922 West Sunnyside Avenue, Chicago, IL 60640": {
+    "lat": 41.963339868946,
+    "lng": -87.678361325834,
+    "matchedAddress": "1922 W SUNNYSIDE AVE, CHICAGO, IL, 60640"
+  },
+  "1515 East 154th Street, Dolton, IL 60419": {
+    "lat": 41.615396607568,
+    "lng": -87.581272445545,
+    "matchedAddress": "1515 E 154TH ST, DOLTON, IL, 60419"
+  },
+  "3025 Spring Lake Drive, Lansing, IL 60438": {
+    "lat": 41.574736866871,
+    "lng": -87.543645083608,
+    "matchedAddress": "3025 SPRING LAKE DR, LANSING, IL, 60438"
+  },
+  "1101 West Bartlett Road, Bartlett, IL 60103": {
+    "lat": 41.994513323024,
+    "lng": -88.208171568915,
+    "matchedAddress": "1101 W BARTLETT RD, BARTLETT, IL, 60103"
+  },
+  "975 Martha Street, Elk Grove, IL 60007": {
+    "lat": 42.001911507888,
+    "lng": -88.02183169467,
+    "matchedAddress": "975 MARTHA ST, ELK GROVE VILLAGE, IL, 60007"
+  },
+  "2370 North Newcastle Avenue, Chicago, IL 60707": {
+    "lat": 41.923011213045,
+    "lng": -87.797133821502,
+    "matchedAddress": "2370 N NEWCASTLE AVE, CHICAGO, IL, 60707"
+  },
+  "1800 Riverwood Drive, Melrose Park, IL 60160": {
+    "lat": 41.907861151187,
+    "lng": -87.830028753775,
+    "matchedAddress": "1800 RIVERWOODS DR, MELROSE PARK, IL, 60160"
+  },
+  "10450 South Michigan Avenue, Chicago, IL 60628": {
+    "lat": 41.704209449066,
+    "lng": -87.620676806613,
+    "matchedAddress": "10450 S MICHIGAN AVE, CHICAGO, IL, 60628"
+  },
+  "167th and Crawford, Country Club Hills, IL 60478": {
+    "lat": 41.586193201256,
+    "lng": -87.71385475428,
+    "matchedAddress": "167TH ST & CRAWFORD AVE, COUNTRY CLUB HILLS, IL, 60478"
+  },
+  "3251 East 92nd Street, Chicago, IL 60617": {
+    "lat": 41.728255870531,
+    "lng": -87.545292215032,
+    "matchedAddress": "3251 E 92ND ST, CHICAGO, IL, 60617"
+  },
+  "2437 North Southport, Chicago, IL 60614": {
+    "lat": 41.926188710364,
+    "lng": -87.663283645202,
+    "matchedAddress": "2437 N SOUTHPORT AVE, CHICAGO, IL, 60614"
+  },
+  "17400 South Kedzie Avenue, Hazel Crest, IL 60429": {
+    "lat": 41.573517221076,
+    "lng": -87.694458816961,
+    "matchedAddress": "17400 KEDZIE AVE, HAZEL CREST, IL, 60429"
+  },
+  "215 55th St, Clarendon Hills, IL 60514": {
+    "lat": 41.78858404103,
+    "lng": -87.953499012753,
+    "matchedAddress": "215 55TH ST, CLARENDON HILLS, IL, 60514"
+  },
+  "2055 Clearwater Drive, Oak Brook, IL 60523": {
+    "lat": 41.849838356898,
+    "lng": -87.931107266257,
+    "matchedAddress": "2055 CLEARWATER DR, OAK BROOK, IL, 60523"
+  },
+  "129 E Lake St, Bloomingdale, IL 61701": {
+    "lat": 41.957841871354,
+    "lng": -88.078312787375,
+    "matchedAddress": "129 E LAKE ST, BLOOMINGDALE, IL, 60108"
+  },
+  "3333 75th Street, Woodridge, IL 60517": {
+    "lat": 41.749737896912,
+    "lng": -88.064356225863,
+    "matchedAddress": "3333 75TH ST, WOODRIDGE, IL, 60517"
+  },
+  "960 E Chicago Ave, Naperville, IL 60540": {
+    "lat": 41.773249121584,
+    "lng": -88.135771118138,
+    "matchedAddress": "960 E CHICAGO AVE, NAPERVILLE, IL, 60540"
+  },
+  "95 Carleton Avenue, Glen Ellyn, IL 60137": {
+    "lat": 41.864303667682,
+    "lng": -88.053906154955,
+    "matchedAddress": "95 CARLETON AVE, GLEN ELLYN, IL, 60137"
+  },
+  "504 N River Rd, Naperville, IL 60563": {
+    "lat": 41.780804706026,
+    "lng": -88.179475392877,
+    "matchedAddress": "504 N RIVER RD, NAPERVILLE, IL, 60563"
+  },
+  "23w571 Warrenville Rd, Lisle, IL 60532": {
+    "lat": 41.808239085222,
+    "lng": -88.087030090443,
+    "matchedAddress": "23W571 WARRENVILLE RD, LISLE, IL, 60532"
+  },
+  "276 East Irving Park Rd, Wood Dale, IL 60191": {
+    "lat": 41.962481783399,
+    "lng": -87.972331152797,
+    "matchedAddress": "276 E IRVING PARK RD, WOOD DALE, IL, 60191"
+  },
+  "750 S Park Blvd, Glen Ellyn, IL 60137": {
+    "lat": 41.832212296017,
+    "lng": -88.066782542988,
+    "matchedAddress": "750 S PARK BLVD, GLEN ELLYN, IL, 60137"
+  },
+  "2210 Fountain Square Drive, Lombard, IL 60148": {
+    "lat": 41.844891608512,
+    "lng": -87.991963882021,
+    "matchedAddress": "2210 FOUNTAIN SQUARE DR, LOMBARD, IL, 60148"
+  },
+  "6300 Clarendon Hills Road, Willowbrook, IL 60527": {
+    "lat": 41.774029714188,
+    "lng": -87.955240585512,
+    "matchedAddress": "6300 CLARENDON HILLS RD, WILLOWBROOK, IL, 60527"
+  },
+  "190 Geneva Road, Glen Ellyn, IL 60137": null,
+  "1920 Maple Ave, Lisle, IL 60532": {
+    "lat": 41.784473843457,
+    "lng": -88.086627955529,
+    "matchedAddress": "1920 MAPLE AVE, LISLE, IL, 60532"
+  },
+  "400 W Butterfield Road, Elmhurst, IL 60126": {
+    "lat": 41.863744693882,
+    "lng": -87.952593940358,
+    "matchedAddress": "400 W BUTTERFIELD RD, ELMHURST, IL, 60126"
+  },
+  "831 Butterfield Rd, Wheaton, IL 60189": null,
+  "865 N Cass Ave, Westmont, IL 60559": {
+    "lat": 41.816363832475,
+    "lng": -87.976053146003,
+    "matchedAddress": "865 N CASS AVE, WESTMONT, IL, 60559"
+  },
+  "219 Parkway Drive, Wheaton, IL 60187": {
+    "lat": 41.880843383735,
+    "lng": -88.104920452564,
+    "matchedAddress": "219 E PARKWAY DR, WHEATON, IL, 60187"
+  },
+  "535 W Ogden Ave, Naperville, IL 60563": {
+    "lat": 41.785906048042,
+    "lng": -88.156148402928,
+    "matchedAddress": "535 W OGDEN AVE, NAPERVILLE, IL, 60563"
+  },
+  "4058 E Main Street, St Charles, IL 60174": null,
+  "241 E Lake St, Bloomingdale, IL 60108": {
+    "lat": 41.957161472749,
+    "lng": -88.065341374128,
+    "matchedAddress": "241 E LAKE ST, BLOOMINGDALE, IL, 60108"
+  },
+  "407 West 63rd Street, Westmont, IL 60559": null,
+  "60 N Nicoll Way, Glen Ellyn, IL 60137": {
+    "lat": 41.861080625127,
+    "lng": -88.05624366297,
+    "matchedAddress": "60 NICOLL AVE, GLEN ELLYN, IL, 60137"
+  },
+  "1619 N Mill Street, Naperville, IL 60503": null,
+  "1635 S Ardmore Avenue, Oakbrook Terrace, IL 60181": {
+    "lat": 41.860403749366,
+    "lng": -87.977846719079,
+    "matchedAddress": "1635 S ARDMORE AVE, OAKBROOK TERRACE, IL, 60181"
+  },
+  "16W301 91st Street, Burr Ridge, IL 60527": {
+    "lat": 41.723243739493,
+    "lng": -87.94256451295,
+    "matchedAddress": "16W301 91ST ST, BURR RIDGE, IL, 60527"
+  },
+  "809 N Central Ave, Addison, IL 60101": {
+    "lat": 41.942417564463,
+    "lng": -87.969078991002,
+    "matchedAddress": "809 N CENTRAL AVE, ADDISON, IL, 60101"
+  },
+  "1150 Euclid Avenue, Elmhurst, IL 60013": {
+    "lat": 41.863661094873,
+    "lng": -87.942630831306,
+    "matchedAddress": "1150 S EUCLID AVE, ELMHURST, IL, 60126"
+  },
+  "300 West 22nd Street, Lombard, IL 60148": {
+    "lat": 41.845441469481,
+    "lng": -88.020408550978,
+    "matchedAddress": "300 W 22ND ST, LOMBARD, IL, 60148"
+  },
+  "124 Windsor Park Dr, Carol Stream, IL 60188": {
+    "lat": 41.902414819514,
+    "lng": -88.130764999864,
+    "matchedAddress": "124 WINDSOR PARK DR, CAROL STREAM, IL, 60188"
+  },
+  "285 East Army Trail Road, , IL 60108": {
+    "lat": 41.938854154924,
+    "lng": -88.098774075823,
+    "matchedAddress": "285 W ARMY TRAIL RD, BLOOMINGDALE, IL, 60108"
+  },
+  "303 East Washington Street, , IL 60106": {
+    "lat": 41.947827341884,
+    "lng": -87.934623677706,
+    "matchedAddress": "303 E WASHINGTON ST, BENSENVILLE, IL, 60106"
+  },
+  "1996 Franciscan Court, , IL 60185": {
+    "lat": 41.918941179645,
+    "lng": -88.210217645787,
+    "matchedAddress": "1996 FRANCISCAN WAY, WEST CHICAGO, IL, 60185"
+  },
+  "4200 Lacey Road, , IL 60515": {
+    "lat": 41.810927775232,
+    "lng": -88.029423696068,
+    "matchedAddress": "4200 LACEY RD, DOWNERS GROVE, IL, 60515"
+  },
+  "1439 McDowell Road, , IL 60563": {
+    "lat": 41.796459864802,
+    "lng": -88.196564019771,
+    "matchedAddress": "1439 MC DOWELL RD, NAPERVILLE, IL, 60563"
+  },
+  "500 McHenry Rd, Buffalo Grove, IL 60089": {
+    "lat": 42.161927923028,
+    "lng": -87.963019477904,
+    "matchedAddress": "500 MCHENRY RD, BUFFALO GROVE, IL, 60089"
+  },
+  "1601 Green Bay Road, Highland Park, IL 60035": {
+    "lat": 42.181601311619,
+    "lng": -87.80009601425,
+    "matchedAddress": "1601 GREEN BAY RD, HIGHLAND PARK, IL, 60035"
+  },
+  "901 Florsheim Drive, Libertyville, IL 60048": {
+    "lat": 42.258944236826,
+    "lng": -87.941053077547,
+    "matchedAddress": "901 FLORSHEIM DR, LIBERTYVILLE, IL, 60048"
+  },
+  "4601 West Yorkhouse Road, Wadsworth, IL 60083": {
+    "lat": 42.414150668639,
+    "lng": -87.914794675499,
+    "matchedAddress": "4601 W YORKHOUSE RD, WADSWORTH, IL, 60083"
+  },
+  "16 Lilac Ave, Fox Lake, IL 60020": {
+    "lat": 42.393748580279,
+    "lng": -88.177074673132,
+    "matchedAddress": "16 LILAC AVE, FOX LAKE, IL, 60020"
+  },
+  "1000 Central Avenue, Highland Park, IL 60035": {
+    "lat": 42.182365791561,
+    "lng": -87.808486399038,
+    "matchedAddress": "1000 CENTRAL AVE, HIGHLAND PARK, IL, 60035"
+  },
+  "2300 IL Route 53, Long Grove, IL 60047": null,
+  "1190 Old McHenry Rd, Long Grove, IL 60047": null,
+  "16426 West Des Plaines Dr, Libertyville, IL 60048": {
+    "lat": 42.304664944018,
+    "lng": -87.952406971772,
+    "matchedAddress": "16426 W DES PLAINES DR, LIBERTYVILLE, IL, 60048"
+  },
+  "14595 West Rockland Road, Libertyville, IL 60048": {
+    "lat": 42.279347193076,
+    "lng": -87.917617952858,
+    "matchedAddress": "14595 W ROCKLAND RD, LIBERTYVILLE, IL, 60048"
+  },
+  "10 E Hawthorne Pkwy, Vernon Hills, IL 60061": {
+    "lat": 42.240537885816,
+    "lng": -87.947633269421,
+    "matchedAddress": "10 HAWTHORN CENTER, VERNON HILLS, IL, 60061"
+  },
+  "180 West Half Day Rd, Buffalo Grove, IL 60089": {
+    "lat": 42.195930892148,
+    "lng": -87.961061542086,
+    "matchedAddress": "180 W HALF DAY RD, BUFFALO GROVE, IL, 60089"
+  },
+  "500 Atrium Dr, Vernon Hills, IL 60061": {
+    "lat": 42.237690808267,
+    "lng": -87.96468100396,
+    "matchedAddress": "500 ATRIUM DR, VERNON HILLS, IL, 60061"
+  },
+  "5044 Darlene Dr, Gurnee, IL 60031": {
+    "lat": 42.370069375197,
+    "lng": -87.927434680201,
+    "matchedAddress": "5044 DARLENE DR, GURNEE, IL, 60031"
+  },
+  "6455 Cunningham Ct, Gurnee, IL 60031": {
+    "lat": 42.348768789391,
+    "lng": -87.962565169819,
+    "matchedAddress": "6455 CUNNINGHAM CT, GURNEE, IL, 60031"
+  },
+  "21840 W Lake Cook Road, Deer Park, IL 60010": {
+    "lat": 42.153903438679,
+    "lng": -88.059065033256,
+    "matchedAddress": "21840 W LAKE COOK RD, DEER PARK, IL, 60010"
+  },
+  "1865 E Belvidere Road, Grayslake, IL 60030": {
+    "lat": 42.338827173261,
+    "lng": -88.001609285952,
+    "matchedAddress": "1865 E BELVIDERE RD, GRAYSLAKE, IL, 60030"
+  },
+  "145 N Milwaukee Ave, Vernon Hills, IL 60061": {
+    "lat": 42.227668243426,
+    "lng": -87.941455979348,
+    "matchedAddress": "145 MILWAUKEE AVE, VERNON HILLS, IL, 60061"
+  },
+  "500 N Hunt Club Rd, Gurnee, IL 60031": {
+    "lat": 42.365978657168,
+    "lng": -87.963551165485,
+    "matchedAddress": "500 N HUNT CLUB RD, GURNEE, IL, 60031"
+  },
+  "350 South Milwaukee Ave, Vernon Hills, IL 60061": {
+    "lat": 42.232359615736,
+    "lng": -87.942996720743,
+    "matchedAddress": "350 S MILWAUKEE AVE, VERNON HILLS, IL, 60061"
+  },
+  "1101 Pembridge Dr, Lake Forest, IL 60045": {
+    "lat": 42.261328849854,
+    "lng": -87.86653667077,
+    "matchedAddress": "1101 PEMBRIDGE DR, LAKE FOREST, IL, 60045"
+  },
+  "777 Church Street, Lake Zurich, IL 60047": {
+    "lat": 42.209603005023,
+    "lng": -88.080054515128,
+    "matchedAddress": "777 CHURCH ST, LAKE ZURICH, IL, 60047"
+  },
+  "301 S Hunt Club Road, Gurnee, IL 60031": {
+    "lat": 42.356150810468,
+    "lng": -87.963576569036,
+    "matchedAddress": "301 S HUNT CLUB RD, GURNEE, IL, 60031"
+  },
+  "1065 Victory Dr, Lindenhurst, IL 60046": {
+    "lat": 42.413364557583,
+    "lng": -88.055891721182,
+    "matchedAddress": "1065 VICTORY DR, LINDENHURST, IL, 60046"
+  },
+  "18 Lilac Lane, Fox Lake, IL 60020": {
+    "lat": 42.393749149354,
+    "lng": -88.177074060282,
+    "matchedAddress": "18 LILAC AVE, FOX LAKE, IL, 60020"
+  },
+  "20 Lilac Lane, Fox Lake, IL 60020": {
+    "lat": 42.393749718429,
+    "lng": -88.177073447432,
+    "matchedAddress": "20 LILAC AVE, FOX LAKE, IL, 60020"
+  },
+  "22 Lilac Ave, Fox Lake, IL 60020": {
+    "lat": 42.393750287504,
+    "lng": -88.177072834582,
+    "matchedAddress": "22 LILAC AVE, FOX LAKE, IL, 60020"
+  },
+  "3521 16th Street, , IL 60099": {
+    "lat": 42.465644472253,
+    "lng": -87.862568022157,
+    "matchedAddress": "3521 16TH ST, ZION, IL, 60099"
+  },
+  "3500 Sheridan Road, , IL 60099": {
+    "lat": 42.431481477865,
+    "lng": -87.825732529508,
+    "matchedAddress": "3500 SHERIDAN RD, ZION, IL, 60099"
+  },
+  "795 North Rand Road, , IL 60047": {
+    "lat": 42.210631166404,
+    "lng": -88.111741140952,
+    "matchedAddress": "795 N RAND RD, LAKE ZURICH, IL, 60047"
+  },
+  "3775 Grand Avenue, , IL 60031": {
+    "lat": 42.370635138736,
+    "lng": -87.894573683487,
+    "matchedAddress": "3775 GRAND AVE, GURNEE, IL, 60031"
+  },
+  "76 East Rollins Road, , IL 60073": {
+    "lat": 42.37890217346,
+    "lng": -88.084423856552,
+    "matchedAddress": "76 E ROLLINS RD, ROUND LAKE, IL, 60073"
+  },
+  "5980 Washington Street, , IL 60031": {
+    "lat": 42.363949377541,
+    "lng": -87.950477871915,
+    "matchedAddress": "5980 WASHINGTON ST, GURNEE, IL, 60031"
+  },
+  "2920 Leverenz Road, Naperville, IL 60564": {
+    "lat": 41.717089736562,
+    "lng": -88.203940587471,
+    "matchedAddress": "2920 LEVERENZ RD, NAPERVILLE, IL, 60564"
+  },
+  "12631 W 187th St, Mokena, IL 60448": {
+    "lat": 41.548902965299,
+    "lng": -87.923862275655,
+    "matchedAddress": "12631 187TH ST, MOKENA, IL, 60448"
+  },
+  "600 S Edward Dr, Romeoville, IL 60446": {
+    "lat": 41.602211081309,
+    "lng": -88.126753577557,
+    "matchedAddress": "600 EDWARD DR, ROMEOVILLE, IL, 60446"
+  },
+  "3315 Executive Drive, Joliet, IL 60431": {
+    "lat": 41.540037429564,
+    "lng": -88.162405520186,
+    "matchedAddress": "3315 EXECUTIVE DR, JOLIET, IL, 60431"
+  },
+  "351 Lily Cache Lane, Bolingbrook, IL 60440": {
+    "lat": 41.69085471746,
+    "lng": -88.081503974469,
+    "matchedAddress": "351 LILY CACHE LN, BOLINGBROOK, IL, 60440"
+  },
+  "1100 N River Rd, Shorewood, IL 60404": {
+    "lat": 41.540028157909,
+    "lng": -88.218549796694,
+    "matchedAddress": "1100 N RIVER RD, SHOREWOOD, IL, 60404"
+  },
+  "1023 S Cedar Rd, New Lenox, IL 60451": {
+    "lat": 41.496144934992,
+    "lng": -87.965301185622,
+    "matchedAddress": "1023 S CEDAR RD, NEW LENOX, IL, 60451"
+  },
+  "1025 S Cedar Rd, New Lenox, IL 60451": {
+    "lat": 41.496131602292,
+    "lng": -87.965301185624,
+    "matchedAddress": "1025 S CEDAR RD, NEW LENOX, IL, 60451"
+  },
+  "1027 S Cedar Rd, New Lenox, IL 60451": {
+    "lat": 41.496115593609,
+    "lng": -87.965300917026,
+    "matchedAddress": "1027 S CEDAR RD, NEW LENOX, IL, 60451"
+  },
+  "1029 S Cedar Rd, New Lenox, IL 60451": {
+    "lat": 41.496102275493,
+    "lng": -87.965300084645,
+    "matchedAddress": "1029 S CEDAR RD, NEW LENOX, IL, 60451"
+  },
+  "1031 S Cedar Rd, New Lenox, IL 60451": {
+    "lat": 41.496088957378,
+    "lng": -87.965299252264,
+    "matchedAddress": "1031 S CEDAR RD, NEW LENOX, IL, 60451"
+  },
+  "1681 Willow Circle Drive, Crest Hill, IL 60403": {
+    "lat": 41.553694882294,
+    "lng": -88.119832454892,
+    "matchedAddress": "1681 WILLOW CIRCLE DR, CREST HILL, IL, 60403"
+  },
+  "370 N Weber Road, Bolingbrook, IL 60440": {
+    "lat": 41.706191831296,
+    "lng": -88.126539756509,
+    "matchedAddress": "370 N WEBER RD, BOLINGBROOK, IL, 60440"
+  },
+  "21507 S Wolf Road, Frankfort, IL 60423": {
+    "lat": 41.498146566847,
+    "lng": -87.888161233646,
+    "matchedAddress": "21507 WOLF RD, FRANKFORT, IL, 60423"
+  },
+  "3320 Executive Drive, Joliet, IL 60431": {
+    "lat": 41.539922498634,
+    "lng": -88.162452328612,
+    "matchedAddress": "3320 EXECUTIVE DR, JOLIET, IL, 60431"
+  },
+  "12446 S Van Dyke Road, Plainfield, IL 60585": {
+    "lat": 41.657038943926,
+    "lng": -88.213495667089,
+    "matchedAddress": "12446 S VAN DYKE RD, PLAINFIELD, IL, 60585"
+  },
+  "605 S Edward Dr, Romeoville, IL 60446": {
+    "lat": 41.599917371013,
+    "lng": -88.127266501557,
+    "matchedAddress": "605 EDWARD DR, ROMEOVILLE, IL, 60446"
+  },
+  "12600 Renaissance Circle, Homer Glen, IL 60491": {
+    "lat": 41.628513835214,
+    "lng": -87.925513304071,
+    "matchedAddress": "12600 RENAISSANCE CIR, HOMER GLEN, IL, 60491"
+  },
+  "10501 Emilie Ln, Orland Park, IL 60467": {
+    "lat": 41.55671202904,
+    "lng": -87.872808057708,
+    "matchedAddress": "10501 EMILIE LN, ORLAND PARK, IL, 60467"
+  },
+  "15624 Marian Dr, Homer Glen, IL 60491": {
+    "lat": 41.604735780628,
+    "lng": -87.956969283522,
+    "matchedAddress": "15624 MARIAN DR, HOMER GLEN, IL, 60491"
+  },
+  "20029 Graceland Lane, Frankfort, IL 60423": {
+    "lat": 41.525079519576,
+    "lng": -87.800529357648,
+    "matchedAddress": "20029 S GRACELAND LN, FRANKFORT, IL, 60423"
+  },
+  "7551 W Hickory Creek Dr, Frankfort, IL 60423": {
+    "lat": 41.511420947828,
+    "lng": -87.798967372058,
+    "matchedAddress": "7551 W HICKORY CREEK DR, FRANKFORT, IL, 60423"
+  },
+  "24700 Presidential Ave, Plainfield, IL 60544": null,
+  "31 North Broadway, , IL 60435": {
+    "lat": 41.523587728011,
+    "lng": -88.089249972623,
+    "matchedAddress": "31 N BROADWAY ST, JOLIET, IL, 60435"
+  },
+  "1315 Rowell Avenue, , IL 60433": {
+    "lat": 41.500670101821,
+    "lng": -88.061647737387,
+    "matchedAddress": "1315 ROWELL AVE, JOLIET, IL, 60433"
+  },
+  "550 Kildeere, , IL 60440": {
+    "lat": 41.716032107843,
+    "lng": -88.049403629666,
+    "matchedAddress": "550 KILDEER DR, BOLINGBROOK, IL, 60440"
+  },
+  "14731 South Van Dyke Road, , IL 60544": {
+    "lat": 41.615643686954,
+    "lng": -88.215555488963,
+    "matchedAddress": "14731 S VAN DYKE RD, PLAINFIELD, IL, 60544"
+  },
+  "975 N 5th Avenue, St Charles, IL 60174": {
+    "lat": 41.923778290057,
+    "lng": -88.309952006219,
+    "matchedAddress": "975 N 5TH AVE, ST CHARLES, IL, 60174"
+  },
+  "12450 Regency Parkway, Huntley, IL 60142": {
+    "lat": 42.14926519946,
+    "lng": -88.440103834597,
+    "matchedAddress": "12450 REGENCY PKWY, HUNTLEY, IL, 60142"
+  },
+  "301 Weston Avenue, Aurora, IL 60505": {
+    "lat": 41.747114643336,
+    "lng": -88.31865650922,
+    "matchedAddress": "301 WESTON AVE, AURORA, IL, 60505"
+  },
+  "1340 River St, Aurora, IL 60506": {
+    "lat": 41.786821141376,
+    "lng": -88.318022160291,
+    "matchedAddress": "1340 RIVER ST, AURORA, IL, 60506"
+  },
+  "555 Marion Ave, St Charles, IL 60174": {
+    "lat": 41.92598597499,
+    "lng": -88.309108589475,
+    "matchedAddress": "555 MARION AVE, ST CHARLES, IL, 60174"
+  },
+  "2450 W Fabyan Pkwy, Batavia, IL 60510": null,
+  "646 Van Nortwick Court, Batavia, IL 60510": {
+    "lat": 41.860864046251,
+    "lng": -88.320500755291,
+    "matchedAddress": "646 N VAN NORTWICK CT, BATAVIA, IL, 60510"
+  },
+  "1300 Spring Street, South Elgin, IL 60177": {
+    "lat": 41.996271588825,
+    "lng": -88.319462354261,
+    "matchedAddress": "1300 W SPRING ST, SOUTH ELGIN, IL, 60177"
+  },
+  "2875 Campton Hills Rd, St Charles, IL 60175": null,
+  "7 South Orchard Road, Aurora, IL 60506": null,
+  "825 N 5th Avenue, St Charles, IL 60174": {
+    "lat": 41.920355995686,
+    "lng": -88.309916361258,
+    "matchedAddress": "825 N 5TH AVE, ST CHARLES, IL, 60174"
+  },
+  "10 N Peck St, St Charles, IL 60174": null,
+  "1901 Silver Glen Road, South Elgin, IL 60177": {
+    "lat": 41.969706009362,
+    "lng": -88.34069685993,
+    "matchedAddress": "1901 SILVER GLEN RD, SOUTH ELGIN, IL, 60177"
+  },
+  "58 W Park Avenue, Sugar Grove, IL 60554": {
+    "lat": 41.774996051485,
+    "lng": -88.447016921746,
+    "matchedAddress": "58 W PARK AVE, SUGAR GROVE, IL, 60554"
+  },
+  "508 North McLean, Elgin, IL 60123": null,
+  "1000 N 6th Avenue, St Charles, IL 60174": {
+    "lat": 41.92432690123,
+    "lng": -88.30835861974,
+    "matchedAddress": "1000 N 6TH AVE, ST CHARLES, IL, 60174"
+  },
+  "600 Dunham Rd, St Charles, IL 60174": {
+    "lat": 41.9233172511,
+    "lng": -88.285081414679,
+    "matchedAddress": "600 DUNHAM RD, ST CHARLES, IL, 60174"
+  },
+  "901 Angle Tarn, West Dundee, IL 60118": {
+    "lat": 42.087012484896,
+    "lng": -88.289724241646,
+    "matchedAddress": "901 ANGLE TARN, WEST DUNDEE, IL, 60118"
+  },
+  "41 W 723 Northway Drive, Elburn, IL 60119": {
+    "lat": 41.886726072753,
+    "lng": -88.43088056346,
+    "matchedAddress": "41W 723 NORTHWAY DR, ELBURN, IL, 60119"
+  },
+  "1955 Randi Drive, , IL 60504": {
+    "lat": 41.737655183127,
+    "lng": -88.270179787514,
+    "matchedAddress": "1955 RANDI DR, AURORA, IL, 60504"
+  },
+  "210 Airport Road, , IL 60542": {
+    "lat": 41.798239166128,
+    "lng": -88.325424701092,
+    "matchedAddress": "210 AIRPORT RD, NORTH AURORA, IL, 60542"
+  },
+  "12500 Regency Parkway, , IL 60142": {
+    "lat": 42.149525183828,
+    "lng": -88.440363818892,
+    "matchedAddress": "12500 REGENCY PKWY, HUNTLEY, IL, 60142"
+  },
+  "311 South Lincolnway, , IL 60542": {
+    "lat": 41.79373827153,
+    "lng": -88.323153034702,
+    "matchedAddress": "311 S LINCOLNWAY ST, NORTH AURORA, IL, 60542"
+  },
+  "1079 East Wilson Street, , IL 60510": {
+    "lat": 41.85252202778,
+    "lng": -88.286126838935,
+    "matchedAddress": "1079 E WILSON ST, BATAVIA, IL, 60510"
+  },
+  "700 Noth McLean Boulevard, , IL 60117": null,
+  "1599 Farnsworth, Aurora, IL 60505": {
+    "lat": 41.789230339932,
+    "lng": -88.281870640715,
+    "matchedAddress": "1599 N FARNSWORTH AVE, AURORA, IL, 60505"
+  },
+  "700 North McLean Boulevard, , IL 60177": null,
+  "495 Alexandra Blvd, Crystal Lake, IL 60014": {
+    "lat": 42.199692836042,
+    "lng": -88.339790063763,
+    "matchedAddress": "495 ALEXANDRA BLVD, CRYSTAL LAKE, IL, 60014"
+  },
+  "2595 Harnish Drive, Algonquin, IL 60102": null,
+  "1055 Silver Lake Rd, Cary, IL 60013": {
+    "lat": 42.219894428214,
+    "lng": -88.24863352799,
+    "matchedAddress": "1055 SILVER LAKE RD, CARY, IL, 60013"
+  },
+  "3350 Charles J Miller Road, McHenry, IL 60050": {
+    "lat": 42.322261710338,
+    "lng": -88.263865310404,
+    "matchedAddress": "3350 CHARLES J MILLER RD, MCHENRY, IL, 60050"
+  },
+  "700 E Oak Street, Lake in the Hills, IL 60156": {
+    "lat": 42.188894591259,
+    "lng": -88.310315123234,
+    "matchedAddress": "700 E OAK ST, LAKE IN THE HILLS, IL, 60156"
+  },
+  "6809 Barnard Mill Road, Ringwood, IL 60072": {
+    "lat": 42.403008657909,
+    "lng": -88.331170885138,
+    "matchedAddress": "6809 BARNARD MILL RD, RINGWOOD, IL, 60072"
+  },
+  "1309 Meadow Lane, McHenry, IL 60050": {
+    "lat": 42.346741399962,
+    "lng": -88.292101024167,
+    "matchedAddress": "1309 MEADOW LN, MCHENRY, IL, 60050"
+  },
+  "717 McHenry Ave, Crystal Lake, IL 60014": {
+    "lat": 42.221059943496,
+    "lng": -88.338463260535,
+    "matchedAddress": "717 MCHENRY AVE, CRYSTAL LAKE, IL, 60014"
+  },
+  "525 Harvest Gate Road, Lake in the Hills, IL 60156": {
+    "lat": 42.177819624982,
+    "lng": -88.345225594528,
+    "matchedAddress": "525 HARVEST GATE, LAKE IN THE HILLS, IL, 60156"
+  },
+  "3801 Blake Blvd, McHenry, IL 60050": {
+    "lat": 42.358416805286,
+    "lng": -88.269133050382,
+    "matchedAddress": "3801 BLAKE BLVD, MCHENRY, IL, 60050"
+  },
+  "3300 Charles J Miller Road, McHenry, IL 60050": {
+    "lat": 42.322323050956,
+    "lng": -88.26039579757,
+    "matchedAddress": "3300 CHARLES J MILLER RD, MCHENRY, IL, 60050"
+  },
+  "10511 Route 14, Woodstock, IL 60098": {
+    "lat": 42.278347020612,
+    "lng": -88.403544571712,
+    "matchedAddress": "10511 US HWY 14, WOODSTOCK, IL, 60098"
+  },
+  "210 East Front Street, Harvard, IL 60033": {
+    "lat": 42.419141136345,
+    "lng": -88.614788862543,
+    "matchedAddress": "210 E FRONT ST, HARVARD, IL, 60033"
+  },
+  "2001 West Algonquin Road, Algonquin, IL 60102": {
+    "lat": 42.17563109399,
+    "lng": -88.324326493578,
+    "matchedAddress": "2001 W ALGONQUIN RD, ALGONQUIN, IL, 60102"
+  },
+  "4605 W Crystal Lake Rd, McHenry, IL 60050": {
+    "lat": 42.338100728098,
+    "lng": -88.286399443414,
+    "matchedAddress": "4605 W CRYSTAL LAKE RD, MCHENRY, IL, 60050"
+  },
+  "4560 Princeton Lane, Lake in the Hills, IL 60156": {
+    "lat": 42.201689389047,
+    "lng": -88.382536334502,
+    "matchedAddress": "4560 PRINCETON LN, LAKE IN THE HILLS, IL, 60156"
+  },
+  "4570 Princeton Lane, Lake in the Hills, IL 60156": {
+    "lat": 42.201582324405,
+    "lng": -88.382787420307,
+    "matchedAddress": "4570 PRINCETON LN, LAKE IN THE HILLS, IL, 60156"
+  },
+  "751 E Terra Cotta Ave, Crystal Lake, IL 60014": null,
+  "5430 Hillside Road, Crystal Lake, IL 60012": {
+    "lat": 42.264824339745,
+    "lng": -88.304471854837,
+    "matchedAddress": "5430 HILLSIDE RD, CRYSTAL LAKE, IL, 60012"
+  },
+  "698 E Oak Street, Lake in the Hills, IL 60156": {
+    "lat": 42.187434836662,
+    "lng": -88.314470344744,
+    "matchedAddress": "698 E OAK ST, LAKE IN THE HILLS, IL, 60156"
+  },
+  "101 Eastgate Court, , IL 60102": {
+    "lat": 42.165024117348,
+    "lng": -88.285953130122,
+    "matchedAddress": "101 EASTGATE CT, ALGONQUIN, IL, 60102"
+  },
+  "4609 West Crystal Lake Road, , IL 60050": {
+    "lat": 42.337783504178,
+    "lng": -88.286756270174,
+    "matchedAddress": "4609 W CRYSTAL LAKE RD, MCHENRY, IL, 60050"
+  },
+  "3712 Grove Rd, Oswego, IL 60543": {
+    "lat": 41.668036623518,
+    "lng": -88.34709539511,
+    "matchedAddress": "3712 GROVE RD, OSWEGO, IL, 60543"
+  },
+  "4040 Cannonball Trail, Yorkville, IL 60560": {
+    "lat": 41.661154153354,
+    "lng": -88.458559511356,
+    "matchedAddress": "4040 CANNONBALL TRL, YORKVILLE, IL, 60560"
+  },
+  "242 Green Briar Road, , IL 60560": {
+    "lat": 41.624976649947,
+    "lng": -88.452468441786,
+    "matchedAddress": "242 GREENBRIAR RD, YORKVILLE, IL, 60560"
+  },
+  "285 East Army Trail Road, Bloomingdale, IL 60108": {
+    "lat": 41.938854154924,
+    "lng": -88.098774075823,
+    "matchedAddress": "285 W ARMY TRAIL RD, BLOOMINGDALE, IL, 60108"
+  },
+  "303 East Washington Street, Bensenville, IL 60106": {
+    "lat": 41.947827341884,
+    "lng": -87.934623677706,
+    "matchedAddress": "303 E WASHINGTON ST, BENSENVILLE, IL, 60106"
+  },
+  "1996 Franciscan Court, West Chicago, IL 60185": {
+    "lat": 41.918941179645,
+    "lng": -88.210217645787,
+    "matchedAddress": "1996 FRANCISCAN WAY, WEST CHICAGO, IL, 60185"
+  },
+  "4200 Lacey Road, Downers Grove, IL 60515": {
+    "lat": 41.810927775232,
+    "lng": -88.029423696068,
+    "matchedAddress": "4200 LACEY RD, DOWNERS GROVE, IL, 60515"
+  },
+  "1439 McDowell Road, Naperville, IL 60563": {
+    "lat": 41.796459864802,
+    "lng": -88.196564019771,
+    "matchedAddress": "1439 MC DOWELL RD, NAPERVILLE, IL, 60563"
+  },
+  "3521 16th Street, Zion, IL 60099": {
+    "lat": 42.465644472253,
+    "lng": -87.862568022157,
+    "matchedAddress": "3521 16TH ST, ZION, IL, 60099"
+  },
+  "3500 Sheridan Road, Zion, IL 60099": {
+    "lat": 42.431481477865,
+    "lng": -87.825732529508,
+    "matchedAddress": "3500 SHERIDAN RD, ZION, IL, 60099"
+  },
+  "795 North Rand Road, Lake Zurich, IL 60047": {
+    "lat": 42.210631166404,
+    "lng": -88.111741140952,
+    "matchedAddress": "795 N RAND RD, LAKE ZURICH, IL, 60047"
+  },
+  "3775 Grand Avenue, Gurnee, IL 60031": {
+    "lat": 42.370635138736,
+    "lng": -87.894573683487,
+    "matchedAddress": "3775 GRAND AVE, GURNEE, IL, 60031"
+  },
+  "76 East Rollins Road, Round Lake Beach, IL 60073": {
+    "lat": 42.37890217346,
+    "lng": -88.084423856552,
+    "matchedAddress": "76 E ROLLINS RD, ROUND LAKE BEACH, IL, 60073"
+  },
+  "5980 Washington Street, Gurnee, IL 60031": {
+    "lat": 42.363949377541,
+    "lng": -87.950477871915,
+    "matchedAddress": "5980 WASHINGTON ST, GURNEE, IL, 60031"
+  },
+  "31 North Broadway, Joliet, IL 60435": {
+    "lat": 41.523587728011,
+    "lng": -88.089249972623,
+    "matchedAddress": "31 N BROADWAY ST, JOLIET, IL, 60435"
+  },
+  "1315 Rowell Avenue, Joliet, IL 60433": {
+    "lat": 41.500670101821,
+    "lng": -88.061647737387,
+    "matchedAddress": "1315 ROWELL AVE, JOLIET, IL, 60433"
+  },
+  "550 Kildeere, Bolingbrook, IL 60440": {
+    "lat": 41.716032107843,
+    "lng": -88.049403629666,
+    "matchedAddress": "550 KILDEER DR, BOLINGBROOK, IL, 60440"
+  },
+  "14731 South Van Dyke Road, Plainfield, IL 60544": {
+    "lat": 41.615643686954,
+    "lng": -88.215555488963,
+    "matchedAddress": "14731 S VAN DYKE RD, PLAINFIELD, IL, 60544"
+  },
+  "1955 Randi Drive, Aurora, IL 60504": {
+    "lat": 41.737655183127,
+    "lng": -88.270179787514,
+    "matchedAddress": "1955 RANDI DR, AURORA, IL, 60504"
+  },
+  "210 Airport Road, North Aurora, IL 60542": {
+    "lat": 41.798239166128,
+    "lng": -88.325424701092,
+    "matchedAddress": "210 AIRPORT RD, NORTH AURORA, IL, 60542"
+  },
+  "12500 Regency Parkway, Huntley, IL 60142": {
+    "lat": 42.149525183828,
+    "lng": -88.440363818892,
+    "matchedAddress": "12500 REGENCY PKWY, HUNTLEY, IL, 60142"
+  },
+  "311 South Lincolnway, North Aurora, IL 60542": {
+    "lat": 41.79373827153,
+    "lng": -88.323153034702,
+    "matchedAddress": "311 S LINCOLNWAY ST, NORTH AURORA, IL, 60542"
+  },
+  "1079 East Wilson Street, Batavia, IL 60510": {
+    "lat": 41.85252202778,
+    "lng": -88.286126838935,
+    "matchedAddress": "1079 E WILSON ST, BATAVIA, IL, 60510"
+  },
+  "700 Noth McLean Boulevard, South Elgin, IL 60117": null,
+  "1599 Farnsworth, Aurora, IL 60505, 1599 Farnsworth, Aurora, IL 60505": {
+    "lat": 41.789230339932,
+    "lng": -88.281870640715,
+    "matchedAddress": "1599 N FARNSWORTH AVE, AURORA, IL, 60505"
+  },
+  "700 North McLean Boulevard, South Elgin, IL 60177": {
+    "lat": 42.015539560882,
+    "lng": -88.314484990159,
+    "matchedAddress": "700 N MCLEAN BLVD, ELGIN, IL, 60123"
+  },
+  "101 Eastgate Court, Algonquin, IL 60102": {
+    "lat": 42.165024117348,
+    "lng": -88.285953130122,
+    "matchedAddress": "101 EASTGATE CT, ALGONQUIN, IL, 60102"
+  },
+  "4609 West Crystal Lake Road, McHenry, IL 60050": {
+    "lat": 42.337783504178,
+    "lng": -88.286756270174,
+    "matchedAddress": "4609 W CRYSTAL LAKE RD, MCHENRY, IL, 60050"
+  },
+  "242 Green Briar Road, Yorkville, IL 60560": {
+    "lat": 41.624976649947,
+    "lng": -88.452468441786,
+    "matchedAddress": "242 GREENBRIAR RD, YORKVILLE, IL, 60560"
+  }
+}

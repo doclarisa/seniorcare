@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Andersonville Supportive Living",
+    "rawAddress": "4950 North Ashland, Chicago, IL 60640",
+    "zip": "60640",
+    "phone": "(773) 989-1304",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Asbury Court",
+    "rawAddress": "1750 South Elmhurst Road, Des Plaines, IL 60018",
+    "zip": "60018",
+    "phone": "(847) 228-1500",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Asbury Court DCS",
+    "rawAddress": "1750 South Elmhurst Road, Des Plaines, IL 60018",
+    "zip": "60018",
+    "phone": "(847) 228-1500",
+    "dementiaCare": true,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Barton Senior Residents of Chicago",
+    "rawAddress": "1245 South Wood, Chicago, IL 60608",
+    "zip": "60608",
+    "phone": "(312) 421-5220",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Beth-Anne Place",
+    "rawAddress": "1143 N. Lavergne, Chicago, IL 60651",
+    "zip": "60651",
+    "phone": "(773) 287-2711",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": "http://www.bethelnewlife.org/"
+  },
+  {
+    "name": "Churchview Supportive Living",
+    "rawAddress": "2626 West 63rd Street, Chicago, IL 60629",
+    "zip": "60629",
+    "phone": "(773) 471-4444",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": "http://bma-mgmt.com/"
+  },
+  {
+    "name": "Concord Place",
+    "rawAddress": "401 West Lake Northlake, IL 60164",
+    "zip": "60164",
+    "phone": "(708) 562-9000",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": "https://www.concordplace.com/"
+  },
+  {
+    "name": "Covenant Home of Chicago",
+    "rawAddress": "2720 West Foster Avenue, Chicago, IL 60625",
+    "zip": "60625",
+    "phone": "(773) 506-6900",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": "https://www.cmsschicago.org/what-we-do/assisted-living/"
+  },
+  {
+    "name": "Eden South Shore",
+    "rawAddress": "7156 South Dorchester, Chicago, IL, 60619",
+    "zip": "60619",
+    "phone": "(773) 466-6868",
+    "dementiaCare": false,
+    "populationServedNote": "*Serves individuals with physical disabilities ages 22-64",
+    "website": null
+  },
+  {
+    "name": "Eden Supportive Living",
+    "rawAddress": "940 West Gordon Terrace, Chicago, IL 60613",
+    "zip": "60613",
+    "phone": "(773) 472-1020",
+    "dementiaCare": false,
+    "populationServedNote": "*Serves individuals with physical disabilities ages 22-64",
+    "website": null
+  },
+  {
+    "name": "Friedman Place",
+    "rawAddress": "Maplewood Housing for the Visually Impaired, 5527 North Maplewood, Chicago, IL 60625",
+    "zip": "60625",
+    "phone": "(773) 989-9800",
+    "dementiaCare": false,
+    "populationServedNote": "*Serves persons with visual impairments",
+    "website": null
+  },
+  {
+    "name": "Grand Regency of Jackson Park",
+    "rawAddress": "1448 East 75th Street, Chicago, IL 60619",
+    "zip": "60619",
+    "phone": "(773) 667-6500",
+    "dementiaCare": false,
+    "populationServedNote": "*Serves individuals with physical disabilities ages 22-64",
+    "website": null
+  },
+  {
+    "name": "Grand Regency of Robbins",
+    "rawAddress": "13820 Utica Avenue, Robbins, IL 60472",
+    "zip": "60472",
+    "phone": "(708) 389-7140",
+    "dementiaCare": false,
+    "populationServedNote": "*Serves individuals with physical disabilities ages 22-64",
+    "website": null
+  },
+  {
+    "name": "Grand Regency of South Shore",
+    "rawAddress": "7419 South Exchange Street, Chicago, IL 60649",
+    "zip": "60649",
+    "phone": "(773) 721-6600",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Green Oaks of River Oaks",
+    "rawAddress": "1370 Ring Road, Calumet City, IL 60409",
+    "zip": "60409",
+    "phone": "(708) 730-0994",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Green Oaks of Park Forest",
+    "rawAddress": "101 Main Street, Park Forest, IL 60466",
+    "zip": "60466",
+    "phone": "(708) 283-2921",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Greenview Place",
+    "rawAddress": "1501 West Melrose, Chicago, IL 60657",
+    "zip": "60657",
+    "phone": "(773) 525-1501",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Heritage Woods of Chicago",
+    "rawAddress": "2800 West Fulton, Chicago, IL 60612",
+    "zip": "60612",
+    "phone": "(773) 722-2900",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "High Point Residence Tinley Park",
+    "rawAddress": "16301 Brementowne Road, Tinley Park, IL 60477",
+    "zip": "60477",
+    "phone": "(708) 840-0840",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "High Point Residence Tinley Park Memory Care",
+    "rawAddress": "16301 Brementowne Road, Tinley Park, IL 60477",
+    "zip": "60477",
+    "phone": "708-840-0840",
+    "dementiaCare": true,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Maywood Supportive Living",
+    "rawAddress": "316 Randolph Street, Maywood, IL 60153",
+    "zip": "60153",
+    "phone": "(708) 786-9070",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Montclare Supportive Living Community of Lawndale",
+    "rawAddress": "4339 W 18th Street, Chicago, IL 60623",
+    "zip": "60623",
+    "phone": "(773) 277-0288",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Moraine Court",
+    "rawAddress": "8080 South Harlem Avenue, Bridgeview, IL 60455",
+    "zip": "60455",
+    "phone": "(708) 594-2700",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "New City",
+    "rawAddress": "4707 South Marshfield, Chicago, IL 60609",
+    "zip": "60609",
+    "phone": "(773) 363-1223",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "New Day at the Pointe at Kilpatrick",
+    "rawAddress": "14230 South Kilpatrick, Crestwood , IL, 60445",
+    "zip": "60445",
+    "phone": "(708) 293-0010",
+    "dementiaCare": true,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Plum Creek SLF",
+    "rawAddress": "2801 W. Algonquin Rd., Rolling Meadows, IL 60008",
+    "zip": "60008",
+    "phone": "(847) 670-8080",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Pioneer Gardens",
+    "rawAddress": "3800 South Martin Luther King Drive, Chicago, IL 60653",
+    "zip": "60653",
+    "phone": "(773) 420-4100",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": "https://pioneergardenscommunity.com/"
+  },
+  {
+    "name": "(The) Pointe at Kilpatrick",
+    "rawAddress": "14230 South Kilpatrick, Crestwood, IL 60445",
+    "zip": "60445",
+    "phone": "(708) 293-0010",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": "http://www.thepointeslf.com/"
+  },
+  {
+    "name": "Prairie Green at Dixie Crossing",
+    "rawAddress": "1040 Dixie Highway, Chicago Heights, IL 60411",
+    "zip": "60411",
+    "phone": "(708) 754-5700",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Prairie Green at Dixie Crossing DCS",
+    "rawAddress": "1040 Dixie Highway, Chicago Heights, IL 60411",
+    "zip": "60411",
+    "phone": "(708) 754-5700",
+    "dementiaCare": true,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Prairie Green at Fay's Point",
+    "rawAddress": "1546 West Water Street, Blue Island, IL 60406",
+    "zip": "60406",
+    "phone": "(708) 489-1503",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Ravenswood Senior Living",
+    "rawAddress": "1922 West Sunnyside Avenue, Chicago, IL, 60640",
+    "zip": "60640",
+    "phone": "(773) 754-8922",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Royal Estates",
+    "rawAddress": "1515 East 154th Street, Dolton, IL 60419",
+    "zip": "60419",
+    "phone": "(708) 201-3381",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "St. Anthony of Lansing",
+    "rawAddress": "3025 Spring Lake Drive, Lansing, IL 60438",
+    "zip": "60438",
+    "phone": "(708) 474-6100",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": "http://www.bma-mgmt.com/stanthonylansing/"
+  },
+  {
+    "name": "Victory Centre of Bartlett Supportive Living Facility",
+    "rawAddress": "1101 West Bartlett Road, Bartlett, IL 60103",
+    "zip": "60103",
+    "phone": "(630) 213-0100",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Victory Centre of Elk Grove",
+    "rawAddress": "975 Martha Street, Elk Grove, IL 60007",
+    "zip": "60007",
+    "phone": "(847) 437-8070",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Victory Centre of Galewood",
+    "rawAddress": "2370 North Newcastle Avenue, Chicago, IL 60707",
+    "zip": "60707",
+    "phone": "(773) 385-5002",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Victory Centre of River Woods",
+    "rawAddress": "1800 Riverwood Drive, Melrose Park, IL 60160",
+    "zip": "60160",
+    "phone": "(708) 547-5800",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Victory Centre of Michigan Avenue",
+    "rawAddress": "10450 South Michigan Avenue, Chicago, IL 60628",
+    "zip": "60628",
+    "phone": "(773) 468-6400",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Victory Centre of Michigan Avenue DCS",
+    "rawAddress": "10450 South Michigan Avenue, Chicago, IL 60628",
+    "zip": "60628",
+    "phone": "(773) 468-6400",
+    "dementiaCare": true,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Victory Centre of Sierra Ridge",
+    "rawAddress": "167th and Crawford, Country Club Hills, IL 60478",
+    "zip": "60478",
+    "phone": "(708) 957-8300",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Victory Centre of South Chicago",
+    "rawAddress": "3251 East 92nd Street, Chicago, IL 60617",
+    "zip": "60617",
+    "phone": "(773) 449-2600",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Vistas of Lincoln Park",
+    "rawAddress": "2437 North Southport, Chicago, IL 60614",
+    "zip": "60614",
+    "phone": "(773) 472-8400",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Waterford Estates Supportive Living Residences",
+    "rawAddress": "17400 South Kedzie Avenue, Hazel Crest, IL 60429",
+    "zip": "60429",
+    "phone": "(708) 335-1600",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Waterford Estates Memory Care Residences",
+    "rawAddress": "17400 South Kedzie Avenue, Hazel Crest, IL 60429",
+    "zip": "60429",
+    "phone": "(708) 335-1600",
+    "dementiaCare": true,
+    "populationServedNote": null,
+    "website": null
+  }
+]

@@ -67,6 +67,37 @@ model Facility {
   @@index([tier])
 }
 
+// Government-data-driven Listing model (chicago-senior-care-taxonomy.md /
+// chicago-senior-care-data-import-plan.md). Distinct from Facility (the
+// original 40-facility hand-curated dataset): one Listing per physical
+// building, deduped across IDPH/HFS/CMS by addressKey, carrying every care
+// type offered there in `categories`.
+model Listing {
+  id          String        @id @default(cuid())
+  name        String
+  slug        String        @unique
+  address     String
+  addressKey  String        @unique // normalized street+zip, the dedup/entity-resolution key (import-plan §3)
+  city        String
+  county      String
+  region      String? // neighborhood, e.g. "Lincoln Park" -- Chicago only
+  zip         String?
+  lat         Float?
+  lng         Float?
+  phone       String?
+  website     String?
+  email       String?
+  categories  String[] // every care type at this site, e.g. ["assisted-living","memory-care"]
+  status      ListingStatus @default(PENDING)
+  enriched    Json // IDPH/HFS/CMS fields + enrichment layer, see import plan §4
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+
+  @@index([county])
+  @@index([status])
+  @@index([categories])
+}
+
 model Review {
   id         String   @id @default(cuid())
   facilityId String

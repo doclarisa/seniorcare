@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Alden Gardens of Bloomingdale",
+    "rawAddress": "285 East Army Trail Road",
+    "city": "Bloomingdale",
+    "zip": "60108",
+    "phone": "630-307-7273",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Bridgeway of Bensenville SL DCS",
+    "rawAddress": "303 East Washington Street",
+    "city": "Bensenville",
+    "zip": "60106",
+    "phone": "630-766-0605",
+    "dementiaCare": true,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Franciscan Court",
+    "rawAddress": "1996 Franciscan Court",
+    "city": "West Chicago",
+    "zip": "60185",
+    "phone": "630-562-4242",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Lacey Creek Supportive Living",
+    "rawAddress": "4200 Lacey Road",
+    "city": "Downers Grove",
+    "zip": "60515",
+    "phone": "630-964-7720",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Tabor Hills Supportive Living Community",
+    "rawAddress": "1439 McDowell Road",
+    "city": "Naperville",
+    "zip": "60563",
+    "phone": "630-778-6677",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  }
+]

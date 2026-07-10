@@ -1,0 +1,1999 @@
+[
+  {
+    "name": "RIVER GLEN OF ST. CHARLES",
+    "slug": "river-glen-of-st-charles-st-charles",
+    "address": "975 N 5th Avenue",
+    "addressKey": "975 N 5TH AVE|60174",
+    "city": "St Charles",
+    "county": "Kane",
+    "region": null,
+    "zip": "60174",
+    "lat": 41.923778290057,
+    "lng": -88.309952006219,
+    "phone": "(312) 379-9748",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024903",
+      "licenseStatus": "Active",
+      "units": 63,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 15,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 06/02/2025 (Complaint Original Investigation). IDPH's record shows 4 surveys on file, including 3 complaint or incident investigations. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "HERITAGE WOODS OF HUNTLEY, LLC",
+    "slug": "heritage-woods-of-huntley-llc-huntley",
+    "address": "12450 Regency Parkway",
+    "addressKey": "12450 REGENCY PKWY|60142",
+    "city": "Huntley",
+    "county": "Kane",
+    "region": null,
+    "zip": "60142",
+    "lat": 42.14926519946,
+    "lng": -88.440103834597,
+    "phone": "(847) 669-5185",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023478",
+      "licenseStatus": "Active",
+      "units": 81,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 30,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 05/06/2026 (Facility Reported Incident). IDPH's record shows 10 surveys on file, including 4 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BARDWELL RESIDENCES",
+    "slug": "bardwell-residences-aurora",
+    "address": "301 Weston Avenue",
+    "addressKey": "301 WESTON AVE|60505",
+    "city": "Aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60505",
+    "lat": 41.747114643336,
+    "lng": -88.31865650922,
+    "phone": "(630) 892-5790",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6020953",
+      "licenseStatus": "Active",
+      "units": 81,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 17,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/30/2026 (Annual Licensure Only Survey). IDPH's record shows 8 surveys on file, including 5 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "WHITLEY OF AURORA (THE)",
+    "slug": "whitley-of-aurora-aurora",
+    "address": "1340 River St",
+    "addressKey": "1340 RIVER ST|60506",
+    "city": "Aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60506",
+    "lat": 41.786821141376,
+    "lng": -88.318022160291,
+    "phone": "(630) 892-8800",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6026553",
+      "licenseStatus": "Active",
+      "units": 36,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 24,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 10/14/2025 (Complaint Original Investigation). IDPH's record shows 7 surveys on file, including 5 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "HALINA'S HOME CARE-MARION AVE",
+    "slug": "halina-s-home-care-marion-ave-st-charles",
+    "address": "555 Marion Ave",
+    "addressKey": "555 MARION AVE|60174",
+    "city": "St Charles",
+    "county": "Kane",
+    "region": null,
+    "zip": "60174",
+    "lat": 41.92598597499,
+    "lng": -88.309108589475,
+    "phone": "(630) 670-0819",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023186",
+      "licenseStatus": "Active",
+      "units": 5,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 06/10/2025 (Annual Licensure Only Survey). IDPH's record shows 1 survey on file. None of the surveys on file show a formal statement of deficiencies (Form 2567) attached.",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "LANDINGS ASSISTED LIVING",
+    "slug": "landings-assisted-living-batavia",
+    "address": "2450 W Fabyan Pkwy",
+    "addressKey": "2450 W FABYAN PKWY|60510",
+    "city": "Batavia",
+    "county": "Kane",
+    "region": null,
+    "zip": "60510",
+    "lat": null,
+    "lng": null,
+    "phone": "(630) 385-0015",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023761",
+      "licenseStatus": "Active",
+      "units": 76,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 24,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/07/2026 (Facility Reported Incident). IDPH's record shows 10 surveys on file, including 5 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "HOME CARE ADVANTAGE 1",
+    "slug": "home-care-advantage-1-batavia",
+    "address": "646 Van Nortwick Court",
+    "addressKey": "646 VAN NORTWICK CT|60510",
+    "city": "Batavia",
+    "county": "Kane",
+    "region": null,
+    "zip": "60510",
+    "lat": 41.860864046251,
+    "lng": -88.320500755291,
+    "phone": "(630) 677-2850",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023578",
+      "licenseStatus": "Active",
+      "units": 4,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": 0,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 03/19/2025 (Complaint Original Investigation). IDPH's record shows 3 surveys on file, including 1 complaint or incident investigation. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "WHITE OAKS AT SPRING STREET",
+    "slug": "white-oaks-at-spring-street-south-elgin",
+    "address": "1300 Spring Street",
+    "addressKey": "1300 SPRING ST|60177",
+    "city": "South Elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60177",
+    "lat": 41.996271588825,
+    "lng": -88.319462354261,
+    "phone": "(847) 717-3187",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6026536",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 30,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 01/24/2026 (Facility Reported Incident). IDPH's record shows 5 surveys on file, including 3 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BICKFORD COTTAGE - ST. CHARLES",
+    "slug": "bickford-cottage-st-charles-st-charles",
+    "address": "2875 Campton Hills Rd",
+    "addressKey": "2875 CAMPTON HILLS RD|60175",
+    "city": "St Charles",
+    "county": "Kane",
+    "region": null,
+    "zip": "60175",
+    "lat": null,
+    "lng": null,
+    "phone": "(630) 587-8800",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021128",
+      "licenseStatus": "Active",
+      "units": 64,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 12,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 01/10/2026 (Facility Reported Incident). IDPH's record shows 10 surveys on file, including 5 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BICKFORD - AURORA",
+    "slug": "bickford-aurora-aurora",
+    "address": "7 South Orchard Road",
+    "addressKey": "7 S ORCHARD RD|60506",
+    "city": "Aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60506",
+    "lat": null,
+    "lng": null,
+    "phone": "(630) 631-5555",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021011",
+      "licenseStatus": "Active",
+      "units": 44,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 16,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 07/02/2026 (Facility Reported Incident). IDPH's record shows 6 surveys on file, including 5 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "HALINA'S HOME CARE-5TH AVENUE",
+    "slug": "halina-s-home-care-5th-avenue-st-charles",
+    "address": "825 N 5th Avenue",
+    "addressKey": "825 N 5TH AVE|60174",
+    "city": "St Charles",
+    "county": "Kane",
+    "region": null,
+    "zip": "60174",
+    "lat": 41.920355995686,
+    "lng": -88.309916361258,
+    "phone": "(630) 670-0819",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023178",
+      "licenseStatus": "Active",
+      "units": 5,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 07/25/2025 (Annual Licensure Only Survey). IDPH's record shows 3 surveys on file. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "AUTUMN LEAVES OF ST. CHARLES",
+    "slug": "autumn-leaves-of-st-charles-st-charles",
+    "address": "10 N Peck St",
+    "addressKey": "10 N PECK ST|60174",
+    "city": "St Charles",
+    "county": "Kane",
+    "region": null,
+    "zip": "60174",
+    "lat": null,
+    "lng": null,
+    "phone": "(630) 485-4510",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6020886",
+      "licenseStatus": "Active",
+      "units": null,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 40,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 12/04/2024 (Annual Licensure Only Survey). IDPH's record shows 4 surveys on file. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SILVER GLEN SENIOR LIVING",
+    "slug": "silver-glen-senior-living-south-elgin",
+    "address": "1901 Silver Glen Road",
+    "addressKey": "1901 SILVER GLEN RD|60177",
+    "city": "South Elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60177",
+    "lat": 41.969706009362,
+    "lng": -88.34069685993,
+    "phone": "(224) 276-2055",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025178",
+      "licenseStatus": "Active",
+      "units": 50,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 24,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 01/14/2026 (Facility Reported Incident). IDPH's record shows 5 surveys on file, including 3 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "PRAIRIE POINTE ASSISTED LIVING",
+    "slug": "prairie-pointe-assisted-living-sugar-grove",
+    "address": "58 W Park Avenue",
+    "addressKey": "58 W PARK AVE|60554",
+    "city": "Sugar Grove",
+    "county": "Kane",
+    "region": null,
+    "zip": "60554",
+    "lat": 41.774996051485,
+    "lng": -88.447016921746,
+    "phone": "(331) 227-4500",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6024578",
+      "licenseStatus": "Active",
+      "units": 54,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 17,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 04/15/2025 (Facility Reported Incident). IDPH's record shows 6 surveys on file, including 4 complaint or incident investigations. 2 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SHERIDAN AT TYLER CREEK (THE)",
+    "slug": "sheridan-at-tyler-creek-elgin",
+    "address": "508 North McLean",
+    "addressKey": "508 N MCLEAN|60123",
+    "city": "Elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60123",
+    "lat": null,
+    "lng": null,
+    "phone": "(224) 268-3268",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6025161",
+      "licenseStatus": "Active",
+      "units": 64,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 32,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 12/06/2025 (Facility Reported Incident). IDPH's record shows 5 surveys on file, including 3 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "INSPIRATIONS SAL,LLC",
+    "slug": "inspirations-sal-llc-st-charles",
+    "address": "1000 N 6th Avenue",
+    "addressKey": "1000 N 6TH AVE|60174",
+    "city": "St Charles",
+    "county": "Kane",
+    "region": null,
+    "zip": "60174",
+    "lat": 41.92432690123,
+    "lng": -88.30835861974,
+    "phone": "(630) 973-8643",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023653",
+      "licenseStatus": "Active",
+      "units": 6,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 01/09/2025 (Annual Licensure Only Survey). IDPH's record shows 1 survey on file. 1 of these survey resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BRIGHTON GARDENS OF ST. CHARLES",
+    "slug": "brighton-gardens-of-st-charles-st-charles",
+    "address": "600 Dunham Rd",
+    "addressKey": "600 DUNHAM RD|60174",
+    "city": "St Charles",
+    "county": "Kane",
+    "region": null,
+    "zip": "60174",
+    "lat": 41.9233172511,
+    "lng": -88.285081414679,
+    "phone": "(630) 587-6120",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021328",
+      "licenseStatus": "Active",
+      "units": 65,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 39,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/01/2026 (Facility Reported Incident). IDPH's record shows 14 surveys on file, including 9 complaint or incident investigations. 9 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "WOODLANDS AT CANTERFIELD (THE)",
+    "slug": "woodlands-at-canterfield-west-dundee",
+    "address": "901 Angle Tarn",
+    "addressKey": "901 ANGLE TARN|60118",
+    "city": "West Dundee",
+    "county": "Kane",
+    "region": null,
+    "zip": "60118",
+    "lat": 42.087012484896,
+    "lng": -88.289724241646,
+    "phone": "(630) 523-3575",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6026653",
+      "licenseStatus": "Active",
+      "units": 91,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 38,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 11/21/2025 (Facility Reported Incident). IDPH's record shows 11 surveys on file, including 6 complaint or incident investigations. 3 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BLACKBERRY PINES RAL",
+    "slug": "blackberry-pines-ral-elburn",
+    "address": "41 W 723 Northway Drive",
+    "addressKey": "41 W 723 NORTHWAY DR|60119",
+    "city": "Elburn",
+    "county": "Kane",
+    "region": null,
+    "zip": "60119",
+    "lat": 41.886726072753,
+    "lng": -88.43088056346,
+    "phone": "(833) 867-4637",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6021186",
+      "licenseStatus": "Active",
+      "units": 4,
+      "hasAlzheimersUnit": false,
+      "alzheimersUnits": null,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 12/10/2025 (Complaint Original Investigation). IDPH's record shows 3 surveys on file, including 1 complaint or incident investigation. 1 of these surveys resulted in a formal statement of deficiencies (Form 2567).",
+      "dataSources": [
+        "IDPH"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "GREENFIELDS OF GENEVA",
+    "slug": "greenfields-of-geneva-geneva",
+    "address": "0N801 Friendship Way",
+    "addressKey": "0N801 FRIENDSHIP WAY|60134",
+    "city": "Geneva",
+    "county": "Kane",
+    "region": null,
+    "zip": "60134",
+    "lat": 41.8873,
+    "lng": -88.31,
+    "phone": "(630) 578-6600",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care",
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023128",
+      "licenseStatus": "Active",
+      "units": 51,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 26,
+      "ccn": "146166",
+      "certifiedBeds": 43,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 4,
+        "quality": 5
+      },
+      "deficiencyCount": 6,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": true,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/02/2026 (Complaint Original Investigation). IDPH's record shows 9 surveys on file, including 5 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567). On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 4 stars, quality measures: 5 stars). The most recent standard health inspection identified 6 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $14,203.",
+      "dataSources": [
+        "IDPH",
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH",
+      "CMS"
+    ],
+    "_sourceRowCount": 2
+  },
+  {
+    "name": "HARRY EKSTAM ASSISTED LIVING",
+    "slug": "harry-ekstam-assisted-living-batavia",
+    "address": "831 N Batavia Ave",
+    "addressKey": "831 N BATAVIA AVE|60510",
+    "city": "Batavia",
+    "county": "Kane",
+    "region": null,
+    "zip": "60510",
+    "lat": 41.862,
+    "lng": -88.314,
+    "phone": "(630) 879-4300",
+    "website": null,
+    "email": null,
+    "categories": [
+      "assisted-living",
+      "memory-care",
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "licenseNumber": "6023228",
+      "licenseStatus": "Active",
+      "units": 35,
+      "hasAlzheimersUnit": true,
+      "alzheimersUnits": 27,
+      "ccn": "145409",
+      "certifiedBeds": 99,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 4,
+        "staffing": 5,
+        "quality": 3
+      },
+      "deficiencyCount": 3,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": true,
+      "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/24/2026 (Annual Licensure Only Survey). IDPH's record shows 6 surveys on file, including 4 complaint or incident investigations. 5 of these surveys resulted in a formal statement of deficiencies (Form 2567). On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 5 stars, quality measures: 3 stars). The most recent standard health inspection identified 3 deficiencies. CMS records 2 penalties against this facility, including 1 fine totaling $9,110.",
+      "dataSources": [
+        "IDPH",
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "IDPH",
+      "CMS"
+    ],
+    "_sourceRowCount": 2
+  },
+  {
+    "name": "Alden Gardens of Waterford",
+    "slug": "alden-gardens-of-waterford-aurora",
+    "address": "1955 Randi Drive",
+    "addressKey": "1955 RANDI DR|60504",
+    "city": "Aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60504",
+    "lat": 41.737655183127,
+    "lng": -88.270179787514,
+    "phone": "(630) 851-1880",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Asbury Gardens",
+    "slug": "asbury-gardens-north-aurora",
+    "address": "210 Airport Road",
+    "addressKey": "210 AIRPORT RD|60542",
+    "city": "North Aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60542",
+    "lat": 41.798239166128,
+    "lng": -88.325424701092,
+    "phone": "(630) 896-7778",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": "65+",
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Deer Path Supportive Living",
+    "slug": "deer-path-supportive-living-huntley",
+    "address": "12500 Regency Parkway",
+    "addressKey": "12500 REGENCY PKWY|60142",
+    "city": "Huntley",
+    "county": "Kane",
+    "region": null,
+    "zip": "60142",
+    "lat": 42.149525183828,
+    "lng": -88.440363818892,
+    "phone": "(847) 515-1800",
+    "website": "http://www.bma-mgmt.com/deerpathhuntley/",
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": "*Serves individuals with physical disabilities ages 22-64",
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Eden Supportive Living North Aurora",
+    "slug": "eden-supportive-living-north-aurora-north-aurora",
+    "address": "311 South Lincolnway",
+    "addressKey": "311 S LINCOLNWAY|60542",
+    "city": "North Aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60542",
+    "lat": 41.79373827153,
+    "lng": -88.323153034702,
+    "phone": "(630) 929-3333",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": "*Serves individuals with physical disabilities ages 22-64",
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Heritage Woods of Batavia",
+    "slug": "heritage-woods-of-batavia-batavia",
+    "address": "1079 East Wilson Street",
+    "addressKey": "1079 E WILSON ST|60510",
+    "city": "Batavia",
+    "county": "Kane",
+    "region": null,
+    "zip": "60510",
+    "lat": 41.85252202778,
+    "lng": -88.286126838935,
+    "phone": "(630) 406-9440",
+    "website": "http://bma-mgmt.com/",
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Heritage Woods of South Elgin",
+    "slug": "heritage-woods-of-south-elgin-south-elgin",
+    "address": "700 Noth McLean Boulevard",
+    "addressKey": "700 NOTH MCLEAN BLVD|60117",
+    "city": "South Elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60117",
+    "lat": null,
+    "lng": null,
+    "phone": "(847) 531-8360",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Vistas Fox Valley",
+    "slug": "vistas-fox-valley-1599-farnsworth-aurora",
+    "address": "1599 Farnsworth, Aurora, IL 60505",
+    "addressKey": "1599 FARNSWORTH AURORA IL 60505|60505",
+    "city": "1599 Farnsworth, Aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60505",
+    "lat": 41.789230339932,
+    "lng": -88.281870640715,
+    "phone": "(630) 898-9400",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": null,
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "White Oaks Heritage Woods of South Elgin",
+    "slug": "white-oaks-heritage-woods-of-south-elgin-south-elgin",
+    "address": "700 North McLean Boulevard",
+    "addressKey": "700 N MCLEAN BLVD|60177",
+    "city": "South Elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60177",
+    "lat": 42.015539560882,
+    "lng": -88.314484990159,
+    "phone": "(847) 531-8360",
+    "website": null,
+    "email": null,
+    "categories": [
+      "supportive-living",
+      "memory-care"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "supportiveLiving": true,
+      "medicaidAccepted": true,
+      "operator": null,
+      "populationServed": "65+",
+      "inspectionSummary": null,
+      "dataSources": [
+        "HFS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "HFS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "CRESCENT CARE OF ELGIN",
+    "slug": "crescent-care-of-elgin-elgin",
+    "address": "180 SOUTH STATE STREET",
+    "addressKey": "180 S STATE ST|60123",
+    "city": "Elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60123",
+    "lat": 42.0322,
+    "lng": -88.284,
+    "phone": "8477423310",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145004",
+      "certifiedBeds": 88,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 3,
+        "quality": 4
+      },
+      "deficiencyCount": 5,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 3 stars, quality measures: 4 stars). The most recent standard health inspection identified 5 deficiencies. CMS records 7 penalties against this facility, including 6 fines totaling $44,709.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "GROVE OF FOX VALLEY,THE",
+    "slug": "grove-of-fox-valley-the-aurora",
+    "address": "1601 NORTH FARNSWORTH AVENUE",
+    "addressKey": "1601 N FARNSWORTH AVE|60505",
+    "city": "Aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60505",
+    "lat": 41.7893,
+    "lng": -88.282,
+    "phone": "6308981180",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145006",
+      "certifiedBeds": 158,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 2,
+        "quality": 3
+      },
+      "deficiencyCount": 7,
+      "ownershipType": "For profit - Individual",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 7 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "RIVER VIEW REHAB CENTER",
+    "slug": "river-view-rehab-center-elgin",
+    "address": "50 NORTH JANE",
+    "addressKey": "50 N JANE|60123",
+    "city": "Elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60123",
+    "lat": 42.0356,
+    "lng": -88.317,
+    "phone": "8476973750",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145308",
+      "certifiedBeds": 203,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 1,
+        "staffing": 3,
+        "quality": 2
+      },
+      "deficiencyCount": 15,
+      "ownershipType": "For profit - Partnership",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 3 stars, quality measures: 2 stars). The most recent standard health inspection identified 15 deficiencies. CMS records 6 penalties against this facility, including 5 fines totaling $591,676.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Alpine Care of St. Charles LLC",
+    "slug": "alpine-care-of-st-charles-llc-saint-charles",
+    "address": "611 ALLEN LANE",
+    "addressKey": "611 ALLEN LN|60174",
+    "city": "Saint charles",
+    "county": "Kane",
+    "region": null,
+    "zip": "60174",
+    "lat": 41.9243,
+    "lng": -88.308,
+    "phone": "6303772211",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145433",
+      "certifiedBeds": 120,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 3,
+        "staffing": 3,
+        "quality": 3
+      },
+      "deficiencyCount": 15,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 3 stars, staffing: 3 stars, quality measures: 3 stars). The most recent standard health inspection identified 15 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "APERION CARE FOX RIVER",
+    "slug": "aperion-care-fox-river-elgin",
+    "address": "355 RAYMOND STREET",
+    "addressKey": "355 RAYMOND ST|60120",
+    "city": "Elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60120",
+    "lat": 42.0296,
+    "lng": -88.274,
+    "phone": "8476976636",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145447",
+      "certifiedBeds": 94,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 5,
+        "staffing": 3,
+        "quality": 5
+      },
+      "deficiencyCount": 3,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 5 stars, staffing: 3 stars, quality measures: 5 stars). The most recent standard health inspection identified 3 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "PEARL OF ORCHARD VALLEY",
+    "slug": "pearl-of-orchard-valley-aurora",
+    "address": "2330 WEST GALENA BOULEVARD",
+    "addressKey": "2330 W GALENA BLVD|60506",
+    "city": "Aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60506",
+    "lat": 41.7652,
+    "lng": -88.374,
+    "phone": "6308964686",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145473",
+      "certifiedBeds": 203,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 1,
+        "staffing": 2,
+        "quality": 3
+      },
+      "deficiencyCount": 23,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 23 deficiencies. CMS records 7 penalties against this facility, including 6 fines totaling $542,423.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "La Bella of Aurora",
+    "slug": "la-bella-of-aurora-aurora",
+    "address": "1017 WEST GALENA BOULEVARD",
+    "addressKey": "1017 W GALENA BLVD|60506",
+    "city": "Aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60506",
+    "lat": 41.7624,
+    "lng": -88.34,
+    "phone": "6308973100",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145663",
+      "certifiedBeds": 68,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 1,
+        "staffing": 1,
+        "quality": 1
+      },
+      "deficiencyCount": 25,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 1 stars, quality measures: 1 stars). The most recent standard health inspection identified 25 deficiencies. CMS records 3 penalties against this facility, including 2 fines totaling $250,526.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "The Pearl of Fox River Valley",
+    "slug": "the-pearl-of-fox-river-valley-elgin",
+    "address": "1950 LARKIN AVENUE",
+    "addressKey": "1950 LARKIN AVE|60123",
+    "city": "Elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60123",
+    "lat": 42.0327,
+    "lng": -88.325,
+    "phone": "8477427070",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145699",
+      "certifiedBeds": 112,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 3,
+        "staffing": 2,
+        "quality": 4
+      },
+      "deficiencyCount": 9,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 3 stars, staffing: 2 stars, quality measures: 4 stars). The most recent standard health inspection identified 9 deficiencies. CMS records 2 penalties against this facility, including 2 fines totaling $142,448.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "APERION CARE ELGIN",
+    "slug": "aperion-care-elgin-elgin",
+    "address": "134 NORTH MCLEAN BOULEVARD",
+    "addressKey": "134 N MCLEAN BLVD|60121",
+    "city": "Elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60121",
+    "lat": 42.0389,
+    "lng": -88.312,
+    "phone": "8477428822",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145740",
+      "certifiedBeds": 101,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 3,
+        "staffing": 2,
+        "quality": 5
+      },
+      "deficiencyCount": 7,
+      "ownershipType": "For profit - Individual",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 3 stars, staffing: 2 stars, quality measures: 5 stars). The most recent standard health inspection identified 7 deficiencies. CMS records 2 penalties against this facility, including 2 fines totaling $27,381.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "TOWER HILL HEALTHCARE CENTER",
+    "slug": "tower-hill-healthcare-center-south-elgin",
+    "address": "759 KANE STREET",
+    "addressKey": "759 KANE ST|60177",
+    "city": "South elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60177",
+    "lat": 41.9977,
+    "lng": -88.306,
+    "phone": "8476973310",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145795",
+      "certifiedBeds": 206,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 2,
+        "staffing": 1,
+        "quality": 2
+      },
+      "deficiencyCount": 18,
+      "ownershipType": "For profit - Partnership",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 2 stars, staffing: 1 stars, quality measures: 2 stars). The most recent standard health inspection identified 18 deficiencies. CMS records 2 penalties against this facility, including 2 fines totaling $57,365.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "PEARL OF ELGIN, THE",
+    "slug": "pearl-of-elgin-the-elgin",
+    "address": "2355 ROYAL BOULEVARD",
+    "addressKey": "2355 ROYAL BLVD|60123",
+    "city": "Elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60123",
+    "lat": 42.0516,
+    "lng": -88.335,
+    "phone": "8478889585",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145821",
+      "certifiedBeds": 139,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 3,
+        "staffing": 2,
+        "quality": 5
+      },
+      "deficiencyCount": 9,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 3 stars, staffing: 2 stars, quality measures: 5 stars). The most recent standard health inspection identified 9 deficiencies. CMS records 1 penalty against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "SOUTH ELGIN LIVING & REHAB CENTER",
+    "slug": "south-elgin-living-rehab-center-south-elgin",
+    "address": "746 WEST SPRING STREET",
+    "addressKey": "746 W SPRING ST|60177",
+    "city": "South elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60177",
+    "lat": 41.9954,
+    "lng": -88.306,
+    "phone": "8476970565",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145825",
+      "certifiedBeds": 90,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 1,
+        "staffing": 2,
+        "quality": 2
+      },
+      "deficiencyCount": 17,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 2 stars, quality measures: 2 stars). The most recent standard health inspection identified 17 deficiencies. CMS records 4 penalties against this facility, including 2 fines totaling $230,403.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "AVANTARA AURORA",
+    "slug": "avantara-aurora-aurora",
+    "address": "400 WEST SULLIVAN ROAD",
+    "addressKey": "400 W SULLIVAN RD|60506",
+    "city": "Aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60506",
+    "lat": 41.7888,
+    "lng": -88.325,
+    "phone": "6308593700",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145944",
+      "certifiedBeds": 87,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 3,
+        "quality": 4
+      },
+      "deficiencyCount": 7,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 3 stars, quality measures: 4 stars). The most recent standard health inspection identified 7 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "PEARL OF ST CHARLES, THE",
+    "slug": "pearl-of-st-charles-the-st-charles",
+    "address": "850 DUNHAM RD",
+    "addressKey": "850 DUNHAM RD|60174",
+    "city": "St charles",
+    "county": "Kane",
+    "region": null,
+    "zip": "60174",
+    "lat": 41.9267,
+    "lng": -88.284,
+    "phone": "6304434400",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "145980",
+      "certifiedBeds": 109,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 2,
+        "staffing": 1,
+        "quality": 3
+      },
+      "deficiencyCount": 14,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 2 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 14 deficiencies. CMS records 3 penalties against this facility, including 3 fines totaling $41,294.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ALDEN OF WATERFORD",
+    "slug": "alden-of-waterford-aurora",
+    "address": "2021 RANDI DRIVE",
+    "addressKey": "2021 RANDI DR|60505",
+    "city": "Aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60505",
+    "lat": 41.7373,
+    "lng": -88.269,
+    "phone": "6308517266",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146008",
+      "certifiedBeds": 99,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 3,
+        "staffing": 1,
+        "quality": 3
+      },
+      "deficiencyCount": 13,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 3 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 13 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $106,499.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "BRIA OF GENEVA",
+    "slug": "bria-of-geneva-geneva",
+    "address": "1101 EAST STATE STREET",
+    "addressKey": "1101 E STATE ST|60134",
+    "city": "Geneva",
+    "county": "Kane",
+    "region": null,
+    "zip": "60134",
+    "lat": 41.8875,
+    "lng": -88.283,
+    "phone": "6302327544",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146067",
+      "certifiedBeds": 107,
+      "ratings": {
+        "overall": 3,
+        "healthInspection": 4,
+        "staffing": 1,
+        "quality": 3
+      },
+      "deficiencyCount": 8,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 4 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 8 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ASBURY GARDENS NSG & REHAB",
+    "slug": "asbury-gardens-nsg-rehab-north-aurora",
+    "address": "212 AIRPORT ROAD",
+    "addressKey": "212 AIRPORT RD|60542",
+    "city": "North aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60542",
+    "lat": 41.7983,
+    "lng": -88.325,
+    "phone": "6308967778",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146170",
+      "certifiedBeds": 75,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 4,
+        "quality": 2
+      },
+      "deficiencyCount": 4,
+      "ownershipType": "For profit - Limited Liability company",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 4 stars, quality measures: 2 stars). The most recent standard health inspection identified 4 deficiencies. CMS records 2 penalties against this facility, including 2 fines totaling $6,350.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "AVONDALE ESTATES OF ELGIN",
+    "slug": "avondale-estates-of-elgin-elgin",
+    "address": "1754-1760 CAPITAL STREET",
+    "addressKey": "1754-1760 CAPITAL ST|60124",
+    "city": "Elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60124",
+    "lat": 42.0796,
+    "lng": -88.339,
+    "phone": "8475316004",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146181",
+      "certifiedBeds": 120,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 5,
+        "staffing": 5,
+        "quality": 4
+      },
+      "deficiencyCount": 5,
+      "ownershipType": "For profit - Individual",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 5 stars, staffing: 5 stars, quality measures: 4 stars). The most recent standard health inspection identified 5 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $15,958.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "ALDEN COURTS OF WATERFORD",
+    "slug": "alden-courts-of-waterford-aurora",
+    "address": "1991 RANDI DRIVE",
+    "addressKey": "1991 RANDI DR|60504",
+    "city": "Aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60504",
+    "lat": 41.7374,
+    "lng": -88.27,
+    "phone": "6308511466",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146182",
+      "certifiedBeds": 60,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 2,
+        "quality": 2
+      },
+      "deficiencyCount": 7,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 2 stars, quality measures: 2 stars). The most recent standard health inspection identified 7 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $21,645.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "JENNINGS TERRACE",
+    "slug": "jennings-terrace-aurora",
+    "address": "275 SOUTH LASALLE",
+    "addressKey": "275 S LASALLE|60505",
+    "city": "Aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60505",
+    "lat": 41.751,
+    "lng": -88.317,
+    "phone": "6308976947",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "146197",
+      "certifiedBeds": 60,
+      "ratings": {
+        "overall": 4,
+        "healthInspection": 4,
+        "staffing": 2,
+        "quality": 2
+      },
+      "deficiencyCount": 7,
+      "ownershipType": "Non profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 2 stars, quality measures: 2 stars). The most recent standard health inspection identified 7 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "HIGHLAND OAKS",
+    "slug": "highland-oaks-elgin",
+    "address": "2750 WEST HIGHLAND AVENUE",
+    "addressKey": "2750 W HIGHLAND AVE|60123",
+    "city": "Elgin",
+    "county": "Kane",
+    "region": null,
+    "zip": "60123",
+    "lat": 42.0517,
+    "lng": -88.347,
+    "phone": "8477414543",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "14A383",
+      "certifiedBeds": 24,
+      "ratings": {
+        "overall": 5,
+        "healthInspection": 5,
+        "staffing": 5,
+        "quality": 5
+      },
+      "deficiencyCount": 2,
+      "ownershipType": "Non profit - Church related",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 5 stars, staffing: 5 stars, quality measures: 5 stars). The most recent standard health inspection identified 2 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "Batavia Rehabilitation and Health Care Center",
+    "slug": "batavia-rehabilitation-and-health-care-center-batavia",
+    "address": "520 FABYAN PARKWAY",
+    "addressKey": "520 FABYAN PKWY|60510",
+    "city": "Batavia",
+    "county": "Kane",
+    "region": null,
+    "zip": "60510",
+    "lat": 41.8641,
+    "lng": -88.318,
+    "phone": "6308795266",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "14E095",
+      "certifiedBeds": 63,
+      "ratings": {
+        "overall": 2,
+        "healthInspection": 3,
+        "staffing": 1,
+        "quality": 4
+      },
+      "deficiencyCount": 11,
+      "ownershipType": "For profit - Corporation",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 3 stars, staffing: 1 stars, quality measures: 4 stars). The most recent standard health inspection identified 11 deficiencies. CMS records no payment denials or fines against this facility.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  },
+  {
+    "name": "NORTH AURORA LIVING & REHAB CTR",
+    "slug": "north-aurora-living-rehab-ctr-north-aurora",
+    "address": "310 BANBURY ROAD",
+    "addressKey": "310 BANBURY RD|60542",
+    "city": "North aurora",
+    "county": "Kane",
+    "region": null,
+    "zip": "60542",
+    "lat": 41.8151,
+    "lng": -88.312,
+    "phone": "6308927627",
+    "website": null,
+    "email": null,
+    "categories": [
+      "nursing-homes"
+    ],
+    "status": "PENDING",
+    "enriched": {
+      "ccn": "14E306",
+      "certifiedBeds": 129,
+      "ratings": {
+        "overall": 1,
+        "healthInspection": 1,
+        "staffing": 2,
+        "quality": 4
+      },
+      "deficiencyCount": 5,
+      "ownershipType": "For profit - Partnership",
+      "isCcrc": false,
+      "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 2 stars, quality measures: 4 stars). The most recent standard health inspection identified 5 deficiencies. CMS records 4 penalties against this facility, including 3 fines totaling $96,800.",
+      "dataSources": [
+        "CMS"
+      ],
+      "lastVerified": "2026-07-10"
+    },
+    "_sources": [
+      "CMS"
+    ],
+    "_sourceRowCount": 1
+  }
+]

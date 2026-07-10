@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Victory Centre of Joliet",
+    "rawAddress": "31 North Broadway",
+    "city": "Joliet",
+    "zip": "60435",
+    "phone": "815-724-0308",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": "https://www.caring.com/senior-living/illinois/joliet/victory-centre-of-joliet"
+  },
+  {
+    "name": "Joshua Arms Of Lutheran Social Services of Illinois",
+    "rawAddress": "1315 Rowell Avenue",
+    "city": "Joliet",
+    "zip": "60433",
+    "phone": "815-727-6401",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  },
+  {
+    "name": "Heritage Woods of Bolingbrook",
+    "rawAddress": "550 Kildeere",
+    "city": "Bolingbrook",
+    "zip": "60440",
+    "phone": "630-783-9640",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": "https://www.gardant.com/heritagewoodsbolingbrook/"
+  },
+  {
+    "name": "Heritage Woods of Plainfield",
+    "rawAddress": "14731 South Van Dyke Road",
+    "city": "Plainfield",
+    "zip": "60544",
+    "phone": "(815) 267-3800",
+    "dementiaCare": false,
+    "populationServedNote": null,
+    "website": null
+  }
+]

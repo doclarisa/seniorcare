@@ -214,16 +214,18 @@ async function main() {
   const total = parseInt(totalMatch[1], 10);
   log(`Search returned ${total} total facilities.`);
 
-  // Fast-forward to the first incomplete page based on checkpoint size.
-  const resumePage = Math.floor(done.size / 10);
-  for (let p = 0; p < resumePage; p++) {
-    await page.getByText("Next Page", { exact: true }).click();
-    await page.waitForTimeout(1200);
-  }
-  if (resumePage > 0) log(`Fast-forwarded ${resumePage} pages to resume.`);
+  // NOTE: we deliberately do NOT fast-forward by position (done.size / 10).
+  // The search-results ordering in this Salesforce app is not stable across
+  // page loads/sessions, so "page 55" on one run can show different
+  // facilities than "page 55" on another. Fast-forwarding on that assumption
+  // caused the crawl to permanently skip ~73 facilities that happened to
+  // land on earlier pages in this session while already-scraped facilities
+  // reappeared on the later pages we jumped to. Always walk from page 1;
+  // the done-set skip check below makes re-visiting already-checkpointed
+  // rows cheap.
 
   let processedThisRun = 0;
-  let pageNum = resumePage;
+  let pageNum = 0;
 
   while (true) {
     const bodyTextPage = await page.locator("body").innerText();
@@ -260,7 +262,14 @@ async function main() {
       let facilityInfoText = await page.locator("body").innerText();
       let info = parseFacilityInfo(facilityInfoText);
 
-      if (!info.status.found || !info.facilityId.found) {
+      // A Facility ID/Status is never legitimately blank for a real record —
+      // unlike optional fields (e.g. Floating Units), so require a non-null
+      // .value here, not just .found. A label can be "found" while its value
+      // is null because the page rendered section headers before the field
+      // values populated (a timing issue, not a genuinely empty field); that
+      // previously slipped through and let section-header text like
+      // "Facility Information" get written into facilityId.
+      if (!info.status.found || !info.status.value || !info.facilityId.found || !info.facilityId.value) {
         log(`  status/facilityId not found on first read for "${name}"; retrying with longer wait...`);
         await page.waitForTimeout(5000);
         await page.waitForLoadState("networkidle").catch(() => {});
@@ -268,7 +277,7 @@ async function main() {
         info = parseFacilityInfo(facilityInfoText);
       }
 
-      if (!info.status.found || !info.facilityId.found) {
+      if (!info.status.found || !info.status.value || !info.facilityId.found || !info.facilityId.value) {
         throw new Error(
           `STOP: could not parse required fields (status/facilityId) for "${name}" at page ${pageNum + 1}, row ${i}. Aborting rather than guessing.`,
         );
@@ -331,8 +340,11 @@ async function main() {
 
     const nextPage = page.getByText("Next Page", { exact: true });
     const nextCount = await nextPage.count();
-    if (nextCount === 0) {
-      log(`No 'Next Page' control found but only ${done.size}/${total} done. Stopping to avoid looping.`);
+    const nextEnabled = nextCount > 0 && (await nextPage.locator("xpath=ancestor::button[1]").isEnabled().catch(() => false));
+    if (nextCount === 0 || !nextEnabled) {
+      log(
+        `Reached the last page but only ${done.size}/${total} done (${total - done.size} facilities never appeared under any page position this pass). Stopping this pass rather than retry-looping on a disabled control; a repeat run will re-walk from page 1 and pick up anything still missing.`,
+      );
       break;
     }
     await nextPage.click();
@@ -342,20 +354,41 @@ async function main() {
   }
 
   await browser.close();
-  log(`Run complete. Processed ${processedThisRun} new facilities this run. Total checkpointed: ${done.size}.`);
+  log(`Pass complete. Processed ${processedThisRun} new facilities this pass. Total checkpointed: ${done.size}/${total}.`);
 
-  // finalize
+  if (done.size < total) {
+    return { complete: false, doneSize: done.size, total };
+  }
+
+  // finalize — only write the final deliverable once every facility has
+  // actually been checkpointed, never on a partial pass.
   const all = [...done.values()];
   fs.writeFileSync(FINAL_FILE, JSON.stringify(all, null, 2));
   log(`Wrote ${all.length} raw records to ${FINAL_FILE}`);
+  return { complete: true, doneSize: done.size, total };
 }
 
 async function run() {
   const MAX_RETRIES = 30;
+  const MAX_FULL_PASSES = 6;
+  let fullPasses = 0;
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
-      await main();
-      return; // success
+      const result = await main();
+      if (result.complete) return; // success
+      fullPasses++;
+      log(`Full pass ${fullPasses}/${MAX_FULL_PASSES} finished incomplete (${result.doneSize}/${result.total}). Starting another pass from page 1.`);
+      if (fullPasses >= MAX_FULL_PASSES) {
+        log(
+          `STOP: after ${fullPasses} full passes, still only ${result.doneSize}/${result.total} facilities checkpointed. ` +
+            `The remaining ${result.total - result.doneSize} facilities never appeared under any page position across repeated passes — ` +
+            `this looks like a genuine gap (not just result-ordering drift) and needs manual review rather than more automated retries.`,
+        );
+        process.exit(1);
+      }
+      // Not a transient error, so don't count this against MAX_RETRIES.
+      attempt--;
+      continue;
     } catch (err) {
       const isHardStop = err.message?.startsWith("STOP:");
       if (isHardStop) {
