@@ -82,3 +82,7 @@ export async function getFacilityBySlug(slug: string): Promise<FacilityWithRevie
 export async function getCountyFacilities(county: string): Promise<Facility[]> {
   return listFacilities({ county });
 }
+
+export async function countFacilities(county: string): Promise<number> {
+  return prisma.facility.count({ where: { status: "PUBLISHED", county } });
+}

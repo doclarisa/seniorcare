@@ -51,3 +51,12 @@ export async function listListingsByCareTypeAndCounty(
     orderBy: { name: "asc" },
   });
 }
+
+export async function countListingsByCareTypeAndCounty(
+  careType: string,
+  countyProperName: string,
+): Promise<number> {
+  return prisma.listing.count({
+    where: { status: "PUBLISHED", categories: { has: careType }, county: countyProperName },
+  });
+}
