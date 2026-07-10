@@ -1,7 +1,7 @@
 // Client-safe constants shared by server data-fetching (lib/facilities.ts)
 // and client-side forms. Must not import Prisma or any server-only module.
 
-export const COUNTIES = ["Cook", "DuPage", "Will", "Lake", "Kane"] as const;
+export const COUNTIES = ["Cook", "DuPage", "Will", "Lake", "Kane", "McHenry", "Kendall"] as const;
 
 export const CARE_LEVEL_FILTERS = [
   { value: "assisted living", label: "Assisted Living" },
