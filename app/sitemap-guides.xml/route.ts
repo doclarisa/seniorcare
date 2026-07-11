@@ -1,10 +1,16 @@
-import { buildUrlsetXml, xmlResponse } from "@/lib/sitemap";
+import { GUIDES } from "@/lib/guides";
+import { SITE_URL, buildUrlsetXml, xmlResponse } from "@/lib/sitemap";
 
-// No guide pages exist yet (chicago-senior-care-taxonomy.md §7's pillar-
-// cluster pages -- cost of assisted living, how to read IDPH inspection
-// reports, etc.). Kept as its own empty-but-valid sitemap file, rather than
-// added later, so the segmented structure (and the URL Search Console sees)
-// doesn't change once guides do exist.
+export const revalidate = 3600;
+
 export async function GET() {
-  return xmlResponse(buildUrlsetXml([]));
+  const urls = [
+    { loc: `${SITE_URL}/guides`, changefreq: "monthly" as const, priority: 0.6 },
+    ...GUIDES.map((g) => ({
+      loc: `${SITE_URL}/guides/${g.slug}`,
+      changefreq: "monthly" as const,
+      priority: 0.7,
+    })),
+  ];
+  return xmlResponse(buildUrlsetXml(urls));
 }

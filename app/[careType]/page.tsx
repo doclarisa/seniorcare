@@ -12,6 +12,19 @@ import {
   listCitiesWithCareType,
 } from "@/lib/listings";
 import { CARE_TYPE_CONTENT } from "@/lib/care-type-content";
+import { GUIDES } from "@/lib/guides";
+
+// Internal linking model (taxonomy §9): guides link down into matching
+// care-type landings, and landings link back up to the guides that cover
+// them -- without this, a family lands on a hub page with nowhere to go
+// for the "how do I actually evaluate this" questions the FAQ block can
+// only answer briefly.
+const RELATED_GUIDE_SLUGS: Record<string, string[]> = {
+  "assisted-living": ["assisted-living-vs-nursing-home", "cost-of-assisted-living-illinois", "questions-to-ask-on-a-facility-tour"],
+  "memory-care": ["memory-care-guide", "questions-to-ask-on-a-facility-tour"],
+  "supportive-living": ["supportive-living-program-illinois", "how-to-pay-for-senior-care-illinois"],
+  "nursing-homes": ["how-to-read-idph-inspection-reports", "assisted-living-vs-nursing-home"],
+};
 
 // The four government-fed verticals (chicago-senior-care-data-import-plan.md
 // §2): the only ones with a clean, verifiable public data source today.
@@ -80,6 +93,9 @@ export default async function CareTypeHubPage({
   const total = countyRows.reduce((sum, c) => sum + c.count, 0);
 
   const cities = await listCitiesWithCareType(careType);
+  const relatedGuides = (RELATED_GUIDE_SLUGS[careType] ?? [])
+    .map((slug) => GUIDES.find((g) => g.slug === slug))
+    .filter((g): g is NonNullable<typeof g> => !!g);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -171,6 +187,23 @@ export default async function CareTypeHubPage({
           </div>
         ))}
       </div>
+
+      {relatedGuides.length > 0 && (
+        <>
+          <h2 className="mt-10 text-lg font-bold text-slate-900">Related guides</h2>
+          <div className="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
+            {relatedGuides.map((g) => (
+              <Link
+                key={g.slug}
+                href={`/guides/${g.slug}`}
+                className="rounded-lg border border-slate-200 bg-white px-4 py-3 shadow-sm hover:border-teal-800"
+              >
+                <span className="font-semibold text-slate-900">{g.title}</span>
+              </Link>
+            ))}
+          </div>
+        </>
+      )}
     </Container>
   );
 }
