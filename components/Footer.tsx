@@ -24,12 +24,32 @@ export function Footer() {
               </li>
               <li>
                 <Link href="/about" className="hover:text-teal-800">
-                  How it works
+                  About
                 </Link>
               </li>
               <li>
                 <Link href="/contact" className="hover:text-teal-800">
                   Contact
+                </Link>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <p className="font-semibold text-slate-800">Trust</p>
+            <ul className="mt-2 space-y-2">
+              <li>
+                <Link href="/methodology" className="hover:text-teal-800">
+                  Methodology
+                </Link>
+              </li>
+              <li>
+                <Link href="/founder" className="hover:text-teal-800">
+                  Founder
+                </Link>
+              </li>
+              <li>
+                <Link href="/medical-disclaimer" className="hover:text-teal-800">
+                  Disclaimer
                 </Link>
               </li>
             </ul>
@@ -54,9 +74,14 @@ export function Footer() {
       <div className="border-t border-slate-200 py-4">
         <Container>
           <p className="text-xs text-slate-500">
-            &copy; {new Date().getFullYear()} Chicago Care for Seniors. Always
-            verify current license status and details directly with the
-            facility and the Illinois Department of Public Health (IDPH).
+            &copy; {new Date().getFullYear()} Chicago Care for Seniors. Information on this site is
+            provided for general informational purposes only, is not medical advice, and a listing
+            is not an endorsement — see our{" "}
+            <Link href="/medical-disclaimer" className="underline hover:text-teal-800">
+              disclaimer
+            </Link>
+            . Always verify current license status and details directly with the facility and the
+            Illinois Department of Public Health (IDPH).
           </p>
         </Container>
       </div>
