@@ -10,30 +10,30 @@ export default function AboutPage() {
 
       <div className="mt-4 max-w-2xl space-y-4 text-slate-700">
         <p>
-          I built Chicago Care for Seniors because I couldn&apos;t find it when I needed it.
+          I built Chicago Care for Seniors because I couldn&apos;t find it when my own family
+          needed it.
         </p>
         <p>
-          A few years ago my father needed a rehabilitation stay, and then a nursing home. I
-          found myself doing what millions of families do every year — trying to make one of the
-          most important decisions of a parent&apos;s life, quickly, in the middle of a health
-          crisis, with almost nothing trustworthy to go on. I read review after review that told
-          me how a lobby looked and nothing about how residents were actually cared for. The
-          information that mattered — a facility&apos;s inspection findings, its staffing, its
-          real record with state regulators — existed. But it was buried in government databases
-          that were never built for families to read.
+          My father, who had recently immigrated, needed care after a hospital stay. I was his
+          caregiver, but I had no real say in where he was placed and no way to know whether it
+          was safe. He died in 2020.
         </p>
         <p>
-          Today I&apos;m a caregiver myself. My mother lives with me, and the questions I ask
-          about her care every day are the same ones I couldn&apos;t get answered back then. That
-          experience is why this site exists, and it&apos;s the lens I bring to every page on it:
-          not &ldquo;which facility can we promote,&rdquo; but &ldquo;which facts would I want if
-          this were my parent.&rdquo;
+          The information that would have told me — a facility&apos;s inspection findings, its
+          staffing, its record with state regulators — existed. But it was buried in government
+          databases never built for families to read, and no one hands it to you when you have no
+          time and no choice.
+        </p>
+        <p>
+          That&apos;s why this site exists: so the next family in that position, especially the
+          ones who don&apos;t get a choice, can at least see the record. Today I care for my
+          mother, who lives with me, and the questions I ask about her care are the same ones I
+          couldn&apos;t get answered back then.
         </p>
         <p>
           That&apos;s the work this site does: sit with a state inspection report or a federal
           staffing dataset, understand what it&apos;s actually saying, and write it back in plain
-          language — the way I&apos;d have wanted it explained to me when I was standing in a
-          hospital hallway trying to decide where my father should go.
+          language.
         </p>
 
         <h2 className="text-lg font-bold text-slate-900">What this site is</h2>
@@ -41,8 +41,8 @@ export default function AboutPage() {
           An independent, plain-spoken guide to senior care in the Chicago area and the collar
           counties (Cook, DuPage, Lake, Will, Kane, McHenry, and Kendall), built on public
           inspection and licensing records rather than marketing. Every government-sourced
-          facility page shows you where its information came from and when it was last checked —
-          see our{" "}
+          facility page shows where its information came from and when it was last checked — see
+          our{" "}
           <Link href="/methodology" className="font-semibold text-teal-800">
             methodology
           </Link>{" "}

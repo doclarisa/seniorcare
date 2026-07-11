@@ -11,6 +11,11 @@ export function Footer() {
             A free directory of assisted living, memory care, and supportive
             living communities across Chicago and the collar counties.
           </p>
+          <p className="mt-2">
+            <a href="mailto:info@chicagocareforseniors.com" className="hover:text-teal-800">
+              info@chicagocareforseniors.com
+            </a>
+          </p>
         </div>
 
         <div className="grid grid-cols-2 gap-6 sm:flex sm:gap-12">
