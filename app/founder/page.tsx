@@ -11,7 +11,7 @@ const jsonLd = {
   url: "/founder",
   worksFor: { "@type": "Organization", name: "Chicago Care for Seniors" },
   description:
-    "Founder and editor of Chicago Care for Seniors, trained in medicine abroad, translates public IDPH/CMS/HFS inspection and licensing records into plain-language guidance for families.",
+    "Founder and editor of Chicago Care for Seniors, translates public IDPH/CMS/HFS inspection and licensing records into plain-language guidance for families.",
 };
 
 export default function FounderPage() {
@@ -23,10 +23,9 @@ export default function FounderPage() {
       <div className="mt-4 max-w-2xl space-y-4 text-slate-700">
         <p>
           Larisa Huhman founded Chicago Care for Seniors after navigating the rehabilitation and
-          nursing-home system for her father, and now cares for her mother at home. Larisa
-          trained in medicine abroad and uses that background to translate public inspection and
-          licensing records into plain-language guidance for families. She personally reviews the
-          site&apos;s methodology and data sourcing.
+          nursing-home system for her father, and now cares for her mother at home. She translates
+          public inspection and licensing records into plain-language guidance for families, and
+          personally reviews the site&apos;s methodology and data sourcing.
         </p>
         <p className="text-sm text-slate-500">
           Byline used across the site: &ldquo;Compiled and reviewed by Larisa Huhman, Founder &amp;

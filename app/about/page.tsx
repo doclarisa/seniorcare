@@ -30,11 +30,10 @@ export default function AboutPage() {
           this were my parent.&rdquo;
         </p>
         <p>
-          I trained in medicine before I came to the US, and while I don&apos;t practice, that
-          training is what lets me sit with a state inspection report or a federal staffing
-          dataset, understand what it&apos;s actually saying, and write it back in plain language
-          — the way I&apos;d have wanted it explained to me when I was standing in a hospital
-          hallway trying to decide where my father should go.
+          That&apos;s the work this site does: sit with a state inspection report or a federal
+          staffing dataset, understand what it&apos;s actually saying, and write it back in plain
+          language — the way I&apos;d have wanted it explained to me when I was standing in a
+          hospital hallway trying to decide where my father should go.
         </p>
 
         <h2 className="text-lg font-bold text-slate-900">What this site is</h2>
