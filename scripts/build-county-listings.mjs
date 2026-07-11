@@ -240,6 +240,14 @@ export async function buildCountyListings(county, countyFileSlug, { usedSlugs = 
           : null,
         ownershipType: cmsRow.raw.ownershipType,
         isCcrc: cmsRow.raw.isCcrc === "Y",
+        // These were previously only ever baked into the free-text
+        // inspectionSummary (via summarizeCms), never stored as their own
+        // structured fields -- meaning nothing could aggregate/query fines
+        // or penalties across facilities. Storing them here too.
+        numberOfFines: cmsRow.raw.numberOfFines ? Number(cmsRow.raw.numberOfFines) : 0,
+        totalFinesDollars: cmsRow.raw.totalFinesDollars ? Number(cmsRow.raw.totalFinesDollars) : 0,
+        numberOfPaymentDenials: cmsRow.raw.numberOfPaymentDenials ? Number(cmsRow.raw.numberOfPaymentDenials) : 0,
+        totalNumberOfPenalties: cmsRow.raw.totalNumberOfPenalties ? Number(cmsRow.raw.totalNumberOfPenalties) : 0,
       }),
       inspectionSummary,
       dataSources,

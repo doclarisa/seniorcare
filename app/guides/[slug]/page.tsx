@@ -112,6 +112,40 @@ export default async function GuidePage({
                 ))}
               </ul>
             )}
+            {section.table && (
+              <div className="mt-3 overflow-x-auto rounded-lg border border-slate-200">
+                <table className="w-full min-w-max text-sm">
+                  <thead className="bg-slate-50">
+                    <tr>
+                      {section.table.headers.map((h) => (
+                        <th key={h} className="px-4 py-2 text-left font-semibold text-slate-700">
+                          {h}
+                        </th>
+                      ))}
+                    </tr>
+                  </thead>
+                  <tbody>
+                    {section.table.rows.map((row, r) => (
+                      <tr key={r} className="border-t border-slate-200">
+                        {row.map((cell, c) =>
+                          typeof cell === "string" ? (
+                            <td key={c} className="px-4 py-2 text-slate-700">
+                              {cell}
+                            </td>
+                          ) : (
+                            <td key={c} className="px-4 py-2">
+                              <Link href={cell.href ?? "#"} className="font-semibold text-teal-800 hover:underline">
+                                {cell.text}
+                              </Link>
+                            </td>
+                          ),
+                        )}
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
           </div>
         ))}
       </div>

@@ -23,7 +23,7 @@ const RELATED_GUIDE_SLUGS: Record<string, string[]> = {
   "assisted-living": ["assisted-living-vs-nursing-home", "cost-of-assisted-living-illinois", "questions-to-ask-on-a-facility-tour"],
   "memory-care": ["memory-care-guide", "questions-to-ask-on-a-facility-tour"],
   "supportive-living": ["supportive-living-program-illinois", "how-to-pay-for-senior-care-illinois"],
-  "nursing-homes": ["how-to-read-idph-inspection-reports", "assisted-living-vs-nursing-home"],
+  "nursing-homes": ["nursing-home-quality-report-illinois", "how-to-read-idph-inspection-reports", "assisted-living-vs-nursing-home"],
 };
 
 // The four government-fed verticals (chicago-senior-care-data-import-plan.md

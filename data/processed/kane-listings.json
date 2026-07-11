@@ -28,7 +28,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -64,7 +64,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -100,7 +100,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -136,7 +136,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -171,7 +171,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -207,7 +207,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -243,7 +243,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -279,7 +279,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -315,7 +315,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -351,7 +351,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -386,7 +386,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -422,7 +422,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -458,7 +458,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -494,7 +494,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -530,7 +530,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -565,7 +565,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -601,7 +601,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -637,7 +637,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -672,7 +672,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -716,12 +716,16 @@
       "deficiencyCount": 6,
       "ownershipType": "Non profit - Corporation",
       "isCcrc": true,
+      "numberOfFines": 1,
+      "totalFinesDollars": 14203,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 1,
       "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/02/2026 (Complaint Original Investigation). IDPH's record shows 9 surveys on file, including 5 complaint or incident investigations. 4 of these surveys resulted in a formal statement of deficiencies (Form 2567). On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 4 stars, quality measures: 5 stars). The most recent standard health inspection identified 6 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $14,203.",
       "dataSources": [
         "IDPH",
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH",
@@ -766,12 +770,16 @@
       "deficiencyCount": 3,
       "ownershipType": "Non profit - Corporation",
       "isCcrc": true,
+      "numberOfFines": 1,
+      "totalFinesDollars": 9110,
+      "numberOfPaymentDenials": 1,
+      "totalNumberOfPenalties": 2,
       "inspectionSummary": "Illinois state inspectors most recently surveyed this facility on 02/24/2026 (Annual Licensure Only Survey). IDPH's record shows 6 surveys on file, including 4 complaint or incident investigations. 5 of these surveys resulted in a formal statement of deficiencies (Form 2567). On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 5 stars, quality measures: 3 stars). The most recent standard health inspection identified 3 deficiencies. CMS records 2 penalties against this facility, including 1 fine totaling $9,110.",
       "dataSources": [
         "IDPH",
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH",
@@ -806,7 +814,7 @@
       "dataSources": [
         "HFS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "HFS"
@@ -841,7 +849,7 @@
       "dataSources": [
         "HFS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "HFS"
@@ -875,7 +883,7 @@
       "dataSources": [
         "HFS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "HFS"
@@ -909,7 +917,7 @@
       "dataSources": [
         "HFS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "HFS"
@@ -943,7 +951,7 @@
       "dataSources": [
         "HFS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "HFS"
@@ -977,7 +985,7 @@
       "dataSources": [
         "HFS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "HFS"
@@ -1011,7 +1019,7 @@
       "dataSources": [
         "HFS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "HFS"
@@ -1046,7 +1054,7 @@
       "dataSources": [
         "HFS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "HFS"
@@ -1083,11 +1091,15 @@
       "deficiencyCount": 5,
       "ownershipType": "For profit - Limited Liability company",
       "isCcrc": false,
+      "numberOfFines": 6,
+      "totalFinesDollars": 44709,
+      "numberOfPaymentDenials": 1,
+      "totalNumberOfPenalties": 7,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 3 stars, quality measures: 4 stars). The most recent standard health inspection identified 5 deficiencies. CMS records 7 penalties against this facility, including 6 fines totaling $44,709.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1124,11 +1136,15 @@
       "deficiencyCount": 7,
       "ownershipType": "For profit - Individual",
       "isCcrc": false,
+      "numberOfFines": 0,
+      "totalFinesDollars": 0,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 0,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 7 deficiencies. CMS records no payment denials or fines against this facility.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1165,11 +1181,15 @@
       "deficiencyCount": 15,
       "ownershipType": "For profit - Partnership",
       "isCcrc": false,
+      "numberOfFines": 5,
+      "totalFinesDollars": 591676,
+      "numberOfPaymentDenials": 1,
+      "totalNumberOfPenalties": 6,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 3 stars, quality measures: 2 stars). The most recent standard health inspection identified 15 deficiencies. CMS records 6 penalties against this facility, including 5 fines totaling $591,676.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1206,11 +1226,15 @@
       "deficiencyCount": 15,
       "ownershipType": "For profit - Corporation",
       "isCcrc": false,
+      "numberOfFines": 0,
+      "totalFinesDollars": 0,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 0,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 3 stars, staffing: 3 stars, quality measures: 3 stars). The most recent standard health inspection identified 15 deficiencies. CMS records no payment denials or fines against this facility.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1247,11 +1271,15 @@
       "deficiencyCount": 3,
       "ownershipType": "For profit - Corporation",
       "isCcrc": false,
+      "numberOfFines": 0,
+      "totalFinesDollars": 0,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 0,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 5 stars, staffing: 3 stars, quality measures: 5 stars). The most recent standard health inspection identified 3 deficiencies. CMS records no payment denials or fines against this facility.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1288,11 +1316,15 @@
       "deficiencyCount": 23,
       "ownershipType": "For profit - Limited Liability company",
       "isCcrc": false,
+      "numberOfFines": 6,
+      "totalFinesDollars": 542423,
+      "numberOfPaymentDenials": 1,
+      "totalNumberOfPenalties": 7,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 2 stars, quality measures: 3 stars). The most recent standard health inspection identified 23 deficiencies. CMS records 7 penalties against this facility, including 6 fines totaling $542,423.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1329,11 +1361,15 @@
       "deficiencyCount": 25,
       "ownershipType": "For profit - Limited Liability company",
       "isCcrc": false,
+      "numberOfFines": 2,
+      "totalFinesDollars": 250526,
+      "numberOfPaymentDenials": 1,
+      "totalNumberOfPenalties": 3,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 1 stars, quality measures: 1 stars). The most recent standard health inspection identified 25 deficiencies. CMS records 3 penalties against this facility, including 2 fines totaling $250,526.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1370,11 +1406,15 @@
       "deficiencyCount": 9,
       "ownershipType": "For profit - Limited Liability company",
       "isCcrc": false,
+      "numberOfFines": 2,
+      "totalFinesDollars": 142448,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 2,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 3 stars, staffing: 2 stars, quality measures: 4 stars). The most recent standard health inspection identified 9 deficiencies. CMS records 2 penalties against this facility, including 2 fines totaling $142,448.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1411,11 +1451,15 @@
       "deficiencyCount": 7,
       "ownershipType": "For profit - Individual",
       "isCcrc": false,
+      "numberOfFines": 2,
+      "totalFinesDollars": 27381,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 2,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 3 stars, staffing: 2 stars, quality measures: 5 stars). The most recent standard health inspection identified 7 deficiencies. CMS records 2 penalties against this facility, including 2 fines totaling $27,381.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1452,11 +1496,15 @@
       "deficiencyCount": 18,
       "ownershipType": "For profit - Partnership",
       "isCcrc": false,
+      "numberOfFines": 2,
+      "totalFinesDollars": 57365,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 2,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 2 stars, staffing: 1 stars, quality measures: 2 stars). The most recent standard health inspection identified 18 deficiencies. CMS records 2 penalties against this facility, including 2 fines totaling $57,365.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1493,11 +1541,15 @@
       "deficiencyCount": 9,
       "ownershipType": "For profit - Limited Liability company",
       "isCcrc": false,
+      "numberOfFines": 0,
+      "totalFinesDollars": 0,
+      "numberOfPaymentDenials": 1,
+      "totalNumberOfPenalties": 1,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 3 stars, staffing: 2 stars, quality measures: 5 stars). The most recent standard health inspection identified 9 deficiencies. CMS records 1 penalty against this facility.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1534,11 +1586,15 @@
       "deficiencyCount": 17,
       "ownershipType": "For profit - Corporation",
       "isCcrc": false,
+      "numberOfFines": 2,
+      "totalFinesDollars": 230403,
+      "numberOfPaymentDenials": 2,
+      "totalNumberOfPenalties": 4,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 2 stars, quality measures: 2 stars). The most recent standard health inspection identified 17 deficiencies. CMS records 4 penalties against this facility, including 2 fines totaling $230,403.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1575,11 +1631,15 @@
       "deficiencyCount": 7,
       "ownershipType": "For profit - Corporation",
       "isCcrc": false,
+      "numberOfFines": 0,
+      "totalFinesDollars": 0,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 0,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 3 stars, quality measures: 4 stars). The most recent standard health inspection identified 7 deficiencies. CMS records no payment denials or fines against this facility.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1616,11 +1676,15 @@
       "deficiencyCount": 14,
       "ownershipType": "For profit - Limited Liability company",
       "isCcrc": false,
+      "numberOfFines": 3,
+      "totalFinesDollars": 41294,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 3,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 2 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 14 deficiencies. CMS records 3 penalties against this facility, including 3 fines totaling $41,294.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1657,11 +1721,15 @@
       "deficiencyCount": 13,
       "ownershipType": "For profit - Corporation",
       "isCcrc": false,
+      "numberOfFines": 1,
+      "totalFinesDollars": 106499,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 1,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 3 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 13 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $106,499.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1698,11 +1766,15 @@
       "deficiencyCount": 8,
       "ownershipType": "For profit - Limited Liability company",
       "isCcrc": false,
+      "numberOfFines": 0,
+      "totalFinesDollars": 0,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 0,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 3-star rating (health inspections: 4 stars, staffing: 1 stars, quality measures: 3 stars). The most recent standard health inspection identified 8 deficiencies. CMS records no payment denials or fines against this facility.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1739,11 +1811,15 @@
       "deficiencyCount": 4,
       "ownershipType": "For profit - Limited Liability company",
       "isCcrc": false,
+      "numberOfFines": 2,
+      "totalFinesDollars": 6350,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 2,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 4 stars, quality measures: 2 stars). The most recent standard health inspection identified 4 deficiencies. CMS records 2 penalties against this facility, including 2 fines totaling $6,350.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1780,11 +1856,15 @@
       "deficiencyCount": 5,
       "ownershipType": "For profit - Individual",
       "isCcrc": false,
+      "numberOfFines": 1,
+      "totalFinesDollars": 15958,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 1,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 5 stars, staffing: 5 stars, quality measures: 4 stars). The most recent standard health inspection identified 5 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $15,958.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1821,11 +1901,15 @@
       "deficiencyCount": 7,
       "ownershipType": "For profit - Corporation",
       "isCcrc": false,
+      "numberOfFines": 1,
+      "totalFinesDollars": 21645,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 1,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 2 stars, quality measures: 2 stars). The most recent standard health inspection identified 7 deficiencies. CMS records 1 penalty against this facility, including 1 fine totaling $21,645.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1862,11 +1946,15 @@
       "deficiencyCount": 7,
       "ownershipType": "Non profit - Corporation",
       "isCcrc": false,
+      "numberOfFines": 0,
+      "totalFinesDollars": 0,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 0,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 4-star rating (health inspections: 4 stars, staffing: 2 stars, quality measures: 2 stars). The most recent standard health inspection identified 7 deficiencies. CMS records no payment denials or fines against this facility.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1903,11 +1991,15 @@
       "deficiencyCount": 2,
       "ownershipType": "Non profit - Church related",
       "isCcrc": false,
+      "numberOfFines": 0,
+      "totalFinesDollars": 0,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 0,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 5 stars, staffing: 5 stars, quality measures: 5 stars). The most recent standard health inspection identified 2 deficiencies. CMS records no payment denials or fines against this facility.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1944,11 +2036,15 @@
       "deficiencyCount": 11,
       "ownershipType": "For profit - Corporation",
       "isCcrc": false,
+      "numberOfFines": 0,
+      "totalFinesDollars": 0,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 0,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 2-star rating (health inspections: 3 stars, staffing: 1 stars, quality measures: 4 stars). The most recent standard health inspection identified 11 deficiencies. CMS records no payment denials or fines against this facility.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -1985,11 +2081,15 @@
       "deficiencyCount": 5,
       "ownershipType": "For profit - Partnership",
       "isCcrc": false,
+      "numberOfFines": 3,
+      "totalFinesDollars": 96800,
+      "numberOfPaymentDenials": 1,
+      "totalNumberOfPenalties": 4,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 1 stars, staffing: 2 stars, quality measures: 4 stars). The most recent standard health inspection identified 5 deficiencies. CMS records 4 penalties against this facility, including 3 fines totaling $96,800.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"

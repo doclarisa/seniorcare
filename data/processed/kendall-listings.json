@@ -28,7 +28,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -64,7 +64,7 @@
       "dataSources": [
         "IDPH"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "IDPH"
@@ -98,7 +98,7 @@
       "dataSources": [
         "HFS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "HFS"
@@ -135,11 +135,15 @@
       "deficiencyCount": 15,
       "ownershipType": "For profit - Limited Liability company",
       "isCcrc": false,
+      "numberOfFines": 3,
+      "totalFinesDollars": 158570,
+      "numberOfPaymentDenials": 1,
+      "totalNumberOfPenalties": 4,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 1-star rating (health inspections: 2 stars, staffing: 2 stars, quality measures: 1 stars). The most recent standard health inspection identified 15 deficiencies. CMS records 4 penalties against this facility, including 3 fines totaling $158,570.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"
@@ -176,11 +180,15 @@
       "deficiencyCount": 7,
       "ownershipType": "For profit - Limited Liability company",
       "isCcrc": false,
+      "numberOfFines": 0,
+      "totalFinesDollars": 0,
+      "numberOfPaymentDenials": 0,
+      "totalNumberOfPenalties": 0,
       "inspectionSummary": "On CMS's federal nursing home rating system, this facility holds an overall 5-star rating (health inspections: 4 stars, staffing: 2 stars, quality measures: 5 stars). The most recent standard health inspection identified 7 deficiencies. CMS records no payment denials or fines against this facility.",
       "dataSources": [
         "CMS"
       ],
-      "lastVerified": "2026-07-10"
+      "lastVerified": "2026-07-11"
     },
     "_sources": [
       "CMS"

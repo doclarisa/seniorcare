@@ -1,7 +1,13 @@
+export interface GuideTable {
+  headers: string[];
+  rows: (string | { text: string; href?: string })[][];
+}
+
 export interface GuideSection {
   heading?: string;
   paragraphs: string[];
   list?: string[];
+  table?: GuideTable;
 }
 
 export interface GuideFaq {
@@ -422,5 +428,118 @@ export const GUIDE_CONTENT: Record<string, GuideContent> = {
         { name: "Get pricing in writing", text: "Confirm exactly what's included in the base rate and what triggers additional charges before signing anything." },
       ],
     },
+  },
+
+  "nursing-home-quality-report-illinois": {
+    sections: [
+      {
+        paragraphs: [
+          "Every Medicare- and Medicaid-certified nursing home in the country reports detailed quality, staffing, and inspection data to CMS every month. We pulled the complete current CMS record for all 312 certified nursing homes across Cook, DuPage, Lake, Will, Kane, McHenry, and Kendall counties and analyzed it directly -- no sampling, no survey, just the full government dataset for the region. Here's what it actually shows.",
+          "This is a snapshot of public CMS data as of our last pull; ratings and enforcement records change as new inspections happen. Every number below links back to the underlying facility pages, which show the current record and \"last verified\" date for that specific home.",
+        ],
+      },
+      {
+        heading: "Nearly half of nursing homes in the region rate below average",
+        paragraphs: [
+          "CMS's 5-star system rates 1 as \"much below average\" and 5 as \"much above average.\" Across the 312 facilities we tracked, the overall-rating distribution skews low: 82 facilities (26%) hold the lowest 1-star rating, and another 65 (21%) hold 2 stars -- meaning 47% of nursing homes in the region rate below average on CMS's own scale, against 57 facilities (18%) at the top 5-star tier.",
+        ],
+        table: {
+          headers: ["Overall rating", "Number of facilities", "Share of total"],
+          rows: [
+            ["1 star", "82", "26%"],
+            ["2 stars", "65", "21%"],
+            ["3 stars", "52", "17%"],
+            ["4 stars", "55", "18%"],
+            ["5 stars", "57", "18%"],
+          ],
+        },
+      },
+      {
+        heading: "Ratings vary sharply by county",
+        paragraphs: [
+          "The regional average obscures real differences by county. Cook County -- both the largest facility count and the lowest average rating in the region -- has 52% of its nursing homes at 1 or 2 stars. The collar counties fare meaningfully better on average, though every county in the region has at least a third of its facilities in the below-average tier.",
+        ],
+        table: {
+          headers: ["County", "Facilities", "Average rating", "Share at 1-2 stars"],
+          rows: [
+            ["Cook", "198", "2.65", "52%"],
+            ["Will", "16", "2.75", "50%"],
+            ["Kane", "24", "3.00", "38%"],
+            ["Kendall", "2", "3.00", "50%"],
+            ["McHenry", "10", "3.10", "40%"],
+            ["DuPage", "38", "3.16", "37%"],
+            ["Lake", "23", "3.26", "35%"],
+          ],
+        },
+      },
+      {
+        heading: "The ownership gap",
+        paragraphs: [
+          "The single sharpest split in the data isn't geography -- it's ownership. Non-profit and government-operated nursing homes in the region average 4.32 and 4.33 stars respectively; for-profit facilities, which make up the large majority of homes in the region (267 of 312), average just 2.56 stars. That's not a subtle difference: it's the gap between \"below average\" and \"above average\" on CMS's own scale, tracking almost exactly with who owns the building.",
+          "This is a pattern, not proof of causation for any individual facility -- ownership type is one input CMS's rating already reflects indirectly through staffing and inspection outcomes, not a separate penalty. But it's a large, consistent gap across a real sample of 267 for-profit vs. 44 non-profit/government facilities, and it's worth knowing before assuming an unfamiliar facility name is representative of the broader pattern in either direction.",
+        ],
+        table: {
+          headers: ["Ownership type", "Facilities", "Average rating"],
+          rows: [
+            ["For-profit", "267", "2.56"],
+            ["Non-profit", "41", "4.32"],
+            ["Government", "3", "4.33"],
+          ],
+        },
+      },
+      {
+        heading: "$31.6 million in fines, concentrated but not isolated",
+        paragraphs: [
+          "CMS tracks fines and other enforcement penalties (like payment denials) against nursing homes that fail to correct serious deficiencies. Across the region, facilities have accumulated $31,614,866 in total fines on record, spread across 887 separate penalty actions. Two-thirds of nursing homes in the region (205 of 312, 66%) have at least one fine on record -- this isn't a small number of outliers; it's the norm, not the exception, though the size of individual fines varies enormously. The largest single fine in the dataset accounts for under 3% of the regional total, so this isn't one facility skewing the picture.",
+        ],
+      },
+      {
+        heading: "The most-fined facilities in the region",
+        paragraphs: [
+          "These are the eight facilities with the largest cumulative CMS fines on record in our dataset. A large fine reflects CMS's own enforcement action following a serious, substantiated deficiency -- click through to each facility's page for its full inspection summary and current record, not just the fine total.",
+        ],
+        table: {
+          headers: ["Facility", "County", "Total fines on record"],
+          rows: [
+            [{ text: "Chicago Ridge SNF", href: "/facility/chicago-ridge-snf-chicago-ridge" }, "Cook", "$883,180"],
+            [{ text: "Morgan Park Healthcare", href: "/facility/morgan-park-healthcare-chicago" }, "Cook", "$631,885"],
+            [{ text: "Austin Oasis, The", href: "/facility/austin-oasis-the-chicago" }, "Cook", "$607,298"],
+            [{ text: "Archer Heights Healthcare", href: "/facility/archer-heights-healthcare-chicago" }, "Cook", "$596,515"],
+            [{ text: "River View Rehab Center", href: "/facility/river-view-rehab-center-elgin" }, "Kane", "$591,676"],
+            [{ text: "Pearl of Orchard Valley", href: "/facility/pearl-of-orchard-valley-aurora" }, "Kane", "$542,423"],
+            [{ text: "Bria of Elmwood Park", href: "/facility/bria-of-elmwood-park-elmwood-park" }, "Cook", "$527,279"],
+            [{ text: "Landmark of Richton Park Rehab & Nsg Ctr", href: "/facility/landmark-of-richton-park-rehab-nsg-ctr-richton-park" }, "Cook", "$519,652"],
+          ],
+        },
+      },
+      {
+        heading: "Methodology",
+        paragraphs: [
+          "Source: CMS Provider Data Catalog, Nursing Home Provider Information dataset, filtered to Cook, DuPage, Lake, Will, Kane, McHenry, and Kendall counties (312 certified nursing homes). Ratings, deficiency counts, and fines are CMS's own published figures, not our estimates. Ownership-type categorization groups CMS's more granular ownership categories (e.g. \"For profit - Limited Liability company,\" \"Non profit - Corporation\") into three buckets: for-profit, non-profit, and government. See our full methodology for how this fits into the rest of our data pipeline, and how often it's refreshed.",
+        ],
+      },
+    ],
+    faqs: [
+      {
+        question: "Where does this data come from?",
+        answer:
+          "The Centers for Medicare & Medicaid Services (CMS) Provider Data Catalog, specifically the Nursing Home Provider Information dataset -- the same federal dataset that powers Medicare's official Care Compare tool. We pulled the complete record for all certified nursing homes in the seven counties covered, not a sample.",
+      },
+      {
+        question: "Does a low CMS rating mean a facility is unsafe?",
+        answer:
+          "Not automatically -- a low rating reflects a combination of inspection findings, staffing levels, and quality measures relative to other facilities nationally, not a single safety judgment. It's a strong starting signal, not a final verdict; always look at a specific facility's full record, including how recent any findings are, before drawing a conclusion.",
+      },
+      {
+        question: "Why do for-profit nursing homes rate lower on average?",
+        answer:
+          "The data shows a large, consistent gap, but we can't say from this dataset alone why it exists for every individual facility -- staffing levels (which factor into the rating directly) are one plausible mechanistic link, since staffing costs are often the largest controllable expense for an operator. It's a real pattern worth knowing, not proof about any single facility.",
+      },
+      {
+        question: "How often is this report updated?",
+        answer:
+          "We re-pull CMS's dataset on the same refresh cycle described in our methodology (CMS itself refreshes monthly). Check the \"last verified\" date on any individual facility page for that facility's specific current record.",
+      },
+    ],
   },
 };

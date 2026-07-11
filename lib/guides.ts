@@ -9,6 +9,11 @@ export interface GuideMeta {
 // also the display order on /guides.
 export const GUIDES: GuideMeta[] = [
   {
+    slug: "nursing-home-quality-report-illinois",
+    title: "Nursing Home Quality & Enforcement Report: Chicago Metro, 2026",
+    dek: "We analyzed CMS's complete federal record for all 312 certified nursing homes across 7 Chicago-area counties -- ratings, ownership, and $31.6M in fines, broken down.",
+  },
+  {
     slug: "how-to-read-idph-inspection-reports",
     title: "How to Read an Illinois Nursing Home or Assisted Living Inspection Report",
     dek: "What a state or federal inspection report actually says, in plain English -- and where to find the real one for any facility.",
