@@ -23,7 +23,7 @@ interface MergedListing {
 
 async function main() {
   const listings: MergedListing[] = JSON.parse(
-    fs.readFileSync("data/processed/cook-county-listings.json", "utf-8"),
+    fs.readFileSync("data/processed/cook-listings.json", "utf-8"),
   );
   console.log(`Upserting ${listings.length} Cook County listings...`);
 

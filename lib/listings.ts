@@ -99,3 +99,77 @@ export async function searchListings(filters: ListingSearchFilters = {}): Promis
     orderBy: { name: "asc" },
   });
 }
+
+// --- City / suburb pages ----------------------------------------------------
+//
+// Unlike the 7 counties (a fixed, known list), city names are whatever
+// IDPH/HFS/CMS/the hand-curated dataset happen to contain -- there's no
+// enum to validate against, so city pages are resolved by slugifying every
+// distinct city in the data and matching against that, rather than a
+// hardcoded list. Chicago itself is just the city with the most listings;
+// it gets no special routing here (Chicago *neighborhood* pages are a
+// separate, not-yet-built feature -- see the routing note in
+// chicago-senior-care-taxonomy.md §4 -- because none of the three
+// government sources record which neighborhood a Chicago address is in,
+// only "Chicago").
+
+export function citySlug(city: string): string {
+  return city
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-+|-+$)/g, "");
+}
+
+async function distinctPublishedCities(): Promise<string[]> {
+  const [listingCities, facilityCities] = await Promise.all([
+    prisma.listing.findMany({ where: { status: "PUBLISHED" }, select: { city: true }, distinct: ["city"] }),
+    prisma.facility.findMany({ where: { status: "PUBLISHED" }, select: { city: true }, distinct: ["city"] }),
+  ]);
+  const set = new Set<string>();
+  for (const { city } of [...listingCities, ...facilityCities]) {
+    if (city) set.add(city);
+  }
+  return [...set];
+}
+
+export async function cityNameFromSlug(slug: string): Promise<string | null> {
+  const cities = await distinctPublishedCities();
+  return cities.find((c) => citySlug(c) === slug) ?? null;
+}
+
+export async function listListingsByCareTypeAndCity(careType: string, city: string): Promise<Listing[]> {
+  return prisma.listing.findMany({
+    where: { status: "PUBLISHED", categories: { has: careType }, city: { equals: city, mode: "insensitive" } },
+    orderBy: { name: "asc" },
+  });
+}
+
+export async function countListingsByCareTypeAndCity(careType: string, city: string): Promise<number> {
+  return prisma.listing.count({
+    where: { status: "PUBLISHED", categories: { has: careType }, city: { equals: city, mode: "insensitive" } },
+  });
+}
+
+// For a given care type, every city (from either source) with at least
+// MIN_LISTINGS_FOR_LANDING_PAGE combined Facility+Listing entries -- i.e.
+// exactly the set of city pages that won't 404 under the threshold rule.
+export async function listCitiesWithCareType(
+  careType: string,
+): Promise<{ city: string; slug: string; count: number }[]> {
+  const cities = await distinctPublishedCities();
+  const counts = await Promise.all(
+    cities.map(async (city) => {
+      const listingCount = await countListingsByCareTypeAndCity(careType, city);
+      let facilityCount = 0;
+      if (careType === "assisted-living") {
+        facilityCount = await prisma.facility.count({
+          where: { status: "PUBLISHED", city: { equals: city, mode: "insensitive" } },
+        });
+      }
+      return { city, slug: citySlug(city), count: listingCount + facilityCount };
+    }),
+  );
+  return counts
+    .filter((c) => c.count >= MIN_LISTINGS_FOR_LANDING_PAGE)
+    .sort((a, b) => b.count - a.count);
+}

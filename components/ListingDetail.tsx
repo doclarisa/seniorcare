@@ -102,7 +102,7 @@ export function ListingDetail({ listing }: { listing: Listing }) {
               <div>
                 <dt className="text-sm font-bold uppercase tracking-wide text-slate-500">Memory care</dt>
                 <dd className="mt-1 text-slate-800">
-                  Dedicated Alzheimer's/memory care unit{enriched.alzheimersUnits ? ` (${enriched.alzheimersUnits} units)` : ""}
+                  Dedicated Alzheimer&apos;s/memory care unit{enriched.alzheimersUnits ? ` (${enriched.alzheimersUnits} units)` : ""}
                 </dd>
               </div>
             )}

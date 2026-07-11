@@ -8,6 +8,7 @@ export { COUNTIES, CARE_LEVEL_FILTERS, PRICE_BANDS };
 
 export interface FacilityFilters {
   county?: string;
+  city?: string;
   careLevel?: string;
   medicaidOnly?: boolean;
   priceBand?: string;
@@ -27,6 +28,7 @@ export async function listFacilities(filters: FacilityFilters = {}): Promise<Fac
 
   const filtered = all.filter((f) => {
     if (filters.county && f.county !== filters.county) return false;
+    if (filters.city && f.city.toLowerCase() !== filters.city.toLowerCase()) return false;
 
     if (filters.careLevel) {
       const levels = asStringArray(f.careLevels);

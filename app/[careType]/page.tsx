@@ -9,6 +9,7 @@ import {
   COUNTY_SLUGS,
   MIN_LISTINGS_FOR_LANDING_PAGE,
   countListingsByCareTypeAndCounty,
+  listCitiesWithCareType,
 } from "@/lib/listings";
 import { CARE_TYPE_CONTENT } from "@/lib/care-type-content";
 
@@ -73,7 +74,12 @@ export default async function CareTypeHubPage({
   const linkableCounties = countyRows.filter(
     (c) => c.count > 0 && (careType === "assisted-living" || c.count >= MIN_LISTINGS_FOR_LANDING_PAGE),
   );
+  // County totals already count every listing regardless of city, so the
+  // metro total comes from there -- summing city counts too would
+  // double-count every listing (it belongs to both a county and a city).
   const total = countyRows.reduce((sum, c) => sum + c.count, 0);
+
+  const cities = await listCitiesWithCareType(careType);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -137,6 +143,24 @@ export default async function CareTypeHubPage({
           </Link>
         ))}
       </div>
+
+      {cities.length > 0 && (
+        <>
+          <h2 className="mt-10 text-lg font-bold text-slate-900">Browse by city</h2>
+          <div className="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
+            {cities.map((c) => (
+              <Link
+                key={c.slug}
+                href={careType === "assisted-living" ? `/assisted-living/${c.slug}` : `/${careType}/${c.slug}`}
+                className="flex items-center justify-between rounded-lg border border-slate-200 bg-white px-4 py-3 shadow-sm hover:border-teal-800"
+              >
+                <span className="font-semibold text-slate-900">{c.city}</span>
+                <span className="text-sm text-slate-500">{c.count}</span>
+              </Link>
+            ))}
+          </div>
+        </>
+      )}
 
       <h2 className="mt-10 text-lg font-bold text-slate-900">Frequently asked questions</h2>
       <div className="mt-4 max-w-3xl space-y-6">

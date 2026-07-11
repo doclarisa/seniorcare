@@ -32,6 +32,15 @@ const DUPLICATE_SLUGS = [
   "bickford-cottage-st-charles-st-charles",
   "sunrise-of-park-ridge-park-ridge",
   "brighton-gardens-of-st-charles-st-charles",
+  // Found in a later pass: the first pass matched on zip + fuzzy name
+  // substring, which missed these two because the Facility record has a
+  // different (likely stale) zip than the Listing for the same street
+  // address, and because "Ciel Senior Living at Plainfield (formerly
+  // HarborChase of Plainfield)" doesn't substring-match "CIEL AT
+  // PLAINFIELD". A street-address-based re-check (scripts/normalize-
+  // address.mjs's normalizeStreet, not zip) caught both.
+  "harbor-chase-of-naperville-naperville",
+  "ciel-at-plainfield-plainfield",
 ];
 
 async function main() {

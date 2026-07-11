@@ -11,6 +11,29 @@ function readJson(p) {
   return JSON.parse(fs.readFileSync(p, "utf-8"));
 }
 
+// CMS's raw city field is ALL CAPS (e.g. "DES PLAINES"). Capitalize each
+// word, not just the first letter of the whole string -- an earlier version
+// of this did `s.charAt(0) + s.slice(1).toLowerCase()`, which mangled every
+// multi-word city name ("Des plaines", "Park ridge", "North aurora", ...)
+// and silently split what should have been one city page into two.
+function titleCaseWord(word) {
+  if (!word) return word;
+  const capitalized = word.charAt(0).toUpperCase() + word.slice(1);
+  // "Mchenry" -> "McHenry": Illinois has multiple Mc-prefixed place names
+  // (McHenry chief among them) that plain word-capitalization gets wrong.
+  const mc = capitalized.match(/^(Mc)([a-z].*)$/);
+  if (mc) return mc[1] + mc[2].charAt(0).toUpperCase() + mc[2].slice(1);
+  return capitalized;
+}
+
+function titleCase(s) {
+  return s
+    .toLowerCase()
+    .split(/(\s+)/)
+    .map((word) => (word.trim() ? titleCaseWord(word) : word))
+    .join("");
+}
+
 // --- 1. load + normalize each source into a common "source row" shape ----
 
 function loadIdphRows(county) {
@@ -89,7 +112,7 @@ function loadCmsRows(county, countyFileSlug) {
     source: "CMS",
     name: r.name,
     street: r.address,
-    city: r.city ? r.city.charAt(0) + r.city.slice(1).toLowerCase() : null,
+    city: r.city ? titleCase(r.city) : null,
     zip: r.zip,
     county,
     phone: r.phone,
@@ -286,7 +309,7 @@ if (isMain) {
   const usedSlugs = new Set();
   // seed usedSlugs with Cook's already-assigned slugs so a same-named
   // facility in another county never collides with a Cook slug
-  const cookListings = readJson("data/processed/cook-county-listings.json");
+  const cookListings = readJson("data/processed/cook-listings.json");
   cookListings.forEach((l) => usedSlugs.add(l.slug));
 
   const run = async () => {

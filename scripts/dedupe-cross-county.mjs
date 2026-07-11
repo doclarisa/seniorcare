@@ -14,7 +14,7 @@ import fs from "node:fs";
 // correct" county, since neither source is more authoritative than the
 // other about which side of a border a building sits on.
 
-const FILES = ["cook-county", "dupage", "lake", "will", "kane", "mchenry", "kendall"];
+const FILES = ["cook", "dupage", "lake", "will", "kane", "mchenry", "kendall"];
 
 function readJson(p) {
   return JSON.parse(fs.readFileSync(p, "utf-8"));

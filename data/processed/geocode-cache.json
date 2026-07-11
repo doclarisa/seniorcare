@@ -1441,5 +1441,51 @@
     "lat": 41.624976649947,
     "lng": -88.452468441786,
     "matchedAddress": "242 GREENBRIAR RD, YORKVILLE, IL, 60560"
+  },
+  "1750 Elmhurst Road, Des Plaines, IL 60018": {
+    "lat": 42.021946198423,
+    "lng": -87.940551903228,
+    "matchedAddress": "1750 ELMHURST RD, DES PLAINES, IL, 60018"
+  },
+  "800 W Oakton St, Arlington Heights, IL 60004": {
+    "lat": 42.095641425316,
+    "lng": -87.992697836529,
+    "matchedAddress": "800 W OAKTON ST, ARLINGTON HEIGHTS, IL, 60004"
+  },
+  "350 W Schaumburg Rd, Schaumburg, IL 60194": {
+    "lat": 42.026998952046,
+    "lng": -88.088876434521,
+    "matchedAddress": "350 W SCHAUMBURG RD, SCHAUMBURG, IL, 60194"
+  },
+  "2401 Indigo Lane, Glenview, IL 60026": null,
+  "933 W Foster Ave, Chicago, IL 60640": {
+    "lat": 41.976353677764,
+    "lng": -87.653925892867,
+    "matchedAddress": "933 W FOSTER AVE, CHICAGO, IL, 60640"
+  },
+  "5550 South Shore Drive, Chicago, IL 60637": {
+    "lat": 41.793731649167,
+    "lng": -87.580495855627,
+    "matchedAddress": "5550 S SHORE DR, CHICAGO, IL, 60637"
+  },
+  "4021 W Belmont, Chicago, IL 60641": {
+    "lat": 41.939021732313,
+    "lng": -87.728221336828,
+    "matchedAddress": "4021 W BELMONT AVE, CHICAGO, IL, 60641"
+  },
+  "425 Davis St, Evanston, IL 60201": {
+    "lat": 42.045644811521,
+    "lng": -87.677320910857,
+    "matchedAddress": "425 DAVIS ST, EVANSTON, IL, 60201"
+  },
+  "3659 West 99th Street, Chicago, IL 60655": {
+    "lat": 41.713215883683,
+    "lng": -87.714146062839,
+    "matchedAddress": "3659 W 99TH ST, CHICAGO, IL, 60655"
+  },
+  "2320 W 113th Place, Chicago, IL 60643": {
+    "lat": 41.687184401566,
+    "lng": -87.679255260215,
+    "matchedAddress": "2320 W 113TH PL, CHICAGO, IL, 60643"
   }
 }
