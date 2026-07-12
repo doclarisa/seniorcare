@@ -1,11 +1,25 @@
+import { cookies } from "next/headers";
+import { redirect } from "next/navigation";
 import { Container } from "@/components/Container";
 import { prisma } from "@/lib/prisma";
+import { ADMIN_SESSION_COOKIE, isValidAdminSession } from "@/lib/adminAuth";
 import { updateFacility } from "./actions";
 
 export const metadata = { title: "Admin dashboard" };
 export const dynamic = "force-dynamic";
 
 export default async function AdminPage() {
+  // This page renders every facility plus the 25 most recent leads --
+  // families' names, emails, phone numbers, and messages. It must never
+  // render for an unauthenticated request; the write action below
+  // (updateFacility) already checks this, but the page itself previously
+  // didn't, which meant simply visiting the URL exposed that data with no
+  // login required.
+  const store = await cookies();
+  if (!isValidAdminSession(store.get(ADMIN_SESSION_COOKIE)?.value)) {
+    redirect("/admin/login?next=/admin");
+  }
+
   const [facilities, leads] = await Promise.all([
     prisma.facility.findMany({ orderBy: { name: "asc" } }),
     prisma.lead.findMany({

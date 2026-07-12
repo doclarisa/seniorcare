@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { z } from "zod";
 import { Resend } from "resend";
+import { clientIp, rateLimit } from "@/lib/rateLimit";
 
 const schema = z.object({
   name: z.string().min(1),
@@ -10,7 +11,19 @@ const schema = z.object({
 
 const resend = process.env.RESEND_API_KEY ? new Resend(process.env.RESEND_API_KEY) : null;
 
+const SUBMIT_LIMIT = 5;
+const SUBMIT_WINDOW_MS = 10 * 60 * 1000; // 10 minutes
+
 export async function POST(req: NextRequest) {
+  const ip = clientIp(req);
+  const { allowed, retryAfterSeconds } = rateLimit(`contact:${ip}`, SUBMIT_LIMIT, SUBMIT_WINDOW_MS);
+  if (!allowed) {
+    return NextResponse.json(
+      { error: "Too many messages sent. Try again later." },
+      { status: 429, headers: { "Retry-After": String(retryAfterSeconds) } },
+    );
+  }
+
   const body = await req.json().catch(() => null);
   const parsed = schema.safeParse(body);
   if (!parsed.success) {
