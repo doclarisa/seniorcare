@@ -31,7 +31,12 @@ export async function POST(req: NextRequest) {
   }
   const { name, email, message } = parsed.data;
 
-  const siteContact = process.env.SITE_CONTACT_EMAIL;
+  // Hardcoded fallback rather than requiring SITE_CONTACT_EMAIL to be set
+  // correctly in every environment -- the site owner needs contact form
+  // submissions to reliably reach her regardless of whether that env var
+  // is configured in Vercel, so the destination is guaranteed correct at
+  // the code level, with the env var only as an override.
+  const siteContact = process.env.SITE_CONTACT_EMAIL || "larisahuhman@gmail.com";
   if (resend && siteContact) {
     await resend.emails.send({
       from: process.env.LEAD_FROM_EMAIL ?? "site@chicagocareforseniors.com",
