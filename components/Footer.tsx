@@ -1,7 +1,14 @@
+"use client";
+
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { Container } from "./Container";
 
 export function Footer() {
+  const pathname = usePathname();
+
+  if (pathname === "/worksheet" || pathname === "/ebook") return null;
+
   return (
     <footer className="border-t border-slate-200 bg-slate-50">
       <Container className="flex flex-col gap-6 py-10 text-sm text-slate-600 sm:flex-row sm:justify-between">
@@ -30,6 +37,11 @@ export function Footer() {
               <li>
                 <Link href="/guides" className="hover:text-teal-800">
                   Guides
+                </Link>
+              </li>
+              <li>
+                <Link href="/ebook" className="hover:text-teal-800">
+                  Free eBook
                 </Link>
               </li>
               <li>

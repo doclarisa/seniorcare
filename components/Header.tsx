@@ -16,6 +16,8 @@ export function Header() {
   const [open, setOpen] = useState(false);
   const pathname = usePathname();
 
+  if (pathname === "/worksheet" || pathname === "/ebook") return null;
+
   return (
     <header className="sticky top-0 z-40 border-b border-slate-200 bg-white/95 backdrop-blur supports-[backdrop-filter]:bg-white/80">
       <Container className="flex h-16 items-center justify-between">

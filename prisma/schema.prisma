@@ -122,3 +122,13 @@ model Lead {
 
   @@index([facilityId])
 }
+
+// Email-capture leads from standalone lead magnets (e.g. the cost worksheet),
+// not tied to a specific facility -- kept separate from Lead above.
+model WorksheetLead {
+  id        String   @id @default(cuid())
+  email     String   @unique
+  firstName String?
+  source    String   @default("worksheet")
+  createdAt DateTime @default(now())
+}

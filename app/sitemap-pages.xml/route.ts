@@ -10,6 +10,7 @@ const STATIC_PAGES: { path: string; priority: number; changefreq: "weekly" | "mo
   { path: "/contact", priority: 0.3, changefreq: "yearly" },
   { path: "/pricing", priority: 0.4, changefreq: "monthly" },
   { path: "/list-your-facility", priority: 0.4, changefreq: "monthly" },
+  { path: "/ebook", priority: 0.6, changefreq: "monthly" },
 ];
 
 export async function GET() {
