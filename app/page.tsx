@@ -1,15 +1,48 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { Container } from "@/components/Container";
 import { FacilityCard } from "@/components/FacilityCard";
 import { CARE_LEVEL_FILTERS, COUNTIES, getFeaturedFacilities } from "@/lib/facilities";
+import { SITE_URL } from "@/lib/sitemap";
+
+export const metadata: Metadata = {
+  alternates: { canonical: "/" },
+};
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      name: "Chicago Care for Seniors",
+      url: SITE_URL,
+    },
+    {
+      "@type": "WebSite",
+      name: "Chicago Care for Seniors",
+      url: SITE_URL,
+    },
+  ],
+};
 
 export default async function HomePage() {
   const featured = await getFeaturedFacilities(3);
 
   return (
     <div>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+      <section>
+        {/* eslint-disable-next-line @next/next/no-img-element */}
+        <img
+          src="/hero-banner.jpg"
+          alt="Chicago Care for Seniors — directory for assisted living facilities. An older woman using a walker smiles while walking with her daughter along the Chicago lakefront."
+          className="h-auto w-full"
+          width={1800}
+          height={696}
+        />
+      </section>
       <section className="bg-teal-800 text-white">
-        <Container className="py-12 sm:py-16">
+        <Container className="py-10 sm:py-12">
           <h1 className="text-3xl font-extrabold leading-tight sm:text-4xl">
             Find trusted senior care in Chicagoland
           </h1>
